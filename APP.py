@@ -20,13 +20,13 @@ if "session_id" not in st.session_state:
     st.session_state["session_start"] = str(datetime.datetime.now())
 
 
-def log_to_sheet(action, league, home, away):
+def log_to_sheet(action, league="", home="", away=""):
     try:
         sheet = get_gsheet()
         row = [
-            str(datetime.datetime.now()),                   # Time
-            st.session_state["session_id"],                 # Session ID
-            st.session_state["session_start"],              # Session Start
+            str(datetime.datetime.now()),                      # Time
+            st.session_state.get("session_id", ""),            # Session ID
+            st.session_state.get("session_start", ""),         # Session Start
             league,
             home,
             away,
@@ -35,6 +35,7 @@ def log_to_sheet(action, league, home, away):
         sheet.append_row(row)
     except Exception as e:
         st.warning(f"⚠️ Logging failed: {e}")
+
 
 
 st.set_page_config(
@@ -50,9 +51,10 @@ st.image("header1.png", use_container_width=True)
 if "visited_app" not in st.session_state:
     st.session_state.visited_app = True
     try:
-        log_to_sheet("App Opened", "", "", "")
+        log_to_sheet("App Opened")
     except Exception as e:
         st.warning(f"Logging failed: {e}")
+
 
 # Import from league modules
 from leagues.NORWAY import (
