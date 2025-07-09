@@ -1,0 +1,356 @@
+﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res
+Sweden,Allsvenskan,2024,30/03/2024,14:00,Norrkoping,Malmo FF,1,5,A
+Sweden,Allsvenskan,2024,31/03/2024,13:00,GAIS,Brommapojkarna,0,4,A
+Sweden,Allsvenskan,2024,31/03/2024,13:00,Hammarby,Kalmar,3,1,H
+Sweden,Allsvenskan,2024,31/03/2024,15:30,Hacken,Mjallby,0,1,A
+Sweden,Allsvenskan,2024,01/04/2024,13:00,Goteborg,Djurgarden,1,4,A
+Sweden,Allsvenskan,2024,01/04/2024,13:00,Sirius,Halmstad,3,0,H
+Sweden,Allsvenskan,2024,01/04/2024,15:30,AIK,Vasteras SK,1,0,H
+Sweden,Allsvenskan,2024,01/04/2024,15:30,Elfsborg,Varnamo,2,2,D
+Sweden,Allsvenskan,2024,06/04/2024,14:00,Brommapojkarna,AIK,2,2,D
+Sweden,Allsvenskan,2024,06/04/2024,16:30,Mjallby,Norrkoping,3,0,H
+Sweden,Allsvenskan,2024,07/04/2024,13:00,Halmstad,Goteborg,1,0,H
+Sweden,Allsvenskan,2024,07/04/2024,13:00,Malmo FF,Hammarby,2,0,H
+Sweden,Allsvenskan,2024,07/04/2024,15:30,Vasteras SK,Elfsborg,0,1,A
+Sweden,Allsvenskan,2024,08/04/2024,18:00,Kalmar,Sirius,1,2,A
+Sweden,Allsvenskan,2024,08/04/2024,18:00,Varnamo,GAIS,1,2,A
+Sweden,Allsvenskan,2024,08/04/2024,18:10,Djurgarden,Hacken,3,3,D
+Sweden,Allsvenskan,2024,13/04/2024,14:00,Mjallby,AIK,1,1,D
+Sweden,Allsvenskan,2024,13/04/2024,16:30,Vasteras SK,Halmstad,0,1,A
+Sweden,Allsvenskan,2024,14/04/2024,13:00,Kalmar,Goteborg,0,1,A
+Sweden,Allsvenskan,2024,14/04/2024,13:00,Norrkoping,GAIS,1,0,H
+Sweden,Allsvenskan,2024,14/04/2024,15:30,Djurgarden,Sirius,2,0,H
+Sweden,Allsvenskan,2024,15/04/2024,18:00,Hacken,Brommapojkarna,4,3,H
+Sweden,Allsvenskan,2024,15/04/2024,18:00,Varnamo,Malmo FF,0,4,A
+Sweden,Allsvenskan,2024,15/04/2024,18:10,Hammarby,Elfsborg,3,0,H
+Sweden,Allsvenskan,2024,20/04/2024,14:00,Goteborg,Norrkoping,1,1,D
+Sweden,Allsvenskan,2024,20/04/2024,14:00,Sirius,Varnamo,0,1,A
+Sweden,Allsvenskan,2024,20/04/2024,16:30,Malmo FF,Vasteras SK,1,0,H
+Sweden,Allsvenskan,2024,21/04/2024,13:00,AIK,Djurgarden,2,0,H
+Sweden,Allsvenskan,2024,21/04/2024,13:00,GAIS,Mjallby,2,1,H
+Sweden,Allsvenskan,2024,21/04/2024,15:30,Hacken,Hammarby,2,1,H
+Sweden,Allsvenskan,2024,21/04/2024,15:30,Halmstad,Brommapojkarna,0,2,A
+Sweden,Allsvenskan,2024,22/04/2024,18:00,Elfsborg,Kalmar,1,2,A
+Sweden,Allsvenskan,2024,24/04/2024,18:00,AIK,Varnamo,2,0,H
+Sweden,Allsvenskan,2024,24/04/2024,18:00,Brommapojkarna,Sirius,1,1,D
+Sweden,Allsvenskan,2024,24/04/2024,18:00,Goteborg,Hacken,0,1,A
+Sweden,Allsvenskan,2024,25/04/2024,18:00,Djurgarden,Malmo FF,0,1,A
+Sweden,Allsvenskan,2024,25/04/2024,18:00,Halmstad,Hammarby,2,1,H
+Sweden,Allsvenskan,2024,25/04/2024,18:00,Kalmar,GAIS,2,3,A
+Sweden,Allsvenskan,2024,25/04/2024,18:00,Norrkoping,Elfsborg,4,2,H
+Sweden,Allsvenskan,2024,25/04/2024,18:00,Vasteras SK,Mjallby,2,1,H
+Sweden,Allsvenskan,2024,28/04/2024,13:00,Malmo FF,AIK,5,0,H
+Sweden,Allsvenskan,2024,28/04/2024,13:00,Varnamo,Halmstad,1,3,A
+Sweden,Allsvenskan,2024,28/04/2024,15:30,Djurgarden,GAIS,1,0,H
+Sweden,Allsvenskan,2024,28/04/2024,15:30,Hacken,Norrkoping,1,2,A
+Sweden,Allsvenskan,2024,29/04/2024,18:00,Brommapojkarna,Goteborg,0,3,A
+Sweden,Allsvenskan,2024,29/04/2024,18:00,Elfsborg,Sirius,2,0,H
+Sweden,Allsvenskan,2024,29/04/2024,18:00,Mjallby,Kalmar,3,2,H
+Sweden,Allsvenskan,2024,29/04/2024,18:10,Hammarby,Vasteras SK,2,1,H
+Sweden,Allsvenskan,2024,04/05/2024,14:00,Kalmar,Halmstad,5,2,H
+Sweden,Allsvenskan,2024,04/05/2024,14:00,Mjallby,Brommapojkarna,1,1,D
+Sweden,Allsvenskan,2024,04/05/2024,16:30,Sirius,Hacken,0,3,A
+Sweden,Allsvenskan,2024,05/05/2024,13:00,Elfsborg,Malmo FF,3,1,H
+Sweden,Allsvenskan,2024,05/05/2024,13:00,Vasteras SK,Djurgarden,0,2,A
+Sweden,Allsvenskan,2024,05/05/2024,15:30,AIK,Norrkoping,6,2,H
+Sweden,Allsvenskan,2024,05/05/2024,15:30,Hammarby,Varnamo,1,2,A
+Sweden,Allsvenskan,2024,06/05/2024,18:10,GAIS,Goteborg,2,1,H
+Sweden,Allsvenskan,2024,11/05/2024,14:00,AIK,Sirius,1,3,A
+Sweden,Allsvenskan,2024,11/05/2024,14:00,Halmstad,Mjallby,1,3,A
+Sweden,Allsvenskan,2024,11/05/2024,16:30,GAIS,Vasteras SK,2,0,H
+Sweden,Allsvenskan,2024,12/05/2024,13:00,Hacken,Kalmar,3,1,H
+Sweden,Allsvenskan,2024,12/05/2024,13:00,Norrkoping,Hammarby,1,2,A
+Sweden,Allsvenskan,2024,12/05/2024,15:30,Djurgarden,Elfsborg,2,0,H
+Sweden,Allsvenskan,2024,12/05/2024,15:30,Varnamo,Brommapojkarna,1,1,D
+Sweden,Allsvenskan,2024,13/05/2024,18:10,Goteborg,Malmo FF,0,3,A
+Sweden,Allsvenskan,2024,15/05/2024,18:00,Elfsborg,AIK,6,1,H
+Sweden,Allsvenskan,2024,15/05/2024,18:00,Halmstad,Hacken,3,0,H
+Sweden,Allsvenskan,2024,15/05/2024,18:00,Mjallby,Hammarby,3,0,H
+Sweden,Allsvenskan,2024,15/05/2024,18:00,Vasteras SK,Varnamo,0,2,A
+Sweden,Allsvenskan,2024,16/05/2024,18:00,Brommapojkarna,Djurgarden,0,5,A
+Sweden,Allsvenskan,2024,16/05/2024,18:00,Kalmar,Norrkoping,1,1,D
+Sweden,Allsvenskan,2024,16/05/2024,18:00,Malmo FF,GAIS,1,0,H
+Sweden,Allsvenskan,2024,16/05/2024,18:00,Sirius,Goteborg,2,2,D
+Sweden,Allsvenskan,2024,19/05/2024,13:00,Brommapojkarna,Norrkoping,2,1,H
+Sweden,Allsvenskan,2024,19/05/2024,13:00,Hammarby,AIK,2,1,H
+Sweden,Allsvenskan,2024,19/05/2024,15:30,GAIS,Elfsborg,2,1,H
+Sweden,Allsvenskan,2024,19/05/2024,15:30,Varnamo,Kalmar,0,2,A
+Sweden,Allsvenskan,2024,20/05/2024,18:00,Djurgarden,Halmstad,2,0,H
+Sweden,Allsvenskan,2024,20/05/2024,18:00,Sirius,Vasteras SK,0,0,D
+Sweden,Allsvenskan,2024,20/05/2024,18:10,Hacken,Malmo FF,2,2,D
+Sweden,Allsvenskan,2024,21/05/2024,18:00,Goteborg,Mjallby,1,0,H
+Sweden,Allsvenskan,2024,24/05/2024,18:00,Elfsborg,Halmstad,2,0,H
+Sweden,Allsvenskan,2024,24/05/2024,18:00,Malmo FF,Kalmar,5,0,H
+Sweden,Allsvenskan,2024,25/05/2024,15:00,GAIS,Hacken,3,0,H
+Sweden,Allsvenskan,2024,25/05/2024,16:30,Mjallby,Djurgarden,1,3,A
+Sweden,Allsvenskan,2024,26/05/2024,13:00,Hammarby,Sirius,3,0,H
+Sweden,Allsvenskan,2024,26/05/2024,15:30,Vasteras SK,Brommapojkarna,1,1,D
+Sweden,Allsvenskan,2024,27/05/2024,18:00,Norrkoping,Varnamo,0,4,A
+Sweden,Allsvenskan,2024,27/05/2024,18:10,AIK,Goteborg,5,2,H
+Sweden,Allsvenskan,2024,28/05/2024,18:00,Malmo FF,Elfsborg,2,1,H
+Sweden,Allsvenskan,2024,29/05/2024,18:00,Mjallby,Hacken,2,1,H
+Sweden,Allsvenskan,2024,01/06/2024,14:00,Brommapojkarna,Malmo FF,2,2,D
+Sweden,Allsvenskan,2024,01/06/2024,14:00,Goteborg,Elfsborg,1,0,H
+Sweden,Allsvenskan,2024,01/06/2024,16:30,Halmstad,GAIS,4,0,H
+Sweden,Allsvenskan,2024,01/06/2024,16:30,Sirius,Norrkoping,5,1,H
+Sweden,Allsvenskan,2024,02/06/2024,13:00,Djurgarden,Hammarby,0,3,A
+Sweden,Allsvenskan,2024,02/06/2024,13:00,Kalmar,Vasteras SK,0,4,A
+Sweden,Allsvenskan,2024,02/06/2024,15:30,Hacken,AIK,4,1,H
+Sweden,Allsvenskan,2024,02/06/2024,15:30,Varnamo,Mjallby,1,2,A
+Sweden,Allsvenskan,2024,06/07/2024,14:00,Elfsborg,Brommapojkarna,3,0,H
+Sweden,Allsvenskan,2024,06/07/2024,14:00,Mjallby,Sirius,3,2,H
+Sweden,Allsvenskan,2024,07/07/2024,13:00,AIK,Kalmar,1,2,A
+Sweden,Allsvenskan,2024,07/07/2024,13:00,Varnamo,Goteborg,2,0,H
+Sweden,Allsvenskan,2024,07/07/2024,15:30,GAIS,Hammarby,0,0,D
+Sweden,Allsvenskan,2024,07/07/2024,15:30,Malmo FF,Halmstad,5,1,H
+Sweden,Allsvenskan,2024,08/07/2024,18:00,Norrkoping,Djurgarden,1,3,A
+Sweden,Allsvenskan,2024,08/07/2024,18:00,Vasteras SK,Hacken,1,2,A
+Sweden,Allsvenskan,2024,13/07/2024,14:00,Mjallby,Malmo FF,2,1,H
+Sweden,Allsvenskan,2024,13/07/2024,16:30,Sirius,GAIS,3,1,H
+Sweden,Allsvenskan,2024,14/07/2024,13:00,Djurgarden,Varnamo,1,0,H
+Sweden,Allsvenskan,2024,14/07/2024,15:30,Hacken,Elfsborg,3,5,A
+Sweden,Allsvenskan,2024,14/07/2024,15:30,Kalmar,Brommapojkarna,0,1,A
+Sweden,Allsvenskan,2024,14/07/2024,15:30,Vasteras SK,Norrkoping,2,1,H
+Sweden,Allsvenskan,2024,15/07/2024,18:00,Halmstad,AIK,1,2,A
+Sweden,Allsvenskan,2024,15/07/2024,18:00,Hammarby,Goteborg,0,1,A
+Sweden,Allsvenskan,2024,19/07/2024,18:00,Sirius,Malmo FF,3,4,A
+Sweden,Allsvenskan,2024,20/07/2024,14:00,Kalmar,Djurgarden,2,1,H
+Sweden,Allsvenskan,2024,20/07/2024,14:00,Varnamo,Hacken,2,2,D
+Sweden,Allsvenskan,2024,20/07/2024,16:30,Brommapojkarna,Hammarby,0,2,A
+Sweden,Allsvenskan,2024,21/07/2024,13:00,Norrkoping,Halmstad,1,0,H
+Sweden,Allsvenskan,2024,21/07/2024,15:30,Elfsborg,Mjallby,3,1,H
+Sweden,Allsvenskan,2024,21/07/2024,15:30,Goteborg,Vasteras SK,1,1,D
+Sweden,Allsvenskan,2024,22/07/2024,18:00,GAIS,AIK,2,0,H
+Sweden,Allsvenskan,2024,27/07/2024,14:00,Norrkoping,Kalmar,2,0,H
+Sweden,Allsvenskan,2024,27/07/2024,16:30,Goteborg,Brommapojkarna,3,4,A
+Sweden,Allsvenskan,2024,27/07/2024,16:30,Malmo FF,Sirius,0,1,A
+Sweden,Allsvenskan,2024,27/07/2024,19:00,Halmstad,Varnamo,1,0,H
+Sweden,Allsvenskan,2024,28/07/2024,15:30,Elfsborg,Djurgarden,1,2,A
+Sweden,Allsvenskan,2024,28/07/2024,15:30,Hacken,Vasteras SK,4,0,H
+Sweden,Allsvenskan,2024,28/07/2024,15:30,Hammarby,Mjallby,3,0,H
+Sweden,Allsvenskan,2024,29/07/2024,18:00,AIK,GAIS,0,1,A
+Sweden,Allsvenskan,2024,03/08/2024,14:00,GAIS,Norrkoping,0,1,A
+Sweden,Allsvenskan,2024,03/08/2024,14:00,Vasteras SK,AIK,1,2,A
+Sweden,Allsvenskan,2024,03/08/2024,16:30,Brommapojkarna,Halmstad,4,1,H
+Sweden,Allsvenskan,2024,04/08/2024,13:00,Djurgarden,Goteborg,1,1,D
+Sweden,Allsvenskan,2024,04/08/2024,13:00,Varnamo,Sirius,2,4,A
+Sweden,Allsvenskan,2024,04/08/2024,15:30,Kalmar,Hammarby,1,4,A
+Sweden,Allsvenskan,2024,10/08/2024,14:00,Halmstad,Malmo FF,0,1,A
+Sweden,Allsvenskan,2024,10/08/2024,14:00,Norrkoping,Vasteras SK,2,1,H
+Sweden,Allsvenskan,2024,10/08/2024,16:30,Goteborg,Varnamo,0,0,D
+Sweden,Allsvenskan,2024,11/08/2024,15:00,AIK,Mjallby,1,0,H
+Sweden,Allsvenskan,2024,11/08/2024,15:00,Elfsborg,GAIS,2,1,H
+Sweden,Allsvenskan,2024,11/08/2024,15:00,Sirius,Kalmar,3,1,H
+Sweden,Allsvenskan,2024,12/08/2024,18:00,Hammarby,Brommapojkarna,3,3,D
+Sweden,Allsvenskan,2024,17/08/2024,14:00,Goteborg,Sirius,1,1,D
+Sweden,Allsvenskan,2024,17/08/2024,14:00,Malmo FF,Norrkoping,2,1,H
+Sweden,Allsvenskan,2024,17/08/2024,14:00,Varnamo,Hammarby,0,3,A
+Sweden,Allsvenskan,2024,17/08/2024,16:30,Vasteras SK,Kalmar,2,1,H
+Sweden,Allsvenskan,2024,18/08/2024,13:00,Brommapojkarna,Hacken,1,3,A
+Sweden,Allsvenskan,2024,18/08/2024,13:00,Djurgarden,AIK,0,2,A
+Sweden,Allsvenskan,2024,18/08/2024,13:00,Mjallby,Elfsborg,1,1,D
+Sweden,Allsvenskan,2024,18/08/2024,15:30,GAIS,Halmstad,3,1,H
+Sweden,Allsvenskan,2024,24/08/2024,14:00,Kalmar,Malmo FF,2,2,D
+Sweden,Allsvenskan,2024,25/08/2024,13:00,Elfsborg,Goteborg,3,1,H
+Sweden,Allsvenskan,2024,25/08/2024,13:00,Sirius,Djurgarden,0,1,A
+Sweden,Allsvenskan,2024,25/08/2024,15:30,AIK,Brommapojkarna,2,1,H
+Sweden,Allsvenskan,2024,25/08/2024,15:30,Hacken,Varnamo,1,1,D
+Sweden,Allsvenskan,2024,26/08/2024,18:00,Halmstad,Vasteras SK,0,1,A
+Sweden,Allsvenskan,2024,26/08/2024,18:00,Hammarby,GAIS,0,0,D
+Sweden,Allsvenskan,2024,26/08/2024,18:00,Norrkoping,Mjallby,1,2,A
+Sweden,Allsvenskan,2024,31/08/2024,14:00,GAIS,Kalmar,1,1,D
+Sweden,Allsvenskan,2024,31/08/2024,14:00,Varnamo,AIK,0,1,A
+Sweden,Allsvenskan,2024,31/08/2024,16:30,Mjallby,Halmstad,3,1,H
+Sweden,Allsvenskan,2024,31/08/2024,16:30,Vasteras SK,Sirius,1,2,A
+Sweden,Allsvenskan,2024,01/09/2024,13:00,Brommapojkarna,Elfsborg,3,3,D
+Sweden,Allsvenskan,2024,01/09/2024,13:00,Malmo FF,Djurgarden,4,0,H
+Sweden,Allsvenskan,2024,01/09/2024,15:30,Goteborg,Hammarby,0,1,A
+Sweden,Allsvenskan,2024,01/09/2024,15:30,Norrkoping,Hacken,3,3,D
+Sweden,Allsvenskan,2024,14/09/2024,14:00,Vasteras SK,GAIS,2,3,A
+Sweden,Allsvenskan,2024,15/09/2024,13:00,AIK,Malmo FF,0,0,D
+Sweden,Allsvenskan,2024,15/09/2024,13:00,Djurgarden,Mjallby,1,1,D
+Sweden,Allsvenskan,2024,15/09/2024,13:00,Sirius,Brommapojkarna,3,2,H
+Sweden,Allsvenskan,2024,15/09/2024,15:30,Hacken,Goteborg,3,3,D
+Sweden,Allsvenskan,2024,15/09/2024,15:30,Halmstad,Elfsborg,0,1,A
+Sweden,Allsvenskan,2024,15/09/2024,15:30,Kalmar,Varnamo,3,1,H
+Sweden,Allsvenskan,2024,16/09/2024,18:10,Hammarby,Norrkoping,1,1,D
+Sweden,Allsvenskan,2024,18/09/2024,18:00,GAIS,Malmo FF,0,0,D
+Sweden,Allsvenskan,2024,19/09/2024,18:00,Elfsborg,Norrkoping,2,2,D
+Sweden,Allsvenskan,2024,19/09/2024,18:00,Hacken,Djurgarden,1,2,A
+Sweden,Allsvenskan,2024,21/09/2024,14:00,Kalmar,AIK,0,1,A
+Sweden,Allsvenskan,2024,21/09/2024,16:30,Brommapojkarna,Mjallby,0,0,D
+Sweden,Allsvenskan,2024,22/09/2024,13:00,Elfsborg,Hammarby,0,0,D
+Sweden,Allsvenskan,2024,22/09/2024,13:00,GAIS,Djurgarden,3,0,H
+Sweden,Allsvenskan,2024,22/09/2024,13:00,Varnamo,Vasteras SK,2,0,H
+Sweden,Allsvenskan,2024,22/09/2024,15:30,Malmo FF,Hacken,4,0,H
+Sweden,Allsvenskan,2024,23/09/2024,18:00,Goteborg,Halmstad,1,1,D
+Sweden,Allsvenskan,2024,25/09/2024,18:00,Djurgarden,Brommapojkarna,2,1,H
+Sweden,Allsvenskan,2024,25/09/2024,18:00,Mjallby,Varnamo,1,1,D
+Sweden,Allsvenskan,2024,25/09/2024,18:00,Sirius,AIK,0,1,A
+Sweden,Allsvenskan,2024,26/09/2024,18:00,Halmstad,Kalmar,2,2,D
+Sweden,Allsvenskan,2024,26/09/2024,18:00,Hammarby,Hacken,2,0,H
+Sweden,Allsvenskan,2024,26/09/2024,18:00,Vasteras SK,Goteborg,1,1,D
+Sweden,Allsvenskan,2024,29/09/2024,13:00,AIK,Hammarby,1,0,H
+Sweden,Allsvenskan,2024,29/09/2024,13:00,Halmstad,Norrkoping,0,0,D
+Sweden,Allsvenskan,2024,29/09/2024,13:00,Varnamo,Djurgarden,1,1,D
+Sweden,Allsvenskan,2024,29/09/2024,15:30,Hacken,Sirius,2,0,H
+Sweden,Allsvenskan,2024,29/09/2024,15:30,Kalmar,Elfsborg,1,3,A
+Sweden,Allsvenskan,2024,29/09/2024,15:30,Malmo FF,Mjallby,2,0,H
+Sweden,Allsvenskan,2024,30/09/2024,18:00,Brommapojkarna,Vasteras SK,2,1,H
+Sweden,Allsvenskan,2024,30/09/2024,18:10,Goteborg,GAIS,2,0,H
+Sweden,Allsvenskan,2024,03/10/2024,18:00,Norrkoping,Sirius,0,2,A
+Sweden,Allsvenskan,2024,05/10/2024,14:00,Hammarby,Halmstad,1,0,H
+Sweden,Allsvenskan,2024,05/10/2024,14:00,Mjallby,Vasteras SK,2,1,H
+Sweden,Allsvenskan,2024,05/10/2024,16:30,Brommapojkarna,GAIS,2,0,H
+Sweden,Allsvenskan,2024,06/10/2024,13:00,AIK,Hacken,0,2,A
+Sweden,Allsvenskan,2024,06/10/2024,13:00,Djurgarden,Kalmar,1,1,D
+Sweden,Allsvenskan,2024,06/10/2024,15:30,Malmo FF,Varnamo,1,1,D
+Sweden,Allsvenskan,2024,06/10/2024,15:30,Norrkoping,Goteborg,0,2,A
+Sweden,Allsvenskan,2024,06/10/2024,15:30,Sirius,Elfsborg,4,1,H
+Sweden,Allsvenskan,2024,19/10/2024,14:00,Elfsborg,Hacken,1,3,A
+Sweden,Allsvenskan,2024,19/10/2024,14:00,Vasteras SK,Malmo FF,1,1,D
+Sweden,Allsvenskan,2024,19/10/2024,16:30,Halmstad,Sirius,3,1,H
+Sweden,Allsvenskan,2024,20/10/2024,13:00,Kalmar,Mjallby,0,3,A
+Sweden,Allsvenskan,2024,20/10/2024,15:30,GAIS,Varnamo,0,0,D
+Sweden,Allsvenskan,2024,21/10/2024,13:00,Hammarby,Djurgarden,2,0,H
+Sweden,Allsvenskan,2024,21/10/2024,18:00,Norrkoping,Brommapojkarna,1,1,D
+Sweden,Allsvenskan,2024,21/10/2024,18:10,Goteborg,AIK,1,2,A
+Sweden,Allsvenskan,2024,26/10/2024,14:00,Mjallby,GAIS,1,1,D
+Sweden,Allsvenskan,2024,26/10/2024,14:00,Sirius,Hammarby,0,3,A
+Sweden,Allsvenskan,2024,26/10/2024,16:30,Brommapojkarna,Kalmar,1,2,A
+Sweden,Allsvenskan,2024,27/10/2024,13:00,AIK,Elfsborg,2,1,H
+Sweden,Allsvenskan,2024,27/10/2024,13:00,Varnamo,Norrkoping,1,2,A
+Sweden,Allsvenskan,2024,27/10/2024,15:30,Hacken,Halmstad,0,1,A
+Sweden,Allsvenskan,2024,28/10/2024,18:00,Djurgarden,Vasteras SK,2,1,H
+Sweden,Allsvenskan,2024,28/10/2024,18:10,Malmo FF,Goteborg,2,1,H
+Sweden,Allsvenskan,2024,02/11/2024,14:00,Elfsborg,Vasteras SK,1,0,H
+Sweden,Allsvenskan,2024,02/11/2024,14:00,Hammarby,Malmo FF,2,2,D
+Sweden,Allsvenskan,2024,02/11/2024,16:30,Goteborg,Kalmar,1,1,D
+Sweden,Allsvenskan,2024,03/11/2024,13:00,Brommapojkarna,Varnamo,0,1,A
+Sweden,Allsvenskan,2024,03/11/2024,13:00,Hacken,GAIS,1,2,A
+Sweden,Allsvenskan,2024,03/11/2024,15:30,Halmstad,Djurgarden,1,0,H
+Sweden,Allsvenskan,2024,03/11/2024,15:30,Sirius,Mjallby,1,1,D
+Sweden,Allsvenskan,2024,04/11/2024,18:10,Norrkoping,AIK,1,0,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,AIK,Halmstad,5,1,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Djurgarden,Norrkoping,3,1,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,GAIS,Sirius,2,1,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Kalmar,Hacken,1,0,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Malmo FF,Brommapojkarna,2,1,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Mjallby,Goteborg,1,0,H
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Varnamo,Elfsborg,0,0,D
+Sweden,Allsvenskan,2024,10/11/2024,14:00,Vasteras SK,Hammarby,1,0,H
+Sweden,Allsvenskan,2024,21/11/2024,18:00,Landskrona,Varnamo,2,2,D
+Sweden,Allsvenskan,2024,24/11/2024,14:00,Varnamo,Landskrona,1,0,H
+Sweden,Allsvenskan,2025,29/03/2025,14:00,Djurgarden,Malmo FF,0,1,A
+Sweden,Allsvenskan,2025,29/03/2025,16:30,Hacken,Brommapojkarna,2,0,H
+Sweden,Allsvenskan,2025,30/03/2025,13:00,Elfsborg,Mjallby,2,2,D
+Sweden,Allsvenskan,2025,30/03/2025,13:00,Hammarby,Goteborg,4,0,H
+Sweden,Allsvenskan,2025,30/03/2025,15:30,Halmstad,Degerfors,0,5,A
+Sweden,Allsvenskan,2025,30/03/2025,15:30,Norrkoping,Oster,4,3,H
+Sweden,Allsvenskan,2025,31/03/2025,18:00,Varnamo,Sirius,1,2,A
+Sweden,Allsvenskan,2025,31/03/2025,18:10,GAIS,AIK,0,1,A
+Sweden,Allsvenskan,2025,05/04/2025,14:00,Goteborg,Halmstad,1,0,H
+Sweden,Allsvenskan,2025,05/04/2025,14:00,Sirius,Djurgarden,0,1,A
+Sweden,Allsvenskan,2025,05/04/2025,16:30,Oster,Hacken,2,0,H
+Sweden,Allsvenskan,2025,06/04/2025,13:00,AIK,Norrkoping,4,3,H
+Sweden,Allsvenskan,2025,06/04/2025,13:00,Brommapojkarna,Hammarby,0,2,A
+Sweden,Allsvenskan,2025,06/04/2025,15:30,Degerfors,Varnamo,1,0,H
+Sweden,Allsvenskan,2025,06/04/2025,15:30,Mjallby,GAIS,1,1,D
+Sweden,Allsvenskan,2025,07/04/2025,18:10,Malmo FF,Elfsborg,2,1,H
+Sweden,Allsvenskan,2025,12/04/2025,14:00,Hacken,Mjallby,0,3,A
+Sweden,Allsvenskan,2025,12/04/2025,16:30,Elfsborg,Norrkoping,2,0,H
+Sweden,Allsvenskan,2025,13/04/2025,13:00,Hammarby,Djurgarden,2,0,H
+Sweden,Allsvenskan,2025,13/04/2025,13:00,Varnamo,Goteborg,0,1,A
+Sweden,Allsvenskan,2025,13/04/2025,15:30,GAIS,Degerfors,2,0,H
+Sweden,Allsvenskan,2025,13/04/2025,15:30,Sirius,Brommapojkarna,0,3,A
+Sweden,Allsvenskan,2025,14/04/2025,18:00,Halmstad,Oster,1,0,H
+Sweden,Allsvenskan,2025,14/04/2025,18:10,AIK,Malmo FF,0,0,D
+Sweden,Allsvenskan,2025,18/04/2025,14:00,Malmo FF,Sirius,1,1,D
+Sweden,Allsvenskan,2025,18/04/2025,14:00,Mjallby,Hammarby,3,1,H
+Sweden,Allsvenskan,2025,19/04/2025,14:00,Degerfors,Elfsborg,0,1,A
+Sweden,Allsvenskan,2025,19/04/2025,14:00,Norrkoping,Halmstad,3,0,H
+Sweden,Allsvenskan,2025,20/04/2025,13:00,Brommapojkarna,Varnamo,3,2,H
+Sweden,Allsvenskan,2025,20/04/2025,13:00,Oster,AIK,0,1,A
+Sweden,Allsvenskan,2025,20/04/2025,15:30,Goteborg,Hacken,2,3,A
+Sweden,Allsvenskan,2025,21/04/2025,13:00,Djurgarden,GAIS,0,0,D
+Sweden,Allsvenskan,2025,23/04/2025,18:00,Elfsborg,Sirius,4,3,H
+Sweden,Allsvenskan,2025,23/04/2025,18:00,Hacken,Degerfors,3,4,A
+Sweden,Allsvenskan,2025,23/04/2025,18:00,Halmstad,Mjallby,1,3,A
+Sweden,Allsvenskan,2025,23/04/2025,18:00,Hammarby,Malmo FF,2,0,H
+Sweden,Allsvenskan,2025,24/04/2025,18:00,Djurgarden,Oster,1,0,H
+Sweden,Allsvenskan,2025,24/04/2025,18:00,GAIS,Brommapojkarna,1,1,D
+Sweden,Allsvenskan,2025,24/04/2025,18:00,Norrkoping,Goteborg,2,3,A
+Sweden,Allsvenskan,2025,24/04/2025,18:00,Varnamo,AIK,1,2,A
+Sweden,Allsvenskan,2025,27/04/2025,13:00,Hacken,Hammarby,1,1,D
+Sweden,Allsvenskan,2025,27/04/2025,13:00,Mjallby,Degerfors,4,1,H
+Sweden,Allsvenskan,2025,27/04/2025,15:00,AIK,Elfsborg,2,0,H
+Sweden,Allsvenskan,2025,27/04/2025,15:30,Sirius,Halmstad,1,1,D
+Sweden,Allsvenskan,2025,27/04/2025,15:30,Varnamo,Norrkoping,1,3,A
+Sweden,Allsvenskan,2025,28/04/2025,18:10,Goteborg,GAIS,1,1,D
+Sweden,Allsvenskan,2025,29/04/2025,18:00,Malmo FF,Oster,2,0,H
+Sweden,Allsvenskan,2025,03/05/2025,14:00,Degerfors,Sirius,1,1,D
+Sweden,Allsvenskan,2025,03/05/2025,16:30,Halmstad,Varnamo,4,2,H
+Sweden,Allsvenskan,2025,04/05/2025,13:00,Djurgarden,AIK,1,1,D
+Sweden,Allsvenskan,2025,04/05/2025,13:00,Norrkoping,Hacken,0,2,A
+Sweden,Allsvenskan,2025,04/05/2025,15:30,Mjallby,Goteborg,1,0,H
+Sweden,Allsvenskan,2025,04/05/2025,15:30,Oster,Hammarby,0,3,A
+Sweden,Allsvenskan,2025,05/05/2025,18:00,Malmo FF,Brommapojkarna,1,2,A
+Sweden,Allsvenskan,2025,05/05/2025,18:10,Elfsborg,GAIS,2,0,H
+Sweden,Allsvenskan,2025,10/05/2025,14:00,Brommapojkarna,Halmstad,0,1,A
+Sweden,Allsvenskan,2025,10/05/2025,16:30,GAIS,Varnamo,1,1,D
+Sweden,Allsvenskan,2025,10/05/2025,16:30,Sirius,Hacken,2,0,H
+Sweden,Allsvenskan,2025,11/05/2025,13:00,AIK,Mjallby,2,1,H
+Sweden,Allsvenskan,2025,11/05/2025,13:00,Hammarby,Norrkoping,1,1,D
+Sweden,Allsvenskan,2025,11/05/2025,15:30,Degerfors,Malmo FF,1,4,A
+Sweden,Allsvenskan,2025,11/05/2025,15:30,Oster,Elfsborg,0,1,A
+Sweden,Allsvenskan,2025,12/05/2025,18:10,Goteborg,Djurgarden,1,2,A
+Sweden,Allsvenskan,2025,14/05/2025,18:00,Hacken,AIK,3,3,D
+Sweden,Allsvenskan,2025,14/05/2025,18:00,Halmstad,GAIS,1,3,A
+Sweden,Allsvenskan,2025,14/05/2025,18:00,Hammarby,Sirius,3,2,H
+Sweden,Allsvenskan,2025,15/05/2025,18:00,Djurgarden,Mjallby,1,3,A
+Sweden,Allsvenskan,2025,15/05/2025,18:00,Elfsborg,Brommapojkarna,4,3,H
+Sweden,Allsvenskan,2025,15/05/2025,18:00,Goteborg,Oster,0,1,A
+Sweden,Allsvenskan,2025,15/05/2025,18:00,Norrkoping,Degerfors,1,2,A
+Sweden,Allsvenskan,2025,15/05/2025,18:00,Varnamo,Malmo FF,2,2,D
+Sweden,Allsvenskan,2025,18/05/2025,13:00,AIK,Hammarby,0,0,D
+Sweden,Allsvenskan,2025,18/05/2025,13:00,Hacken,Varnamo,2,0,H
+Sweden,Allsvenskan,2025,18/05/2025,15:30,Malmo FF,Halmstad,3,0,H
+Sweden,Allsvenskan,2025,18/05/2025,15:30,Oster,GAIS,1,1,D
+Sweden,Allsvenskan,2025,19/05/2025,18:00,Degerfors,Goteborg,1,3,A
+Sweden,Allsvenskan,2025,19/05/2025,18:00,Mjallby,Brommapojkarna,1,0,H
+Sweden,Allsvenskan,2025,19/05/2025,18:00,Sirius,Norrkoping,1,2,A
+Sweden,Allsvenskan,2025,19/05/2025,18:10,Elfsborg,Djurgarden,4,0,H
+Sweden,Allsvenskan,2025,22/05/2025,18:00,Hammarby,Mjallby,1,2,A
+Sweden,Allsvenskan,2025,22/05/2025,18:00,Malmo FF,AIK,0,0,D
+Sweden,Allsvenskan,2025,24/05/2025,14:00,Varnamo,Oster,1,1,D
+Sweden,Allsvenskan,2025,24/05/2025,16:30,GAIS,Sirius,2,1,H
+Sweden,Allsvenskan,2025,25/05/2025,13:00,Goteborg,Malmo FF,1,0,H
+Sweden,Allsvenskan,2025,25/05/2025,13:00,Halmstad,Elfsborg,1,4,A
+Sweden,Allsvenskan,2025,25/05/2025,15:30,Brommapojkarna,AIK,0,1,A
+Sweden,Allsvenskan,2025,25/05/2025,15:30,Djurgarden,Hacken,1,1,D
+Sweden,Allsvenskan,2025,26/05/2025,18:00,Norrkoping,Mjallby,1,1,D
+Sweden,Allsvenskan,2025,26/05/2025,18:10,Hammarby,Degerfors,1,0,H
+Sweden,Allsvenskan,2025,29/05/2025,17:00,Brommapojkarna,Djurgarden,0,1,A
+Sweden,Allsvenskan,2025,31/05/2025,14:00,Degerfors,Oster,1,2,A
+Sweden,Allsvenskan,2025,31/05/2025,14:00,Elfsborg,Hammarby,0,2,A
+Sweden,Allsvenskan,2025,31/05/2025,14:00,Norrkoping,GAIS,0,3,A
+Sweden,Allsvenskan,2025,01/06/2025,13:00,Brommapojkarna,Goteborg,1,3,A
+Sweden,Allsvenskan,2025,01/06/2025,13:00,Halmstad,Djurgarden,1,0,H
+Sweden,Allsvenskan,2025,01/06/2025,13:00,Malmo FF,Hacken,3,0,H
+Sweden,Allsvenskan,2025,01/06/2025,15:30,Mjallby,Varnamo,2,0,H
+Sweden,Allsvenskan,2025,01/06/2025,15:30,Sirius,AIK,3,1,H
+Sweden,Allsvenskan,2025,28/06/2025,14:00,Hammarby,Halmstad,2,0,H
+Sweden,Allsvenskan,2025,28/06/2025,16:30,Oster,Sirius,2,2,D
+Sweden,Allsvenskan,2025,29/06/2025,13:00,AIK,Goteborg,3,0,H
+Sweden,Allsvenskan,2025,29/06/2025,13:00,Degerfors,Brommapojkarna,0,3,A
+Sweden,Allsvenskan,2025,29/06/2025,15:30,Hacken,GAIS,1,3,A
+Sweden,Allsvenskan,2025,29/06/2025,15:30,Varnamo,Elfsborg,0,0,D
+Sweden,Allsvenskan,2025,30/06/2025,18:00,Djurgarden,Norrkoping,1,1,D
+Sweden,Allsvenskan,2025,30/06/2025,18:00,Mjallby,Malmo FF,1,1,D
+Sweden,Allsvenskan,2025,05/07/2025,19:00,GAIS,Malmo FF,0,0,D
+Sweden,Allsvenskan,2025,05/07/2025,20:00,Oster,Mjallby,0,1,A
+Sweden,Allsvenskan,2025,05/07/2025,21:00,Hammarby,Varnamo,1,0,H
+Sweden,Allsvenskan,2025,06/07/2025,22:00,Halmstad,AIK,2,0,H
+Sweden,Allsvenskan,2025,06/07/2025,23:00,Goteborg,Sirius,3,1,H
+Sweden,Allsvenskan,2025,06/07/2025,00:00,Djurgarden,Degerfors,5,1,H
+Sweden,Allsvenskan,2025,06/07/2025,01:00,Elfsborg,Hacken,0,2,A

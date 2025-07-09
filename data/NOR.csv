@@ -1,0 +1,343 @@
+﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res
+Norway,Eliteserien,2024,31/03/2024,17:00,Odd,Haugesund,1,2,A
+Norway,Eliteserien,2024,01/04/2024,13:30,Fredrikstad,Bodo/Glimt,0,2,A
+Norway,Eliteserien,2024,01/04/2024,16:00,Lillestrom,Kristiansund,2,3,A
+Norway,Eliteserien,2024,01/04/2024,16:00,Molde,Stromsgodset,4,0,H
+Norway,Eliteserien,2024,01/04/2024,16:00,Rosenborg,Sandefjord,2,0,H
+Norway,Eliteserien,2024,01/04/2024,16:00,Tromso,Brann,2,4,A
+Norway,Eliteserien,2024,01/04/2024,18:15,Viking,Sarpsborg 08,1,0,H
+Norway,Eliteserien,2024,02/04/2024,18:00,KFUM Oslo,HamKam,1,1,D
+Norway,Eliteserien,2024,06/04/2024,17:00,Bodo/Glimt,Viking,1,0,H
+Norway,Eliteserien,2024,07/04/2024,13:30,Kristiansund,KFUM Oslo,1,1,D
+Norway,Eliteserien,2024,07/04/2024,16:00,HamKam,Molde,0,1,A
+Norway,Eliteserien,2024,07/04/2024,16:00,Haugesund,Lillestrom,0,2,A
+Norway,Eliteserien,2024,07/04/2024,16:00,Sarpsborg 08,Odd,0,1,A
+Norway,Eliteserien,2024,07/04/2024,16:00,Stromsgodset,Rosenborg,1,0,H
+Norway,Eliteserien,2024,07/04/2024,18:15,Brann,Fredrikstad,0,2,A
+Norway,Eliteserien,2024,13/04/2024,17:00,Fredrikstad,Sarpsborg 08,2,2,D
+Norway,Eliteserien,2024,14/04/2024,13:30,Viking,Brann,1,1,D
+Norway,Eliteserien,2024,14/04/2024,16:00,Molde,Kristiansund,2,0,H
+Norway,Eliteserien,2024,14/04/2024,16:00,Odd,Sandefjord,2,2,D
+Norway,Eliteserien,2024,14/04/2024,16:00,Rosenborg,HamKam,1,0,H
+Norway,Eliteserien,2024,14/04/2024,16:00,Tromso,Haugesund,0,1,A
+Norway,Eliteserien,2024,14/04/2024,18:15,Lillestrom,Bodo/Glimt,0,5,A
+Norway,Eliteserien,2024,16/04/2024,18:00,KFUM Oslo,Stromsgodset,1,3,A
+Norway,Eliteserien,2024,17/04/2024,17:00,Brann,HamKam,1,0,H
+Norway,Eliteserien,2024,17/04/2024,17:00,Molde,Odd,1,2,A
+Norway,Eliteserien,2024,21/04/2024,13:30,HamKam,Stromsgodset,0,1,A
+Norway,Eliteserien,2024,21/04/2024,16:00,Brann,Odd,2,0,H
+Norway,Eliteserien,2024,21/04/2024,16:00,Haugesund,Rosenborg,1,3,A
+Norway,Eliteserien,2024,21/04/2024,16:00,Kristiansund,Tromso,1,0,H
+Norway,Eliteserien,2024,21/04/2024,16:00,Sandefjord,Lillestrom,0,1,A
+Norway,Eliteserien,2024,21/04/2024,16:00,Sarpsborg 08,KFUM Oslo,0,2,A
+Norway,Eliteserien,2024,21/04/2024,16:00,Viking,Fredrikstad,1,1,D
+Norway,Eliteserien,2024,21/04/2024,18:15,Bodo/Glimt,Molde,1,1,D
+Norway,Eliteserien,2024,27/04/2024,17:00,Rosenborg,Bodo/Glimt,1,3,A
+Norway,Eliteserien,2024,28/04/2024,16:00,Fredrikstad,Sandefjord,1,0,H
+Norway,Eliteserien,2024,28/04/2024,16:00,KFUM Oslo,Brann,0,0,D
+Norway,Eliteserien,2024,28/04/2024,16:00,Lillestrom,HamKam,1,1,D
+Norway,Eliteserien,2024,28/04/2024,16:00,Molde,Haugesund,2,1,H
+Norway,Eliteserien,2024,28/04/2024,16:00,Stromsgodset,Kristiansund,2,2,D
+Norway,Eliteserien,2024,28/04/2024,16:00,Tromso,Sarpsborg 08,0,3,A
+Norway,Eliteserien,2024,28/04/2024,18:15,Odd,Viking,3,3,D
+Norway,Eliteserien,2024,04/05/2024,17:00,Brann,Rosenborg,3,0,H
+Norway,Eliteserien,2024,05/05/2024,16:00,Bodo/Glimt,Stromsgodset,1,0,H
+Norway,Eliteserien,2024,05/05/2024,16:00,Haugesund,KFUM Oslo,0,1,A
+Norway,Eliteserien,2024,05/05/2024,16:00,Kristiansund,HamKam,1,1,D
+Norway,Eliteserien,2024,05/05/2024,16:00,Odd,Fredrikstad,0,2,A
+Norway,Eliteserien,2024,05/05/2024,16:00,Sandefjord,Molde,3,1,H
+Norway,Eliteserien,2024,05/05/2024,16:00,Sarpsborg 08,Lillestrom,1,0,H
+Norway,Eliteserien,2024,05/05/2024,18:15,Viking,Tromso,2,1,H
+Norway,Eliteserien,2024,11/05/2024,17:00,Molde,Rosenborg,2,2,D
+Norway,Eliteserien,2024,12/05/2024,13:30,Kristiansund,Bodo/Glimt,2,4,A
+Norway,Eliteserien,2024,12/05/2024,16:00,HamKam,Haugesund,2,2,D
+Norway,Eliteserien,2024,12/05/2024,16:00,KFUM Oslo,Fredrikstad,1,4,A
+Norway,Eliteserien,2024,12/05/2024,16:00,Sandefjord,Sarpsborg 08,4,1,H
+Norway,Eliteserien,2024,12/05/2024,16:00,Stromsgodset,Viking,0,1,A
+Norway,Eliteserien,2024,12/05/2024,16:00,Tromso,Odd,4,0,H
+Norway,Eliteserien,2024,12/05/2024,18:15,Lillestrom,Brann,0,2,A
+Norway,Eliteserien,2024,16/05/2024,17:00,Bodo/Glimt,Tromso,4,0,H
+Norway,Eliteserien,2024,16/05/2024,17:00,Brann,Sandefjord,2,1,H
+Norway,Eliteserien,2024,16/05/2024,17:00,Fredrikstad,Stromsgodset,4,1,H
+Norway,Eliteserien,2024,16/05/2024,17:00,Haugesund,Kristiansund,1,0,H
+Norway,Eliteserien,2024,16/05/2024,17:00,Odd,Molde,0,4,A
+Norway,Eliteserien,2024,16/05/2024,17:00,Rosenborg,KFUM Oslo,1,3,A
+Norway,Eliteserien,2024,16/05/2024,17:00,Sarpsborg 08,HamKam,1,7,A
+Norway,Eliteserien,2024,16/05/2024,17:00,Viking,Lillestrom,1,4,A
+Norway,Eliteserien,2024,20/05/2024,16:00,HamKam,Bodo/Glimt,1,0,H
+Norway,Eliteserien,2024,20/05/2024,16:00,KFUM Oslo,Odd,0,0,D
+Norway,Eliteserien,2024,20/05/2024,16:00,Kristiansund,Brann,2,2,D
+Norway,Eliteserien,2024,20/05/2024,16:00,Lillestrom,Fredrikstad,0,3,A
+Norway,Eliteserien,2024,20/05/2024,16:00,Molde,Sarpsborg 08,2,4,A
+Norway,Eliteserien,2024,20/05/2024,16:00,Sandefjord,Viking,0,3,A
+Norway,Eliteserien,2024,20/05/2024,16:00,Stromsgodset,Haugesund,2,0,H
+Norway,Eliteserien,2024,20/05/2024,18:15,Tromso,Rosenborg,3,2,H
+Norway,Eliteserien,2024,24/05/2024,18:00,Bodo/Glimt,KFUM Oslo,2,2,D
+Norway,Eliteserien,2024,25/05/2024,17:00,Fredrikstad,Tromso,0,0,D
+Norway,Eliteserien,2024,26/05/2024,16:00,Haugesund,Sandefjord,2,1,H
+Norway,Eliteserien,2024,26/05/2024,16:00,Odd,Lillestrom,2,1,H
+Norway,Eliteserien,2024,26/05/2024,16:00,Rosenborg,Kristiansund,2,1,H
+Norway,Eliteserien,2024,26/05/2024,16:00,Sarpsborg 08,Stromsgodset,1,3,A
+Norway,Eliteserien,2024,26/05/2024,16:00,Viking,HamKam,3,0,H
+Norway,Eliteserien,2024,26/05/2024,18:15,Brann,Molde,1,3,A
+Norway,Eliteserien,2024,29/05/2024,18:00,Bodo/Glimt,Sandefjord,1,1,D
+Norway,Eliteserien,2024,29/05/2024,18:00,Brann,Kristiansund,2,1,H
+Norway,Eliteserien,2024,29/05/2024,18:00,Tromso,Fredrikstad,3,0,H
+Norway,Eliteserien,2024,01/06/2024,17:00,HamKam,Brann,1,2,A
+Norway,Eliteserien,2024,02/06/2024,13:30,Molde,Viking,2,2,D
+Norway,Eliteserien,2024,02/06/2024,16:00,Haugesund,Bodo/Glimt,0,1,A
+Norway,Eliteserien,2024,02/06/2024,16:00,KFUM Oslo,Sandefjord,3,3,D
+Norway,Eliteserien,2024,02/06/2024,16:00,Kristiansund,Sarpsborg 08,3,1,H
+Norway,Eliteserien,2024,02/06/2024,16:00,Stromsgodset,Odd,1,1,D
+Norway,Eliteserien,2024,02/06/2024,16:00,Tromso,Lillestrom,1,2,A
+Norway,Eliteserien,2024,02/06/2024,18:15,Rosenborg,Fredrikstad,1,1,D
+Norway,Eliteserien,2024,27/06/2024,18:00,Sandefjord,HamKam,1,2,A
+Norway,Eliteserien,2024,27/06/2024,20:15,Lillestrom,KFUM Oslo,2,1,H
+Norway,Eliteserien,2024,28/06/2024,18:00,Brann,Stromsgodset,0,0,D
+Norway,Eliteserien,2024,28/06/2024,18:00,Odd,Kristiansund,1,1,D
+Norway,Eliteserien,2024,28/06/2024,18:00,Sarpsborg 08,Bodo/Glimt,1,2,A
+Norway,Eliteserien,2024,28/06/2024,20:15,Tromso,Molde,0,2,A
+Norway,Eliteserien,2024,30/06/2024,14:00,Viking,Rosenborg,4,2,H
+Norway,Eliteserien,2024,03/07/2024,18:00,Sandefjord,Tromso,1,2,A
+Norway,Eliteserien,2024,07/07/2024,13:30,Bodo/Glimt,Brann,5,1,H
+Norway,Eliteserien,2024,07/07/2024,16:00,HamKam,Tromso,0,0,D
+Norway,Eliteserien,2024,07/07/2024,16:00,Haugesund,Sarpsborg 08,1,2,A
+Norway,Eliteserien,2024,07/07/2024,16:00,KFUM Oslo,Viking,1,2,A
+Norway,Eliteserien,2024,07/07/2024,16:00,Molde,Lillestrom,3,0,H
+Norway,Eliteserien,2024,07/07/2024,18:15,Rosenborg,Odd,2,1,H
+Norway,Eliteserien,2024,08/07/2024,18:00,Kristiansund,Fredrikstad,3,1,H
+Norway,Eliteserien,2024,08/07/2024,18:00,Stromsgodset,Sandefjord,1,1,D
+Norway,Eliteserien,2024,12/07/2024,18:00,Sarpsborg 08,Rosenborg,4,1,H
+Norway,Eliteserien,2024,13/07/2024,16:00,Fredrikstad,Molde,0,0,D
+Norway,Eliteserien,2024,13/07/2024,16:00,Lillestrom,Stromsgodset,3,1,H
+Norway,Eliteserien,2024,13/07/2024,16:00,Odd,HamKam,1,2,A
+Norway,Eliteserien,2024,13/07/2024,16:00,Sandefjord,Bodo/Glimt,2,1,H
+Norway,Eliteserien,2024,13/07/2024,16:00,Viking,Kristiansund,2,0,H
+Norway,Eliteserien,2024,13/07/2024,18:15,Brann,Haugesund,1,1,D
+Norway,Eliteserien,2024,13/07/2024,21:00,Tromso,KFUM Oslo,1,2,A
+Norway,Eliteserien,2024,19/07/2024,18:00,Bodo/Glimt,Odd,3,1,H
+Norway,Eliteserien,2024,20/07/2024,17:00,Sarpsborg 08,Brann,1,1,D
+Norway,Eliteserien,2024,20/07/2024,19:15,Molde,KFUM Oslo,2,3,A
+Norway,Eliteserien,2024,21/07/2024,13:30,Stromsgodset,Tromso,0,1,A
+Norway,Eliteserien,2024,21/07/2024,16:00,HamKam,Fredrikstad,0,1,A
+Norway,Eliteserien,2024,21/07/2024,16:00,Haugesund,Viking,1,0,H
+Norway,Eliteserien,2024,27/07/2024,15:00,KFUM Oslo,Bodo/Glimt,1,1,D
+Norway,Eliteserien,2024,27/07/2024,17:00,Fredrikstad,Rosenborg,2,2,D
+Norway,Eliteserien,2024,28/07/2024,16:00,Lillestrom,Sarpsborg 08,2,2,D
+Norway,Eliteserien,2024,28/07/2024,16:00,Odd,Stromsgodset,2,0,H
+Norway,Eliteserien,2024,28/07/2024,16:00,Sandefjord,Haugesund,4,3,H
+Norway,Eliteserien,2024,28/07/2024,16:00,Tromso,Kristiansund,0,0,D
+Norway,Eliteserien,2024,28/07/2024,18:15,Viking,Molde,1,0,H
+Norway,Eliteserien,2024,03/08/2024,17:00,Bodo/Glimt,Haugesund,4,2,H
+Norway,Eliteserien,2024,04/08/2024,16:00,Fredrikstad,KFUM Oslo,0,0,D
+Norway,Eliteserien,2024,04/08/2024,16:00,HamKam,Viking,3,3,D
+Norway,Eliteserien,2024,04/08/2024,16:00,Kristiansund,Lillestrom,2,1,H
+Norway,Eliteserien,2024,04/08/2024,16:00,Sarpsborg 08,Sandefjord,2,1,H
+Norway,Eliteserien,2024,04/08/2024,16:00,Stromsgodset,Brann,2,3,A
+Norway,Eliteserien,2024,04/08/2024,18:15,Rosenborg,Tromso,1,0,H
+Norway,Eliteserien,2024,09/08/2024,18:00,Sandefjord,Stromsgodset,2,2,D
+Norway,Eliteserien,2024,10/08/2024,15:00,Haugesund,HamKam,0,1,A
+Norway,Eliteserien,2024,10/08/2024,17:00,Viking,Bodo/Glimt,1,1,D
+Norway,Eliteserien,2024,11/08/2024,16:00,KFUM Oslo,Rosenborg,1,0,H
+Norway,Eliteserien,2024,11/08/2024,16:00,Odd,Sarpsborg 08,1,1,D
+Norway,Eliteserien,2024,11/08/2024,18:15,Lillestrom,Molde,1,2,A
+Norway,Eliteserien,2024,14/08/2024,18:00,Fredrikstad,Haugesund,1,0,H
+Norway,Eliteserien,2024,17/08/2024,17:00,Stromsgodset,Lillestrom,3,2,H
+Norway,Eliteserien,2024,18/08/2024,13:30,Fredrikstad,Brann,0,4,A
+Norway,Eliteserien,2024,18/08/2024,16:00,HamKam,Odd,1,0,H
+Norway,Eliteserien,2024,18/08/2024,16:00,KFUM Oslo,Tromso,0,1,A
+Norway,Eliteserien,2024,18/08/2024,16:00,Sarpsborg 08,Haugesund,2,2,D
+Norway,Eliteserien,2024,18/08/2024,18:15,Rosenborg,Viking,2,1,H
+Norway,Eliteserien,2024,21/08/2024,18:00,Rosenborg,Lillestrom,4,0,H
+Norway,Eliteserien,2024,24/08/2024,15:00,Bodo/Glimt,Sarpsborg 08,6,0,H
+Norway,Eliteserien,2024,25/08/2024,13:30,Lillestrom,Tromso,0,1,A
+Norway,Eliteserien,2024,25/08/2024,16:00,Haugesund,Fredrikstad,1,0,H
+Norway,Eliteserien,2024,25/08/2024,16:00,Molde,HamKam,3,0,H
+Norway,Eliteserien,2024,25/08/2024,16:00,Sandefjord,Kristiansund,1,0,H
+Norway,Eliteserien,2024,25/08/2024,16:00,Viking,Stromsgodset,5,2,H
+Norway,Eliteserien,2024,25/08/2024,18:15,Odd,Rosenborg,1,3,A
+Norway,Eliteserien,2024,30/08/2024,18:00,KFUM Oslo,Lillestrom,2,0,H
+Norway,Eliteserien,2024,31/08/2024,17:00,Fredrikstad,Odd,2,0,H
+Norway,Eliteserien,2024,01/09/2024,16:00,HamKam,Sandefjord,1,1,D
+Norway,Eliteserien,2024,01/09/2024,16:00,Kristiansund,Haugesund,2,2,D
+Norway,Eliteserien,2024,01/09/2024,16:00,Rosenborg,Molde,2,1,H
+Norway,Eliteserien,2024,01/09/2024,16:00,Stromsgodset,Bodo/Glimt,0,1,A
+Norway,Eliteserien,2024,01/09/2024,16:00,Tromso,Viking,2,2,D
+Norway,Eliteserien,2024,01/09/2024,18:15,Brann,Sarpsborg 08,1,3,A
+Norway,Eliteserien,2024,13/09/2024,18:00,Bodo/Glimt,HamKam,3,0,H
+Norway,Eliteserien,2024,14/09/2024,15:00,Viking,KFUM Oslo,1,0,H
+Norway,Eliteserien,2024,14/09/2024,17:00,Molde,Fredrikstad,6,1,H
+Norway,Eliteserien,2024,15/09/2024,13:30,Odd,Tromso,1,0,H
+Norway,Eliteserien,2024,15/09/2024,16:00,Haugesund,Stromsgodset,0,0,D
+Norway,Eliteserien,2024,15/09/2024,16:00,Sandefjord,Brann,2,2,D
+Norway,Eliteserien,2024,15/09/2024,16:00,Sarpsborg 08,Kristiansund,0,2,A
+Norway,Eliteserien,2024,15/09/2024,18:15,Lillestrom,Rosenborg,1,1,D
+Norway,Eliteserien,2024,18/09/2024,17:00,Kristiansund,Molde,0,4,A
+Norway,Eliteserien,2024,18/09/2024,18:00,Brann,KFUM Oslo,2,0,H
+Norway,Eliteserien,2024,21/09/2024,15:00,Stromsgodset,Sarpsborg 08,2,1,H
+Norway,Eliteserien,2024,21/09/2024,17:00,HamKam,Lillestrom,5,0,H
+Norway,Eliteserien,2024,22/09/2024,13:30,Brann,Bodo/Glimt,4,1,H
+Norway,Eliteserien,2024,22/09/2024,16:00,Kristiansund,Odd,0,0,D
+Norway,Eliteserien,2024,22/09/2024,16:00,Rosenborg,Haugesund,4,0,H
+Norway,Eliteserien,2024,22/09/2024,16:00,Tromso,Sandefjord,3,0,H
+Norway,Eliteserien,2024,22/09/2024,18:15,Fredrikstad,Viking,3,2,H
+Norway,Eliteserien,2024,23/09/2024,18:00,KFUM Oslo,Molde,1,1,D
+Norway,Eliteserien,2024,28/09/2024,13:00,Molde,Tromso,5,3,H
+Norway,Eliteserien,2024,28/09/2024,17:00,Haugesund,Brann,0,1,A
+Norway,Eliteserien,2024,28/09/2024,19:00,Sarpsborg 08,Fredrikstad,0,1,A
+Norway,Eliteserien,2024,29/09/2024,13:30,Stromsgodset,HamKam,1,1,D
+Norway,Eliteserien,2024,29/09/2024,16:00,Bodo/Glimt,Kristiansund,4,0,H
+Norway,Eliteserien,2024,29/09/2024,16:00,Lillestrom,Viking,1,4,A
+Norway,Eliteserien,2024,29/09/2024,16:00,Odd,KFUM Oslo,1,3,A
+Norway,Eliteserien,2024,29/09/2024,18:15,Sandefjord,Rosenborg,0,1,A
+Norway,Eliteserien,2024,05/10/2024,14:00,Kristiansund,Sandefjord,2,1,H
+Norway,Eliteserien,2024,19/10/2024,15:00,Molde,Sandefjord,0,1,A
+Norway,Eliteserien,2024,19/10/2024,17:00,Tromso,Bodo/Glimt,0,0,D
+Norway,Eliteserien,2024,20/10/2024,13:30,Rosenborg,Brann,1,2,A
+Norway,Eliteserien,2024,20/10/2024,16:00,HamKam,Sarpsborg 08,0,2,A
+Norway,Eliteserien,2024,20/10/2024,16:00,KFUM Oslo,Haugesund,0,0,D
+Norway,Eliteserien,2024,20/10/2024,16:00,Kristiansund,Stromsgodset,0,0,D
+Norway,Eliteserien,2024,20/10/2024,16:00,Viking,Odd,3,3,D
+Norway,Eliteserien,2024,20/10/2024,18:15,Fredrikstad,Lillestrom,2,1,H
+Norway,Eliteserien,2024,26/10/2024,17:00,Stromsgodset,Fredrikstad,2,0,H
+Norway,Eliteserien,2024,27/10/2024,16:00,HamKam,Kristiansund,1,0,H
+Norway,Eliteserien,2024,27/10/2024,16:00,Haugesund,Molde,0,3,A
+Norway,Eliteserien,2024,27/10/2024,16:00,Lillestrom,Odd,3,0,H
+Norway,Eliteserien,2024,27/10/2024,16:00,Sandefjord,KFUM Oslo,2,1,H
+Norway,Eliteserien,2024,27/10/2024,16:00,Sarpsborg 08,Viking,1,2,A
+Norway,Eliteserien,2024,27/10/2024,18:15,Brann,Tromso,4,0,H
+Norway,Eliteserien,2024,28/10/2024,18:00,Bodo/Glimt,Rosenborg,2,3,A
+Norway,Eliteserien,2024,02/11/2024,17:00,Viking,Sandefjord,3,2,H
+Norway,Eliteserien,2024,03/11/2024,16:00,Fredrikstad,Kristiansund,1,1,D
+Norway,Eliteserien,2024,03/11/2024,16:00,KFUM Oslo,Sarpsborg 08,1,2,A
+Norway,Eliteserien,2024,03/11/2024,16:00,Lillestrom,Haugesund,0,1,A
+Norway,Eliteserien,2024,03/11/2024,16:00,Molde,Bodo/Glimt,3,3,D
+Norway,Eliteserien,2024,03/11/2024,16:00,Odd,Brann,0,3,A
+Norway,Eliteserien,2024,03/11/2024,16:00,Tromso,HamKam,3,3,D
+Norway,Eliteserien,2024,03/11/2024,18:15,Rosenborg,Stromsgodset,1,0,H
+Norway,Eliteserien,2024,09/11/2024,17:00,Brann,Lillestrom,2,1,H
+Norway,Eliteserien,2024,10/11/2024,16:00,HamKam,Rosenborg,0,2,A
+Norway,Eliteserien,2024,10/11/2024,16:00,Haugesund,Tromso,2,0,H
+Norway,Eliteserien,2024,10/11/2024,16:00,Kristiansund,Viking,0,1,A
+Norway,Eliteserien,2024,10/11/2024,16:00,Sandefjord,Odd,1,0,H
+Norway,Eliteserien,2024,10/11/2024,16:00,Sarpsborg 08,Molde,2,2,D
+Norway,Eliteserien,2024,10/11/2024,16:00,Stromsgodset,KFUM Oslo,1,0,H
+Norway,Eliteserien,2024,10/11/2024,18:15,Bodo/Glimt,Fredrikstad,2,2,D
+Norway,Eliteserien,2024,23/11/2024,16:00,Fredrikstad,HamKam,1,0,H
+Norway,Eliteserien,2024,23/11/2024,16:00,KFUM Oslo,Kristiansund,1,2,A
+Norway,Eliteserien,2024,23/11/2024,16:00,Lillestrom,Sandefjord,0,3,A
+Norway,Eliteserien,2024,23/11/2024,16:00,Molde,Brann,2,1,H
+Norway,Eliteserien,2024,23/11/2024,16:00,Odd,Bodo/Glimt,0,2,A
+Norway,Eliteserien,2024,23/11/2024,16:00,Rosenborg,Sarpsborg 08,1,1,D
+Norway,Eliteserien,2024,23/11/2024,16:00,Tromso,Stromsgodset,2,0,H
+Norway,Eliteserien,2024,23/11/2024,16:00,Viking,Haugesund,5,1,H
+Norway,Eliteserien,2024,01/12/2024,16:00,Bodo/Glimt,Lillestrom,5,2,H
+Norway,Eliteserien,2024,01/12/2024,16:00,Brann,Viking,1,1,D
+Norway,Eliteserien,2024,01/12/2024,16:00,HamKam,KFUM Oslo,0,2,A
+Norway,Eliteserien,2024,01/12/2024,16:00,Haugesund,Odd,2,1,H
+Norway,Eliteserien,2024,01/12/2024,16:00,Kristiansund,Rosenborg,0,4,A
+Norway,Eliteserien,2024,01/12/2024,16:00,Sandefjord,Fredrikstad,0,1,A
+Norway,Eliteserien,2024,01/12/2024,16:00,Sarpsborg 08,Tromso,2,1,H
+Norway,Eliteserien,2024,01/12/2024,16:00,Stromsgodset,Molde,1,0,H
+Norway,Eliteserien,2025,29/03/2025,15:00,Stromsgodset,Rosenborg,1,2,A
+Norway,Eliteserien,2025,29/03/2025,17:00,Fredrikstad,Brann,3,0,H
+Norway,Eliteserien,2025,30/03/2025,13:30,Valerenga,Viking,3,1,H
+Norway,Eliteserien,2025,30/03/2025,16:00,HamKam,Kristiansund,2,1,H
+Norway,Eliteserien,2025,30/03/2025,16:00,KFUM Oslo,Sandefjord,3,1,H
+Norway,Eliteserien,2025,30/03/2025,16:00,Molde,Sarpsborg 08,0,2,A
+Norway,Eliteserien,2025,30/03/2025,16:00,Tromso,Haugesund,1,0,H
+Norway,Eliteserien,2025,30/03/2025,18:15,Bryne,Bodo/Glimt,0,1,A
+Norway,Eliteserien,2025,05/04/2025,15:00,Bodo/Glimt,HamKam,3,0,H
+Norway,Eliteserien,2025,05/04/2025,17:00,Rosenborg,Fredrikstad,1,0,H
+Norway,Eliteserien,2025,06/04/2025,13:30,Brann,Tromso,3,1,H
+Norway,Eliteserien,2025,06/04/2025,16:00,Haugesund,Stromsgodset,0,5,A
+Norway,Eliteserien,2025,06/04/2025,16:00,Kristiansund,Bryne,2,1,H
+Norway,Eliteserien,2025,06/04/2025,16:00,Sandefjord,Molde,3,0,H
+Norway,Eliteserien,2025,06/04/2025,16:00,Sarpsborg 08,Valerenga,1,1,D
+Norway,Eliteserien,2025,06/04/2025,18:15,Viking,KFUM Oslo,3,1,H
+Norway,Eliteserien,2025,09/04/2025,18:00,Fredrikstad,Valerenga,2,0,H
+Norway,Eliteserien,2025,10/04/2025,18:00,Brann,Stromsgodset,2,1,H
+Norway,Eliteserien,2025,10/04/2025,18:00,Viking,Kristiansund,3,1,H
+Norway,Eliteserien,2025,20/04/2025,13:30,Tromso,Kristiansund,2,3,A
+Norway,Eliteserien,2025,21/04/2025,13:30,Valerenga,Rosenborg,0,2,A
+Norway,Eliteserien,2025,21/04/2025,16:00,Bryne,Haugesund,3,1,H
+Norway,Eliteserien,2025,21/04/2025,16:00,Fredrikstad,Sandefjord,3,1,H
+Norway,Eliteserien,2025,21/04/2025,16:00,HamKam,Viking,2,5,A
+Norway,Eliteserien,2025,21/04/2025,16:00,KFUM Oslo,Sarpsborg 08,1,3,A
+Norway,Eliteserien,2025,21/04/2025,16:00,Stromsgodset,Brann,1,2,A
+Norway,Eliteserien,2025,21/04/2025,18:15,Molde,Bodo/Glimt,2,2,D
+Norway,Eliteserien,2025,27/04/2025,13:30,Rosenborg,Molde,0,0,D
+Norway,Eliteserien,2025,27/04/2025,16:00,Bodo/Glimt,KFUM Oslo,3,0,H
+Norway,Eliteserien,2025,27/04/2025,16:00,Brann,Bryne,3,2,H
+Norway,Eliteserien,2025,27/04/2025,16:00,Haugesund,Fredrikstad,0,0,D
+Norway,Eliteserien,2025,27/04/2025,16:00,Kristiansund,Valerenga,0,2,A
+Norway,Eliteserien,2025,27/04/2025,16:00,Sandefjord,HamKam,2,0,H
+Norway,Eliteserien,2025,27/04/2025,16:15,Sarpsborg 08,Stromsgodset,2,3,A
+Norway,Eliteserien,2025,27/04/2025,18:15,Viking,Tromso,4,4,D
+Norway,Eliteserien,2025,30/04/2025,17:00,Viking,Haugesund,5,1,H
+Norway,Eliteserien,2025,01/05/2025,17:00,Rosenborg,Kristiansund,1,1,D
+Norway,Eliteserien,2025,02/05/2025,18:00,HamKam,KFUM Oslo,0,0,D
+Norway,Eliteserien,2025,03/05/2025,17:00,Valerenga,Brann,2,4,A
+Norway,Eliteserien,2025,04/05/2025,16:00,Molde,Haugesund,2,1,H
+Norway,Eliteserien,2025,04/05/2025,16:00,Stromsgodset,Kristiansund,1,2,A
+Norway,Eliteserien,2025,04/05/2025,16:00,Tromso,Sandefjord,0,1,A
+Norway,Eliteserien,2025,04/05/2025,16:00,Viking,Sarpsborg 08,0,0,D
+Norway,Eliteserien,2025,04/05/2025,18:15,Rosenborg,Bryne,3,0,H
+Norway,Eliteserien,2025,11/05/2025,13:30,Brann,Rosenborg,0,0,D
+Norway,Eliteserien,2025,11/05/2025,16:00,Bryne,Molde,0,3,A
+Norway,Eliteserien,2025,11/05/2025,16:00,KFUM Oslo,Tromso,1,3,A
+Norway,Eliteserien,2025,11/05/2025,16:00,Kristiansund,Fredrikstad,0,1,A
+Norway,Eliteserien,2025,11/05/2025,16:00,Sandefjord,Valerenga,2,1,H
+Norway,Eliteserien,2025,11/05/2025,16:00,Sarpsborg 08,HamKam,4,0,H
+Norway,Eliteserien,2025,11/05/2025,18:15,Haugesund,Viking,1,4,A
+Norway,Eliteserien,2025,16/05/2025,17:00,Brann,Sarpsborg 08,2,2,D
+Norway,Eliteserien,2025,16/05/2025,17:00,Fredrikstad,KFUM Oslo,1,0,H
+Norway,Eliteserien,2025,16/05/2025,17:00,Molde,Kristiansund,0,1,A
+Norway,Eliteserien,2025,16/05/2025,17:00,Rosenborg,Haugesund,1,0,H
+Norway,Eliteserien,2025,16/05/2025,17:00,Stromsgodset,Bryne,0,2,A
+Norway,Eliteserien,2025,16/05/2025,17:00,Tromso,Bodo/Glimt,2,1,H
+Norway,Eliteserien,2025,16/05/2025,17:00,Viking,Sandefjord,3,1,H
+Norway,Eliteserien,2025,16/05/2025,19:00,Valerenga,HamKam,1,1,D
+Norway,Eliteserien,2025,24/05/2025,15:00,Bryne,Fredrikstad,4,3,H
+Norway,Eliteserien,2025,24/05/2025,17:00,Bodo/Glimt,Rosenborg,4,0,H
+Norway,Eliteserien,2025,25/05/2025,13:30,HamKam,Molde,2,1,H
+Norway,Eliteserien,2025,25/05/2025,16:00,Kristiansund,Viking,0,1,A
+Norway,Eliteserien,2025,25/05/2025,16:00,Sandefjord,Stromsgodset,3,2,H
+Norway,Eliteserien,2025,25/05/2025,16:00,Sarpsborg 08,Tromso,0,1,A
+Norway,Eliteserien,2025,25/05/2025,18:15,Haugesund,Brann,0,2,A
+Norway,Eliteserien,2025,26/05/2025,18:00,KFUM Oslo,Valerenga,0,1,A
+Norway,Eliteserien,2025,28/05/2025,18:00,Fredrikstad,Rosenborg,0,2,A
+Norway,Eliteserien,2025,28/05/2025,20:00,Bodo/Glimt,Viking,2,4,A
+Norway,Eliteserien,2025,29/05/2025,17:00,Brann,Molde,0,3,A
+Norway,Eliteserien,2025,31/05/2025,15:00,Stromsgodset,HamKam,0,3,A
+Norway,Eliteserien,2025,31/05/2025,17:45,Tromso,Valerenga,2,1,H
+Norway,Eliteserien,2025,01/06/2025,13:30,Fredrikstad,Sarpsborg 08,1,1,D
+Norway,Eliteserien,2025,01/06/2025,16:00,Brann,Kristiansund,4,2,H
+Norway,Eliteserien,2025,01/06/2025,16:00,Bryne,Sandefjord,3,2,H
+Norway,Eliteserien,2025,01/06/2025,16:00,Haugesund,Bodo/Glimt,0,4,A
+Norway,Eliteserien,2025,01/06/2025,16:00,Rosenborg,KFUM Oslo,1,1,D
+Norway,Eliteserien,2025,01/06/2025,18:15,Molde,Viking,0,1,A
+Norway,Eliteserien,2025,21/06/2025,17:00,Bodo/Glimt,Brann,3,0,H
+Norway,Eliteserien,2025,22/06/2025,13:30,Valerenga,Molde,2,3,A
+Norway,Eliteserien,2025,22/06/2025,16:00,HamKam,Tromso,1,3,A
+Norway,Eliteserien,2025,22/06/2025,16:00,KFUM Oslo,Stromsgodset,5,0,H
+Norway,Eliteserien,2025,22/06/2025,16:00,Kristiansund,Rosenborg,4,1,H
+Norway,Eliteserien,2025,22/06/2025,16:00,Sandefjord,Haugesund,4,0,H
+Norway,Eliteserien,2025,22/06/2025,16:00,Sarpsborg 08,Bryne,1,1,D
+Norway,Eliteserien,2025,22/06/2025,18:15,Viking,Fredrikstad,3,0,H
+Norway,Eliteserien,2025,28/06/2025,17:00,Rosenborg,Viking,1,1,D
+Norway,Eliteserien,2025,29/06/2025,13:30,Haugesund,Kristiansund,0,0,D
+Norway,Eliteserien,2025,29/06/2025,16:00,Bodo/Glimt,Sarpsborg 08,1,2,A
+Norway,Eliteserien,2025,29/06/2025,16:00,Bryne,HamKam,1,1,D
+Norway,Eliteserien,2025,29/06/2025,16:00,Fredrikstad,Tromso,0,1,A
+Norway,Eliteserien,2025,29/06/2025,16:00,Molde,KFUM Oslo,2,3,A
+Norway,Eliteserien,2025,29/06/2025,18:15,Stromsgodset,Valerenga,0,2,A
+Norway,Eliteserien,2025,30/06/2025,18:00,Brann,Sandefjord,1,0,H
+Norway,Eliteserien,2025,05/07/2025,17:45,HamKam,Brann,1,1,D
+Norway,Eliteserien,2025,05/07/2025,17:30,Viking,Stromsgodset,1,0,H
+Norway,Eliteserien,2025,05/07/2025,17:15,Valerenga,Fredrikstad,1,1,D
+Norway,Eliteserien,2025,05/07/2025,17:00,Kristiansund,Bodo/Glimt,1,1,D
+Norway,Eliteserien,2025,05/07/2025,16:45,Tromso,Molde,1,0,H
+Norway,Eliteserien,2025,06/07/2025,16:30,KFUM Oslo,Bryne,1,1,D
+Norway,Eliteserien,2025,06/07/2025,16:15,Sandefjord,Rosenborg,2,0,H
+Norway,Eliteserien,2025,06/07/2025,16:00,Sarpsborg 08,Haugesund,3,1,H

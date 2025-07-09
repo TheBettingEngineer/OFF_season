@@ -1,0 +1,296 @@
+﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res
+Ireland,Premier Division,2024,16/02/2024,19:45,Bohemians,Sligo Rovers,2,2,D
+Ireland,Premier Division,2024,16/02/2024,19:45,Derry City,Drogheda,2,1,H
+Ireland,Premier Division,2024,16/02/2024,19:45,Galway,St. Patricks,0,1,A
+Ireland,Premier Division,2024,16/02/2024,19:45,Shamrock Rovers,Dundalk,1,1,D
+Ireland,Premier Division,2024,16/02/2024,19:45,Waterford,Shelbourne,1,1,D
+Ireland,Premier Division,2024,23/02/2024,19:45,Drogheda,Waterford,1,4,A
+Ireland,Premier Division,2024,23/02/2024,19:45,Dundalk,Galway,0,2,A
+Ireland,Premier Division,2024,23/02/2024,19:45,Shelbourne,Shamrock Rovers,2,1,H
+Ireland,Premier Division,2024,23/02/2024,19:45,St. Patricks,Bohemians,0,1,A
+Ireland,Premier Division,2024,24/02/2024,19:45,Sligo Rovers,Derry City,0,0,D
+Ireland,Premier Division,2024,01/03/2024,19:45,Derry City,St. Patricks,2,1,H
+Ireland,Premier Division,2024,01/03/2024,19:45,Galway,Waterford,2,1,H
+Ireland,Premier Division,2024,01/03/2024,19:45,Sligo Rovers,Shelbourne,0,1,A
+Ireland,Premier Division,2024,04/03/2024,19:45,Drogheda,Bohemians,2,1,H
+Ireland,Premier Division,2024,04/03/2024,19:45,Dundalk,Sligo Rovers,0,5,A
+Ireland,Premier Division,2024,04/03/2024,19:45,Shamrock Rovers,Derry City,2,2,D
+Ireland,Premier Division,2024,04/03/2024,19:45,Shelbourne,Galway,1,0,H
+Ireland,Premier Division,2024,04/03/2024,19:45,Waterford,St. Patricks,3,1,H
+Ireland,Premier Division,2024,08/03/2024,19:45,Bohemians,Shelbourne,0,2,A
+Ireland,Premier Division,2024,08/03/2024,19:45,Derry City,Waterford,3,0,H
+Ireland,Premier Division,2024,08/03/2024,19:45,Galway,Drogheda,0,0,D
+Ireland,Premier Division,2024,08/03/2024,19:45,St. Patricks,Dundalk,1,0,H
+Ireland,Premier Division,2024,09/03/2024,19:45,Sligo Rovers,Shamrock Rovers,0,0,D
+Ireland,Premier Division,2024,15/03/2024,19:45,Bohemians,Derry City,2,1,H
+Ireland,Premier Division,2024,15/03/2024,19:45,Dundalk,Waterford,0,0,D
+Ireland,Premier Division,2024,15/03/2024,19:45,Galway,Shamrock Rovers,0,1,A
+Ireland,Premier Division,2024,15/03/2024,19:45,St. Patricks,Shelbourne,1,2,A
+Ireland,Premier Division,2024,16/03/2024,19:45,Sligo Rovers,Drogheda,3,1,H
+Ireland,Premier Division,2024,29/03/2024,19:45,Derry City,Galway,0,1,A
+Ireland,Premier Division,2024,29/03/2024,19:45,Drogheda,St. Patricks,0,0,D
+Ireland,Premier Division,2024,29/03/2024,19:45,Shamrock Rovers,Bohemians,3,1,H
+Ireland,Premier Division,2024,29/03/2024,19:45,Shelbourne,Dundalk,2,1,H
+Ireland,Premier Division,2024,29/03/2024,19:45,Waterford,Sligo Rovers,0,1,A
+Ireland,Premier Division,2024,01/04/2024,13:00,Dundalk,Drogheda,0,0,D
+Ireland,Premier Division,2024,01/04/2024,17:00,Shelbourne,Derry City,0,0,D
+Ireland,Premier Division,2024,01/04/2024,17:00,St. Patricks,Sligo Rovers,3,0,H
+Ireland,Premier Division,2024,01/04/2024,17:00,Waterford,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2024,01/04/2024,19:45,Galway,Bohemians,0,2,A
+Ireland,Premier Division,2024,05/04/2024,19:45,Bohemians,Waterford,0,1,A
+Ireland,Premier Division,2024,05/04/2024,19:45,Derry City,Dundalk,4,1,H
+Ireland,Premier Division,2024,05/04/2024,19:45,Drogheda,Shelbourne,2,2,D
+Ireland,Premier Division,2024,05/04/2024,19:45,St. Patricks,Shamrock Rovers,2,1,H
+Ireland,Premier Division,2024,12/04/2024,19:45,Drogheda,Derry City,2,2,D
+Ireland,Premier Division,2024,12/04/2024,19:45,Dundalk,St. Patricks,0,0,D
+Ireland,Premier Division,2024,12/04/2024,19:45,Shelbourne,Bohemians,1,2,A
+Ireland,Premier Division,2024,12/04/2024,19:45,Waterford,Galway,0,0,D
+Ireland,Premier Division,2024,12/04/2024,20:00,Shamrock Rovers,Sligo Rovers,3,0,H
+Ireland,Premier Division,2024,15/04/2024,19:45,Bohemians,Dundalk,1,0,H
+Ireland,Premier Division,2024,19/04/2024,19:45,Bohemians,Drogheda,1,0,H
+Ireland,Premier Division,2024,19/04/2024,19:45,Derry City,Shamrock Rovers,1,3,A
+Ireland,Premier Division,2024,19/04/2024,19:45,Galway,Shelbourne,1,0,H
+Ireland,Premier Division,2024,19/04/2024,19:45,Sligo Rovers,Dundalk,1,1,D
+Ireland,Premier Division,2024,19/04/2024,19:45,St. Patricks,Waterford,1,1,D
+Ireland,Premier Division,2024,22/04/2024,19:45,Derry City,St. Patricks,3,1,H
+Ireland,Premier Division,2024,22/04/2024,19:45,Shelbourne,Shamrock Rovers,0,0,D
+Ireland,Premier Division,2024,22/04/2024,19:45,Sligo Rovers,Galway,0,0,D
+Ireland,Premier Division,2024,26/04/2024,19:45,Drogheda,Sligo Rovers,3,1,H
+Ireland,Premier Division,2024,26/04/2024,19:45,Dundalk,Bohemians,2,0,H
+Ireland,Premier Division,2024,26/04/2024,19:45,Shelbourne,St. Patricks,1,0,H
+Ireland,Premier Division,2024,26/04/2024,19:45,Waterford,Derry City,0,2,A
+Ireland,Premier Division,2024,26/04/2024,20:00,Shamrock Rovers,Galway,1,1,D
+Ireland,Premier Division,2024,29/04/2024,20:00,Shamrock Rovers,Drogheda,4,0,H
+Ireland,Premier Division,2024,03/05/2024,19:45,Bohemians,Shamrock Rovers,1,1,D
+Ireland,Premier Division,2024,03/05/2024,19:45,Dundalk,Shelbourne,0,0,D
+Ireland,Premier Division,2024,03/05/2024,19:45,Galway,Derry City,0,0,D
+Ireland,Premier Division,2024,03/05/2024,19:45,Sligo Rovers,Waterford,0,1,A
+Ireland,Premier Division,2024,03/05/2024,19:45,St. Patricks,Drogheda,1,0,H
+Ireland,Premier Division,2024,06/05/2024,13:00,Drogheda,Dundalk,2,1,H
+Ireland,Premier Division,2024,06/05/2024,17:00,Bohemians,Galway,0,1,A
+Ireland,Premier Division,2024,06/05/2024,17:00,Shamrock Rovers,Waterford,1,3,A
+Ireland,Premier Division,2024,06/05/2024,17:00,Sligo Rovers,St. Patricks,1,0,H
+Ireland,Premier Division,2024,06/05/2024,19:45,Derry City,Shelbourne,1,1,D
+Ireland,Premier Division,2024,10/05/2024,19:45,Derry City,Bohemians,1,0,H
+Ireland,Premier Division,2024,10/05/2024,19:45,Galway,Sligo Rovers,0,0,D
+Ireland,Premier Division,2024,10/05/2024,19:45,Shamrock Rovers,St. Patricks,2,2,D
+Ireland,Premier Division,2024,10/05/2024,19:45,Shelbourne,Drogheda,1,1,D
+Ireland,Premier Division,2024,10/05/2024,19:45,Waterford,Dundalk,4,1,H
+Ireland,Premier Division,2024,17/05/2024,19:45,Drogheda,Galway,2,3,A
+Ireland,Premier Division,2024,17/05/2024,19:45,Dundalk,Shamrock Rovers,1,0,H
+Ireland,Premier Division,2024,17/05/2024,19:45,Shelbourne,Waterford,1,0,H
+Ireland,Premier Division,2024,17/05/2024,19:45,Sligo Rovers,Bohemians,0,3,A
+Ireland,Premier Division,2024,17/05/2024,19:45,St. Patricks,Derry City,0,1,A
+Ireland,Premier Division,2024,20/05/2024,19:45,St. Patricks,Shelbourne,1,2,A
+Ireland,Premier Division,2024,20/05/2024,20:00,Shamrock Rovers,Derry City,1,0,H
+Ireland,Premier Division,2024,23/05/2024,19:45,Waterford,Drogheda,4,2,H
+Ireland,Premier Division,2024,24/05/2024,19:45,Bohemians,St. Patricks,2,2,D
+Ireland,Premier Division,2024,24/05/2024,19:45,Derry City,Sligo Rovers,2,2,D
+Ireland,Premier Division,2024,24/05/2024,19:45,Galway,Dundalk,2,0,H
+Ireland,Premier Division,2024,24/05/2024,20:00,Shamrock Rovers,Shelbourne,0,2,A
+Ireland,Premier Division,2024,31/05/2024,19:45,Drogheda,Shamrock Rovers,0,2,A
+Ireland,Premier Division,2024,31/05/2024,19:45,Dundalk,Derry City,0,0,D
+Ireland,Premier Division,2024,31/05/2024,19:45,Shelbourne,Sligo Rovers,1,2,A
+Ireland,Premier Division,2024,31/05/2024,19:45,St. Patricks,Galway,2,1,H
+Ireland,Premier Division,2024,31/05/2024,19:45,Waterford,Bohemians,2,1,H
+Ireland,Premier Division,2024,03/06/2024,17:00,Sligo Rovers,Drogheda,2,1,H
+Ireland,Premier Division,2024,03/06/2024,17:15,St. Patricks,Dundalk,2,3,A
+Ireland,Premier Division,2024,03/06/2024,18:00,Derry City,Waterford,3,0,H
+Ireland,Premier Division,2024,07/06/2024,19:45,Derry City,Galway,2,0,H
+Ireland,Premier Division,2024,07/06/2024,19:45,Drogheda,St. Patricks,0,0,D
+Ireland,Premier Division,2024,07/06/2024,19:45,Shelbourne,Dundalk,1,0,H
+Ireland,Premier Division,2024,07/06/2024,19:45,Waterford,Sligo Rovers,4,1,H
+Ireland,Premier Division,2024,13/06/2024,19:45,Bohemians,Derry City,1,2,A
+Ireland,Premier Division,2024,13/06/2024,19:45,Dundalk,Sligo Rovers,1,0,H
+Ireland,Premier Division,2024,13/06/2024,19:45,Galway,Drogheda,3,0,H
+Ireland,Premier Division,2024,13/06/2024,19:45,St. Patricks,Shamrock Rovers,2,1,H
+Ireland,Premier Division,2024,13/06/2024,19:45,Waterford,Shelbourne,0,1,A
+Ireland,Premier Division,2024,28/06/2024,19:45,Derry City,Drogheda,5,1,H
+Ireland,Premier Division,2024,28/06/2024,19:45,Dundalk,Waterford,0,2,A
+Ireland,Premier Division,2024,28/06/2024,19:45,Shelbourne,Galway,2,0,H
+Ireland,Premier Division,2024,28/06/2024,19:45,Sligo Rovers,Shamrock Rovers,2,0,H
+Ireland,Premier Division,2024,28/06/2024,19:45,St. Patricks,Bohemians,0,0,D
+Ireland,Premier Division,2024,04/07/2024,19:45,Drogheda,Shelbourne,1,1,D
+Ireland,Premier Division,2024,04/07/2024,19:45,Galway,Bohemians,1,1,D
+Ireland,Premier Division,2024,04/07/2024,19:45,Sligo Rovers,Derry City,2,1,H
+Ireland,Premier Division,2024,04/07/2024,19:45,Waterford,St. Patricks,1,0,H
+Ireland,Premier Division,2024,04/07/2024,20:00,Shamrock Rovers,Dundalk,1,0,H
+Ireland,Premier Division,2024,12/07/2024,19:45,Bohemians,Sligo Rovers,0,2,A
+Ireland,Premier Division,2024,12/07/2024,19:45,Dundalk,Drogheda,4,2,H
+Ireland,Premier Division,2024,12/07/2024,19:45,Galway,Waterford,1,0,H
+Ireland,Premier Division,2024,26/07/2024,19:45,Bohemians,Dundalk,1,1,D
+Ireland,Premier Division,2024,26/07/2024,19:45,Drogheda,Waterford,2,0,H
+Ireland,Premier Division,2024,27/07/2024,19:45,Sligo Rovers,Galway,2,0,H
+Ireland,Premier Division,2024,02/08/2024,19:45,Drogheda,Bohemians,2,2,D
+Ireland,Premier Division,2024,02/08/2024,19:45,Dundalk,Galway,0,2,A
+Ireland,Premier Division,2024,02/08/2024,19:45,Waterford,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2024,04/08/2024,18:00,St. Patricks,Sligo Rovers,3,2,H
+Ireland,Premier Division,2024,05/08/2024,19:45,Shelbourne,Derry City,0,0,D
+Ireland,Premier Division,2024,09/08/2024,19:45,Bohemians,Waterford,2,3,A
+Ireland,Premier Division,2024,09/08/2024,19:45,Derry City,Dundalk,1,1,D
+Ireland,Premier Division,2024,10/08/2024,19:45,Sligo Rovers,Shelbourne,2,1,H
+Ireland,Premier Division,2024,11/08/2024,15:00,Galway,St. Patricks,1,1,D
+Ireland,Premier Division,2024,11/08/2024,19:00,Shamrock Rovers,Drogheda,1,1,D
+Ireland,Premier Division,2024,23/08/2024,19:45,Drogheda,Sligo Rovers,7,0,H
+Ireland,Premier Division,2024,23/08/2024,19:45,Shelbourne,Bohemians,1,1,D
+Ireland,Premier Division,2024,23/08/2024,19:45,Waterford,Derry City,0,1,A
+Ireland,Premier Division,2024,25/08/2024,19:00,Shamrock Rovers,Galway,1,1,D
+Ireland,Premier Division,2024,30/08/2024,19:45,Dundalk,Shelbourne,0,1,A
+Ireland,Premier Division,2024,30/08/2024,19:45,Galway,Derry City,1,0,H
+Ireland,Premier Division,2024,31/08/2024,19:45,Sligo Rovers,Waterford,2,0,H
+Ireland,Premier Division,2024,01/09/2024,11:30,Bohemians,Shamrock Rovers,2,1,H
+Ireland,Premier Division,2024,01/09/2024,18:00,St. Patricks,Drogheda,4,1,H
+Ireland,Premier Division,2024,05/09/2024,19:45,Dundalk,St. Patricks,1,2,A
+Ireland,Premier Division,2024,06/09/2024,19:45,Bohemians,Shelbourne,1,1,D
+Ireland,Premier Division,2024,13/09/2024,19:45,Shamrock Rovers,Sligo Rovers,4,0,H
+Ireland,Premier Division,2024,13/09/2024,19:45,Waterford,Dundalk,2,1,H
+Ireland,Premier Division,2024,16/09/2024,19:45,Galway,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2024,20/09/2024,19:45,Bohemians,Drogheda,0,1,A
+Ireland,Premier Division,2024,20/09/2024,19:45,Derry City,Shamrock Rovers,1,1,D
+Ireland,Premier Division,2024,20/09/2024,19:45,Galway,Shelbourne,1,0,H
+Ireland,Premier Division,2024,20/09/2024,19:45,St. Patricks,Waterford,3,0,H
+Ireland,Premier Division,2024,21/09/2024,19:45,Sligo Rovers,Dundalk,2,1,H
+Ireland,Premier Division,2024,23/09/2024,19:45,Drogheda,Galway,0,0,D
+Ireland,Premier Division,2024,23/09/2024,19:45,Shamrock Rovers,Bohemians,1,0,H
+Ireland,Premier Division,2024,27/09/2024,19:45,Drogheda,Derry City,2,1,H
+Ireland,Premier Division,2024,27/09/2024,19:45,Dundalk,Bohemians,0,2,A
+Ireland,Premier Division,2024,27/09/2024,19:45,Shelbourne,Sligo Rovers,0,0,D
+Ireland,Premier Division,2024,27/09/2024,19:45,Waterford,Galway,1,2,A
+Ireland,Premier Division,2024,27/09/2024,20:00,Shamrock Rovers,St. Patricks,0,3,A
+Ireland,Premier Division,2024,30/09/2024,19:15,Shelbourne,St. Patricks,2,3,A
+Ireland,Premier Division,2024,04/10/2024,19:45,Galway,Dundalk,1,1,D
+Ireland,Premier Division,2024,06/10/2024,17:45,Shamrock Rovers,Shelbourne,2,0,H
+Ireland,Premier Division,2024,11/10/2024,19:45,Derry City,Bohemians,1,1,D
+Ireland,Premier Division,2024,11/10/2024,19:45,Waterford,Drogheda,0,0,D
+Ireland,Premier Division,2024,14/10/2024,19:15,Derry City,Sligo Rovers,1,1,D
+Ireland,Premier Division,2024,14/10/2024,19:45,Bohemians,St. Patricks,1,3,A
+Ireland,Premier Division,2024,18/10/2024,19:45,Drogheda,Shamrock Rovers,0,1,A
+Ireland,Premier Division,2024,18/10/2024,19:45,Dundalk,Derry City,0,2,A
+Ireland,Premier Division,2024,18/10/2024,19:45,Shelbourne,Waterford,3,1,H
+Ireland,Premier Division,2024,18/10/2024,19:45,St. Patricks,Galway,2,1,H
+Ireland,Premier Division,2024,19/10/2024,19:45,Sligo Rovers,Bohemians,0,2,A
+Ireland,Premier Division,2024,25/10/2024,19:45,Galway,Sligo Rovers,2,2,D
+Ireland,Premier Division,2024,25/10/2024,19:45,Shelbourne,Drogheda,2,1,H
+Ireland,Premier Division,2024,25/10/2024,19:45,St. Patricks,Derry City,1,0,H
+Ireland,Premier Division,2024,25/10/2024,19:45,Waterford,Bohemians,1,1,D
+Ireland,Premier Division,2024,27/10/2024,17:45,Dundalk,Shamrock Rovers,0,1,A
+Ireland,Premier Division,2024,01/11/2024,19:45,Bohemians,Galway,1,1,D
+Ireland,Premier Division,2024,01/11/2024,19:45,Derry City,Shelbourne,0,1,A
+Ireland,Premier Division,2024,01/11/2024,19:45,Drogheda,Dundalk,0,0,D
+Ireland,Premier Division,2024,01/11/2024,19:45,Shamrock Rovers,Waterford,2,1,H
+Ireland,Premier Division,2024,01/11/2024,19:45,Sligo Rovers,St. Patricks,0,2,A
+Ireland,Premier Division,2024,16/11/2024,14:00,Bray,Drogheda,1,3,A
+Ireland,Premier Division,2025,14/02/2025,19:45,Cork City,Galway,2,2,D
+Ireland,Premier Division,2025,14/02/2025,19:45,Shelbourne,Derry City,3,1,H
+Ireland,Premier Division,2025,14/02/2025,19:45,St. Patricks,Drogheda,0,0,D
+Ireland,Premier Division,2025,15/02/2025,19:45,Sligo Rovers,Waterford,2,3,A
+Ireland,Premier Division,2025,16/02/2025,14:00,Bohemians,Shamrock Rovers,1,0,H
+Ireland,Premier Division,2025,21/02/2025,19:45,Derry City,Bohemians,1,0,H
+Ireland,Premier Division,2025,21/02/2025,19:45,Drogheda,Sligo Rovers,3,0,H
+Ireland,Premier Division,2025,21/02/2025,19:45,Galway,St. Patricks,2,1,H
+Ireland,Premier Division,2025,21/02/2025,19:45,Waterford,Shelbourne,0,1,A
+Ireland,Premier Division,2025,28/02/2025,19:45,Cork City,Bohemians,2,1,H
+Ireland,Premier Division,2025,28/02/2025,19:45,Derry City,Waterford,1,2,A
+Ireland,Premier Division,2025,28/02/2025,19:45,Drogheda,Galway,1,1,D
+Ireland,Premier Division,2025,28/02/2025,19:45,Shelbourne,Shamrock Rovers,1,1,D
+Ireland,Premier Division,2025,28/02/2025,19:45,St. Patricks,Sligo Rovers,4,3,H
+Ireland,Premier Division,2025,03/03/2025,19:45,Bohemians,Drogheda,0,1,A
+Ireland,Premier Division,2025,03/03/2025,19:45,Galway,Shelbourne,1,1,D
+Ireland,Premier Division,2025,03/03/2025,19:45,Sligo Rovers,Shamrock Rovers,2,1,H
+Ireland,Premier Division,2025,03/03/2025,19:45,St. Patricks,Derry City,2,0,H
+Ireland,Premier Division,2025,03/03/2025,19:45,Waterford,Cork City,2,1,H
+Ireland,Premier Division,2025,07/03/2025,19:45,Cork City,Sligo Rovers,1,1,D
+Ireland,Premier Division,2025,07/03/2025,19:45,Derry City,Galway,1,1,D
+Ireland,Premier Division,2025,07/03/2025,19:45,Shamrock Rovers,St. Patricks,1,0,H
+Ireland,Premier Division,2025,07/03/2025,19:45,Shelbourne,Drogheda,0,1,A
+Ireland,Premier Division,2025,07/03/2025,19:45,Waterford,Bohemians,0,3,A
+Ireland,Premier Division,2025,14/03/2025,19:45,Drogheda,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2025,14/03/2025,19:45,Galway,Waterford,1,0,H
+Ireland,Premier Division,2025,14/03/2025,19:45,Shelbourne,Cork City,1,1,D
+Ireland,Premier Division,2025,14/03/2025,19:45,St. Patricks,Bohemians,3,0,H
+Ireland,Premier Division,2025,15/03/2025,19:45,Sligo Rovers,Derry City,0,1,A
+Ireland,Premier Division,2025,28/03/2025,19:45,Bohemians,Galway,0,2,A
+Ireland,Premier Division,2025,28/03/2025,19:45,Cork City,Drogheda,1,1,D
+Ireland,Premier Division,2025,28/03/2025,19:45,Sligo Rovers,Shelbourne,1,2,A
+Ireland,Premier Division,2025,28/03/2025,19:45,Waterford,St. Patricks,1,2,A
+Ireland,Premier Division,2025,28/03/2025,20:00,Shamrock Rovers,Derry City,0,0,D
+Ireland,Premier Division,2025,04/04/2025,19:45,Bohemians,Sligo Rovers,4,2,H
+Ireland,Premier Division,2025,04/04/2025,19:45,Derry City,Cork City,2,1,H
+Ireland,Premier Division,2025,04/04/2025,19:45,Drogheda,Waterford,2,0,H
+Ireland,Premier Division,2025,04/04/2025,19:45,Galway,Shamrock Rovers,0,1,A
+Ireland,Premier Division,2025,04/04/2025,19:45,St. Patricks,Shelbourne,0,0,D
+Ireland,Premier Division,2025,11/04/2025,19:45,Cork City,St. Patricks,0,2,A
+Ireland,Premier Division,2025,11/04/2025,19:45,Derry City,Drogheda,1,3,A
+Ireland,Premier Division,2025,11/04/2025,19:45,Shelbourne,Bohemians,1,0,H
+Ireland,Premier Division,2025,11/04/2025,20:00,Shamrock Rovers,Waterford,2,0,H
+Ireland,Premier Division,2025,12/04/2025,19:45,Sligo Rovers,Galway,1,2,A
+Ireland,Premier Division,2025,14/04/2025,20:00,Shamrock Rovers,Cork City,4,1,H
+Ireland,Premier Division,2025,18/04/2025,19:45,Bohemians,Cork City,1,0,H
+Ireland,Premier Division,2025,18/04/2025,19:45,Drogheda,Shelbourne,2,2,D
+Ireland,Premier Division,2025,18/04/2025,19:45,Galway,Derry City,2,3,A
+Ireland,Premier Division,2025,18/04/2025,19:45,St. Patricks,Shamrock Rovers,2,2,D
+Ireland,Premier Division,2025,18/04/2025,19:45,Waterford,Sligo Rovers,0,4,A
+Ireland,Premier Division,2025,21/04/2025,14:00,Shamrock Rovers,Bohemians,2,3,A
+Ireland,Premier Division,2025,21/04/2025,17:00,Cork City,Waterford,2,1,H
+Ireland,Premier Division,2025,21/04/2025,17:00,Drogheda,St. Patricks,0,0,D
+Ireland,Premier Division,2025,21/04/2025,17:00,Shelbourne,Galway,2,2,D
+Ireland,Premier Division,2025,22/04/2025,19:45,Derry City,Sligo Rovers,3,0,H
+Ireland,Premier Division,2025,25/04/2025,19:45,Bohemians,St. Patricks,2,1,H
+Ireland,Premier Division,2025,25/04/2025,19:45,Galway,Drogheda,2,1,H
+Ireland,Premier Division,2025,25/04/2025,19:45,Shamrock Rovers,Shelbourne,2,2,D
+Ireland,Premier Division,2025,25/04/2025,19:45,Waterford,Derry City,2,1,H
+Ireland,Premier Division,2025,26/04/2025,19:45,Sligo Rovers,Cork City,1,1,D
+Ireland,Premier Division,2025,02/05/2025,19:45,Bohemians,Waterford,1,2,A
+Ireland,Premier Division,2025,02/05/2025,19:45,Cork City,Shamrock Rovers,1,1,D
+Ireland,Premier Division,2025,02/05/2025,19:45,Derry City,Shelbourne,2,0,H
+Ireland,Premier Division,2025,02/05/2025,19:45,Sligo Rovers,Drogheda,2,2,D
+Ireland,Premier Division,2025,02/05/2025,19:45,St. Patricks,Galway,2,0,H
+Ireland,Premier Division,2025,05/05/2025,17:00,Drogheda,Cork City,3,2,H
+Ireland,Premier Division,2025,05/05/2025,17:00,Galway,Bohemians,1,2,A
+Ireland,Premier Division,2025,05/05/2025,17:00,Shelbourne,Waterford,0,1,A
+Ireland,Premier Division,2025,05/05/2025,19:00,Shamrock Rovers,Sligo Rovers,2,0,H
+Ireland,Premier Division,2025,05/05/2025,19:45,Derry City,St. Patricks,1,0,H
+Ireland,Premier Division,2025,09/05/2025,19:45,Cork City,Derry City,1,2,A
+Ireland,Premier Division,2025,09/05/2025,19:45,Shamrock Rovers,Drogheda,3,0,H
+Ireland,Premier Division,2025,09/05/2025,19:45,Shelbourne,St. Patricks,2,1,H
+Ireland,Premier Division,2025,09/05/2025,19:45,Waterford,Galway,1,0,H
+Ireland,Premier Division,2025,10/05/2025,19:45,Sligo Rovers,Bohemians,0,1,A
+Ireland,Premier Division,2025,16/05/2025,19:45,Bohemians,Shelbourne,1,0,H
+Ireland,Premier Division,2025,16/05/2025,19:45,Drogheda,Derry City,1,1,D
+Ireland,Premier Division,2025,16/05/2025,19:45,Galway,Sligo Rovers,0,1,A
+Ireland,Premier Division,2025,16/05/2025,19:45,St. Patricks,Cork City,3,2,H
+Ireland,Premier Division,2025,16/05/2025,19:45,Waterford,Shamrock Rovers,1,3,A
+Ireland,Premier Division,2025,19/05/2025,19:45,Shelbourne,Drogheda,0,0,D
+Ireland,Premier Division,2025,19/05/2025,20:00,Shamrock Rovers,St. Patricks,4,0,H
+Ireland,Premier Division,2025,23/05/2025,19:45,Derry City,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2025,23/05/2025,19:45,Drogheda,Bohemians,1,0,H
+Ireland,Premier Division,2025,23/05/2025,19:45,Galway,Cork City,2,1,H
+Ireland,Premier Division,2025,23/05/2025,19:45,Shelbourne,Sligo Rovers,3,2,H
+Ireland,Premier Division,2025,23/05/2025,19:45,St. Patricks,Waterford,2,2,D
+Ireland,Premier Division,2025,30/05/2025,19:45,Bohemians,Derry City,1,0,H
+Ireland,Premier Division,2025,30/05/2025,19:45,Cork City,Shelbourne,1,1,D
+Ireland,Premier Division,2025,30/05/2025,19:45,Sligo Rovers,St. Patricks,0,1,A
+Ireland,Premier Division,2025,30/05/2025,19:45,Waterford,Drogheda,2,2,D
+Ireland,Premier Division,2025,30/05/2025,20:00,Shamrock Rovers,Galway,0,0,D
+Ireland,Premier Division,2025,13/06/2025,19:45,Cork City,Bohemians,0,2,A
+Ireland,Premier Division,2025,13/06/2025,19:45,Derry City,Galway,1,1,D
+Ireland,Premier Division,2025,13/06/2025,19:45,Shelbourne,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2025,13/06/2025,19:45,St. Patricks,Drogheda,0,0,D
+Ireland,Premier Division,2025,14/06/2025,19:45,Sligo Rovers,Waterford,1,0,H
+Ireland,Premier Division,2025,16/06/2025,19:45,Drogheda,Shamrock Rovers,1,2,A
+Ireland,Premier Division,2025,16/06/2025,19:45,St. Patricks,Shelbourne,0,1,A
+Ireland,Premier Division,2025,20/06/2025,19:45,Drogheda,Sligo Rovers,1,0,H
+Ireland,Premier Division,2025,20/06/2025,19:45,Galway,St. Patricks,3,1,H
+Ireland,Premier Division,2025,20/06/2025,19:45,Shamrock Rovers,Cork City,4,1,H
+Ireland,Premier Division,2025,20/06/2025,19:45,Shelbourne,Derry City,0,1,A
+Ireland,Premier Division,2025,20/06/2025,19:45,Waterford,Bohemians,2,1,H
+Ireland,Premier Division,2025,23/06/2025,19:45,Bohemians,Shamrock Rovers,2,0,H
+Ireland,Premier Division,2025,23/06/2025,19:45,Cork City,Drogheda,1,1,D
+Ireland,Premier Division,2025,23/06/2025,19:45,Sligo Rovers,Galway,2,1,H
+Ireland,Premier Division,2025,23/06/2025,19:45,St. Patricks,Derry City,0,1,A
+Ireland,Premier Division,2025,23/06/2025,19:45,Waterford,Shelbourne,2,2,D
+Ireland,Premier Division,2025,27/06/2025,19:45,Bohemians,Sligo Rovers,1,1,D
+Ireland,Premier Division,2025,27/06/2025,19:45,Cork City,St. Patricks,0,0,D
+Ireland,Premier Division,2025,27/06/2025,19:45,Derry City,Drogheda,3,0,H
+Ireland,Premier Division,2025,27/06/2025,19:45,Galway,Shelbourne,1,1,D
+Ireland,Premier Division,2025,27/06/2025,20:00,Shamrock Rovers,Waterford,1,0,H
