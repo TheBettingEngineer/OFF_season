@@ -1,18 +1,32 @@
-
+import sheet
 import streamlit as st
-import streamlit.components.v1 as components
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+import datetime
 
-# Embed Google Analytics safely
-components.html("""
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BYKV8T7EWS"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-BYKV8T7EWS');
-    </script>
-""", height=0)
+# Google Sheets auth setup
+def get_gsheet():
+    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+    creds_dict = st.secrets["gspread"]
+    credentials = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+    client = gspread.authorize(credentials)
+    return client.open("usage_log").sheet1  # Make sure "usage_log" is the correct name
+
+def log_to_sheet(action, league, home, away):
+    try:
+        sheet = get_gsheet()
+        sheet.append_row([
+            str(datetime.datetime.now()),
+            league,
+            home,
+            away,
+            action
+        ])
+    except Exception as e:
+        st.warning("⚠️ Logging failed.")
+
+
+# Log a goal prediction
 
 
 
@@ -82,22 +96,27 @@ show_prediction = show_h2h = show_last15 = show_league_avg = show_match_goals = 
 with col1:
     if st.button("Predict Team Goals", key=f"{league}_predict"):
         show_prediction = True
+        log_to_sheet("Team Goal Prediction", league, home, away)
 
 with col2:
     if st.button("Predict Match Goals", key=f"{league}_matchgoals"):
         show_match_goals = True
+        log_to_sheet("Match Goal Prediction", league, home, away)
 
 with col3:
     if st.button("Last H2H", key=f"{league}_h2h"):
         show_h2h = True
+        log_to_sheet("Last H2H", league, home, away)
 
 with col4:
     if st.button("Last 15 Games", key=f"{league}_last15"):
         show_last15 = True
+        log_to_sheet("Last 15 Games", league, home, away)
 
 with col5:
     if st.button("League Averages", key=f"{league}_avg"):
         show_league_avg = True
+        log_to_sheet("League Averages", league, home, away)
 
 
 # Display output sections
