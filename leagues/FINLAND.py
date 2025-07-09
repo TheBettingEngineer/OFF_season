@@ -1,20 +1,20 @@
-# finland.py
-import streamlit as st
-import joblib
 import pandas as pd
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.calibration import CalibratedClassifierCV
 
+# streamlit run APP.py
 
-@st.cache_resource
+
 def load_finland_model():
     # Load data
     pl_df = pd.read_csv("data/FIN.csv")
     elo_df = pd.read_csv("data/rating_FIN.csv")
 
     # Team replacements
-    pl_df["Home"] = pl_df["Home"].replace({"Ekenas": "KTP", "Lahti": "Jaro"})
-    pl_df["Away"] = pl_df["Away"].replace({"Ekenas": "KTP", "Lahti": "Jaro"})
+    pl_df["Home"] = pl_df["Home"].replace("Ekenas", "KTP")
+    pl_df["Away"] = pl_df["Away"].replace("Ekenas", "KTP")
+    pl_df["Home"] = pl_df["Home"].replace("Lahti", "Jaro")
+    pl_df["Away"] = pl_df["Away"].replace("Lahti", "Jaro")
 
     # Team categories
     def categorize_team(rating):
@@ -41,33 +41,27 @@ def load_finland_model():
         pl_df[f"Away_{g}+"] = (pl_df["AG"] >= g).astype(int)
 
     # Feature groups
+    team_vs_opp_cat = pl_df.groupby(["Home", "AwayCategory"])["HG"].mean().reset_index()
+    team_vs_opp_cat.columns = ["Team", "OpponentCategory", "TeamVsOppCat"]
+
+    opp_cat_concede_vs_team = pl_df.groupby(["AwayCategory", "Home"])["HG"].mean().reset_index()
+    opp_cat_concede_vs_team.columns = ["OpponentCategory", "Team", "OppCatConcedeVsTeam"]
+
+    cat_vs_opp = pl_df.groupby(["HomeCategory", "Away"])["HG"].mean().reset_index()
+    cat_vs_opp.columns = ["Category", "Opponent", "CatVsOpp"]
+
+    opp_concede_vs_cat = pl_df.groupby(["Away", "HomeCategory"])["HG"].mean().reset_index()
+    opp_concede_vs_cat.columns = ["Team", "OpponentCategory", "OppConcedeVsCat"]
+
+    # Generate training rows
     def get_safe(df, key1, val1, key2, val2, col):
         try:
             return df[(df[key1] == val1) & (df[key2] == val2)][col].values[0]
         except:
             return 1.0
 
-    def generate_feature(df):
-        return df.groupby([df.columns[0], df.columns[1]])[df.columns[2]].mean().reset_index()
-
-    team_vs_opp_cat = generate_feature(pl_df[["Home", "AwayCategory", "HG"]])
-    team_vs_opp_cat.columns = ["Team", "OpponentCategory", "TeamVsOppCat"]
-
-    opp_cat_concede_vs_team = generate_feature(pl_df[["AwayCategory", "Home", "HG"]])
-    opp_cat_concede_vs_team.columns = ["OpponentCategory", "Team", "OppCatConcedeVsTeam"]
-
-    cat_vs_opp = generate_feature(pl_df[["HomeCategory", "Away", "HG"]])
-    cat_vs_opp.columns = ["Category", "Opponent", "CatVsOpp"]
-
-    opp_concede_vs_cat = generate_feature(pl_df[["Away", "HomeCategory", "HG"]])
-    opp_concede_vs_cat.columns = ["Team", "OpponentCategory", "OppConcedeVsCat"]
-
-    # Load pre-trained match goal model
-    match_model = joblib.load("models/match_goal_models_finland.pkl")
-
-    # Build simplified goal probability model for 1+, 2+, 3+
-    features_ext = ["TeamVsOppCat", "OppCatConcedeVsTeam", "CatVsOpp", "OppConcedeVsCat"]
-    home_rows_ext, away_rows_ext = [], []
+    home_rows_ext = []
+    away_rows_ext = []
 
     for _, row in pl_df.iterrows():
         home, away = row["Home"], row["Away"]
@@ -78,7 +72,9 @@ def load_finland_model():
             "OppCatConcedeVsTeam": get_safe(opp_cat_concede_vs_team, "Team", home, "OpponentCategory", ac, "OppCatConcedeVsTeam"),
             "CatVsOpp": get_safe(cat_vs_opp, "Category", hc, "Opponent", away, "CatVsOpp"),
             "OppConcedeVsCat": get_safe(opp_concede_vs_cat, "Team", away, "OpponentCategory", hc, "OppConcedeVsCat"),
-            "1+": row["Home_1+"], "2+": row["Home_2+"], "3+": row["Home_3+"]
+            "1+": row["Home_1+"],
+            "2+": row["Home_2+"],
+            "3+": row["Home_3+"],
         })
 
         away_rows_ext.append({
@@ -86,22 +82,31 @@ def load_finland_model():
             "OppCatConcedeVsTeam": get_safe(opp_cat_concede_vs_team, "Team", away, "OpponentCategory", hc, "OppCatConcedeVsTeam"),
             "CatVsOpp": get_safe(cat_vs_opp, "Category", ac, "Opponent", home, "CatVsOpp"),
             "OppConcedeVsCat": get_safe(opp_concede_vs_cat, "Team", home, "OpponentCategory", ac, "OppConcedeVsCat"),
-            "1+": row["Away_1+"], "2+": row["Away_2+"], "3+": row["Away_3+"]
+            "1+": row["Away_1+"],
+            "2+": row["Away_2+"],
+            "3+": row["Away_3+"],
         })
 
     home_df_ext = pd.DataFrame(home_rows_ext)
     away_df_ext = pd.DataFrame(away_rows_ext)
 
-    home_models_ext, away_models_ext = {}, {}
+    # Train models
+    features_ext = ["TeamVsOppCat", "OppCatConcedeVsTeam", "CatVsOpp", "OppConcedeVsCat"]
+    home_models_ext = {}
+    away_models_ext = {}
+
     for label in ["1+", "2+", "3+"]:
-        model_home = CalibratedClassifierCV(GradientBoostingClassifier(), method='isotonic', cv=3)
-        model_home.fit(home_df_ext[features_ext], home_df_ext[label])
-        home_models_ext[label] = model_home
+        clf_home = GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=0)
+        home_model = CalibratedClassifierCV(clf_home, method='isotonic', cv=3)
+        home_model.fit(home_df_ext[features_ext], home_df_ext[label])
+        home_models_ext[label] = home_model
 
-        model_away = CalibratedClassifierCV(GradientBoostingClassifier(), method='isotonic', cv=3)
-        model_away.fit(away_df_ext[features_ext], away_df_ext[label])
-        away_models_ext[label] = model_away
+        clf_away = GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=0)
+        away_model = CalibratedClassifierCV(clf_away, method='isotonic', cv=3)
+        away_model.fit(away_df_ext[features_ext], away_df_ext[label])
+        away_models_ext[label] = away_model
 
+    # Create prediction function
     def goal_probabilities_df(home_team, away_team):
         home_cat = elo_df[elo_df["Team"] == home_team]["Category"].values[0]
         away_cat = elo_df[elo_df["Team"] == away_team]["Category"].values[0]
@@ -112,42 +117,36 @@ def load_finland_model():
             except:
                 return 1.0
 
-        X_home = pd.DataFrame([{k: safe_get(locals()[k.split('_')[0].lower()], *k.split('_')[1:], v)
-                                for k, v in {
-            "team_vs_opp_cat_Team": home_team,
-            "team_vs_opp_cat_OpponentCategory": away_cat,
-            "opp_cat_concede_vs_team_Team": home_team,
-            "opp_cat_concede_vs_team_OpponentCategory": away_cat,
-            "cat_vs_opp_Category": home_cat,
-            "cat_vs_opp_Opponent": away_team,
-            "opp_concede_vs_cat_Team": away_team,
-            "opp_concede_vs_cat_OpponentCategory": home_cat
-        }.items()}])
+        X_home = pd.DataFrame([{
+            "TeamVsOppCat": safe_get(team_vs_opp_cat, "Team", home_team, "OpponentCategory", away_cat, "TeamVsOppCat"),
+            "OppCatConcedeVsTeam": safe_get(opp_cat_concede_vs_team, "Team", home_team, "OpponentCategory", away_cat, "OppCatConcedeVsTeam"),
+            "CatVsOpp": safe_get(cat_vs_opp, "Category", home_cat, "Opponent", away_team, "CatVsOpp"),
+            "OppConcedeVsCat": safe_get(opp_concede_vs_cat, "Team", away_team, "OpponentCategory", home_cat, "OppConcedeVsCat")
+        }])
 
-        X_away = pd.DataFrame([{k: safe_get(locals()[k.split('_')[0].lower()], *k.split('_')[1:], v)
-                                for k, v in {
-            "team_vs_opp_cat_Team": away_team,
-            "team_vs_opp_cat_OpponentCategory": home_cat,
-            "opp_cat_concede_vs_team_Team": away_team,
-            "opp_cat_concede_vs_team_OpponentCategory": home_cat,
-            "cat_vs_opp_Category": away_cat,
-            "cat_vs_opp_Opponent": home_team,
-            "opp_concede_vs_cat_Team": home_team,
-            "opp_concede_vs_cat_OpponentCategory": away_cat
-        }.items()}])
+        X_away = pd.DataFrame([{
+            "TeamVsOppCat": safe_get(team_vs_opp_cat, "Team", away_team, "OpponentCategory", home_cat, "TeamVsOppCat"),
+            "OppCatConcedeVsTeam": safe_get(opp_cat_concede_vs_team, "Team", away_team, "OpponentCategory", home_cat, "OppCatConcedeVsTeam"),
+            "CatVsOpp": safe_get(cat_vs_opp, "Category", away_cat, "Opponent", home_team, "CatVsOpp"),
+            "OppConcedeVsCat": safe_get(opp_concede_vs_cat, "Team", home_team, "OpponentCategory", away_cat, "OppConcedeVsCat")
+        }])
 
-        def format_percent(p):
-            return f"{round(p * 100, 1)}%"
+        def format_percent(prob):
+            return f"{round(prob * 100, 1)}%"
 
         return pd.DataFrame([
             {"Team": home_team, "Side": "Home",
-             **{label: format_percent(home_models_ext[label].predict_proba(X_home)[0][1]) for label in ["1+", "2+", "3+"]}},
+             "1+": format_percent(home_models_ext["1+"].predict_proba(X_home)[0][1]),
+             "2+": format_percent(home_models_ext["2+"].predict_proba(X_home)[0][1]),
+             "3+": format_percent(home_models_ext["3+"].predict_proba(X_home)[0][1])},
             {"Team": away_team, "Side": "Away",
-             **{label: format_percent(away_models_ext[label].predict_proba(X_away)[0][1]) for label in ["1+", "2+", "3+"]}}
+             "1+": format_percent(away_models_ext["1+"].predict_proba(X_away)[0][1]),
+             "2+": format_percent(away_models_ext["2+"].predict_proba(X_away)[0][1]),
+             "3+": format_percent(away_models_ext["3+"].predict_proba(X_away)[0][1])},
         ])
 
+    match_model = load_match_goal_model(pl_df, elo_df)
     return goal_probabilities_df, pl_df, match_model
-
 
 
 def get_last_n_h2h(home_team, away_team, n, df):
@@ -159,11 +158,9 @@ def get_last_n_h2h(home_team, away_team, n, df):
     return h2h_matches.head(n)[["Date", "Home", "Away", "HG", "AG", "Res"]]
 
 
-
+import matplotlib.pyplot as plt
 
 def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
-    import matplotlib.pyplot as plt
-
     df["Date"] = pd.to_datetime(df["Date"], dayfirst=True)
 
     def prepare_team_data(team):
@@ -181,21 +178,22 @@ def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
 
         return pd.DataFrame(data, columns=["Opponent", "GoalsFor", "GoalsAgainst"])
 
+    # Prepare data
     df_home = prepare_team_data(home_team)
     df_away = prepare_team_data(away_team)
 
-    # 📱 Smaller figsize for better mobile rendering
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(7, 6))  # From (11, 8) to (7, 6)
+    # Plot setup
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(11, 8), sharex=False)
 
     def plot_bar(ax, df_team, team):
         x = range(len(df_team))
-        ax.bar([i - 0.2 for i in x], df_team["GoalsFor"], width=0.4, label="Scored", color="orange")
-        ax.bar([i + 0.2 for i in x], df_team["GoalsAgainst"], width=0.4, label="Conceded", color="gray")
+        ax.bar([i - 0.2 for i in x], df_team["GoalsFor"], width=0.4, label="Goals Scored", color="orange")
+        ax.bar([i + 0.2 for i in x], df_team["GoalsAgainst"], width=0.4, label="Goals Conceded", color="gray")
 
         for i, v in enumerate(df_team["GoalsFor"]):
-            ax.text(i - 0.2, v + 0.1, f"{v:.0f}", ha="center", fontsize=7)
+            ax.text(i - 0.2, v + 0.15, f"{v:.1f}", ha="center", fontsize=8)
         for i, v in enumerate(df_team["GoalsAgainst"]):
-            ax.text(i + 0.2, v + 0.1, f"{v:.0f}", ha="center", fontsize=7)
+            ax.text(i + 0.2, v + 0.15, f"{v:.1f}", ha="center", fontsize=8)
 
         ax.axhline(df_team["GoalsFor"].mean(), color="green", linestyle="--", linewidth=1,
                    label=f"Avg Scored ({df_team['GoalsFor'].mean():.2f})")
@@ -203,9 +201,9 @@ def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
                    label=f"Avg Conceded ({df_team['GoalsAgainst'].mean():.2f})")
 
         ax.set_xticks(x)
-        ax.set_xticklabels(df_team["Opponent"], fontsize=8)
-        ax.set_title(f"{team} – Last {num_matches} Matches", fontsize=11)
-        ax.legend(fontsize=8)
+        ax.set_xticklabels(df_team["Opponent"], fontsize=9)
+        ax.set_title(f"{team} – Goals Last {num_matches} Matches", fontsize=12)
+        ax.legend()
 
     plot_bar(ax1, df_home, home_team)
     plot_bar(ax2, df_away, away_team)
@@ -238,9 +236,8 @@ def get_team_goal_averages(df):
 
     return team_stats[["Avg_Scored", "Avg_Conceded"]].sort_values(by="Avg_Scored", ascending=False)
 
-@st.cache_resource
-def load_match_goal_model(df, elo_df):
 
+def load_match_goal_model(df, elo_df):
     # Add goal thresholds
     df["TotalGoals"] = df["HG"] + df["AG"]
     for n in range(1, 7):
@@ -297,13 +294,6 @@ def load_match_goal_model(df, elo_df):
         )
         model.fit(match_df[features_comb], match_df[label])
         goal_models[label] = model
-
-    # 💾 Save the trained models
-    import joblib
-    joblib.dump(goal_models, "models/match_goal_models_finland.pkl")
-
-
-
 
     # Return prediction function
     def match_goal_probabilities(home_team, away_team):
