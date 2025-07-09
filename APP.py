@@ -19,9 +19,11 @@ def get_client_info():
         response = requests.get("https://ipinfo.io/json")
         data = response.json()
         ip = data.get("ip", "N/A")
+        country = data.get("country", "N/A")
     except Exception:
         ip = "N/A"
-    return ip
+        country = "N/A"
+    return ip, country
 
 # Generate a session ID for each visitor (saved during app run)
 if "session_id" not in st.session_state:
@@ -31,6 +33,7 @@ if "session_id" not in st.session_state:
 def log_to_sheet(action, league, home, away):
     try:
         sheet = get_gsheet()
+        ip, country = get_client_info()
         session_id = st.session_state["session_id"]
         session_start = st.session_state["session_start"]
 
@@ -38,6 +41,8 @@ def log_to_sheet(action, league, home, away):
             str(datetime.datetime.now()),  # log timestamp
             session_id,
             session_start,
+            ip,
+            country,
             league,
             home,
             away,
