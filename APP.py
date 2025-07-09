@@ -40,6 +40,11 @@ st.set_page_config(
 
 st.image("header1.png", use_container_width=True)
 
+try:
+    log_to_sheet("🟢 App Opened", "N/A", "N/A", "N/A")
+except Exception as e:
+    st.warning(f"⚠️ Logging failed: {e}")
+
 
 # Import from league modules
 from leagues.NORWAY import (
