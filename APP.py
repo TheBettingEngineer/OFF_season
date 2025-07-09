@@ -3,6 +3,7 @@ import streamlit as st
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import datetime
+st.write("🔑 Available keys in st.secrets:", list(st.secrets.keys()))
 
 # Google Sheets auth setup
 def get_gsheet():
