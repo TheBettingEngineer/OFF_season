@@ -51,10 +51,9 @@ st.image("header1.png", use_container_width=True)
 if "visited_app" not in st.session_state:
     st.session_state.visited_app = True
     try:
-        log_to_sheet("App Opened")
+        log_to_sheet("App Opened", "", "", "")
     except Exception as e:
         st.warning(f"Logging failed: {e}")
-
 
 # Import from league modules
 from leagues.NORWAY import (
