@@ -23,7 +23,8 @@ def log_to_sheet(action, league, home, away):
             action
         ])
     except Exception as e:
-        st.warning("⚠️ Logging failed.")
+        st.warning(f"⚠️ Logging failed: {e}")
+
 
 
 # Log a goal prediction
