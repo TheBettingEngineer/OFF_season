@@ -27,29 +27,26 @@ def get_client_info():
 
 # Generate a session ID for each visitor (saved during app run)
 if "session_id" not in st.session_state:
-    st.session_state["session_id"] = str(uuid.uuid4())
+    st.session_state["session_id"] = str(uuid.uuid4())[:8]
     st.session_state["session_start"] = str(datetime.datetime.now())
+
 
 def log_to_sheet(action, league, home, away):
     try:
         sheet = get_gsheet()
-        ip, country = get_client_info()
-        session_id = st.session_state["session_id"]
-        session_start = st.session_state["session_start"]
-
-        sheet.append_row([
-            str(datetime.datetime.now()),  # log timestamp
-            session_id,
-            session_start,
-            ip,
-            country,
+        row = [
+            str(datetime.datetime.now()),                   # Time
+            st.session_state["session_id"],                 # Session ID
+            st.session_state["session_start"],              # Session Start
             league,
             home,
             away,
             action
-        ])
+        ]
+        sheet.append_row(row)
     except Exception as e:
         st.warning(f"⚠️ Logging failed: {e}")
+
 
 
 st.set_page_config(
