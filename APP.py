@@ -1,14 +1,20 @@
-import streamlit as st
-st.markdown("""
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BYKV8T7EWS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-BYKV8T7EWS');
-</script>""", unsafe_allow_html=True)
+import streamlit as st
+import streamlit.components.v1 as components
+
+# Embed Google Analytics safely
+components.html("""
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BYKV8T7EWS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-BYKV8T7EWS');
+    </script>
+""", height=0)
+
+
 
 st.set_page_config(
     page_title="The Betting Engineer",
