@@ -17,7 +17,7 @@ def get_gsheet():
 
 if "session_id" not in st.session_state:
     st.session_state["session_id"] = str(uuid.uuid4())[:8]
-    st.session_state["session_start"] = str(datetime.datetime.now())
+
 
 
 def log_to_sheet(action, league="", home="", away=""):
@@ -26,7 +26,6 @@ def log_to_sheet(action, league="", home="", away=""):
         row = [
             str(datetime.datetime.now()),                      # Time
             st.session_state.get("session_id", ""),            # Session ID
-            st.session_state.get("session_start", ""),         # Session Start
             league,
             home,
             away,
