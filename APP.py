@@ -27,11 +27,6 @@ def log_to_sheet(action, league, home, away):
         st.warning(f"⚠️ Logging failed: {e}")
 
 
-
-# Log a goal prediction
-
-
-
 st.set_page_config(
     page_title="The Betting Engineer",
     page_icon="⚙️",
@@ -41,9 +36,13 @@ st.set_page_config(
 st.image("header1.png", use_container_width=True)
 
 # Avoid repeat logging on every rerun
-if "logged_visit" not in st.session_state:
-    st.session_state.logged_visit = True
-    log_to_sheet("App Opened", league="", home="", away="")
+# ✅ Log "App Opened" only once per session
+if "visited_app" not in st.session_state:
+    st.session_state.visited_app = True
+    try:
+        log_to_sheet("App Opened", "", "", "")
+    except Exception as e:
+        st.warning(f"Logging failed: {e}")
 
 # Import from league modules
 from leagues.NORWAY import (
