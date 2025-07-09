@@ -19,11 +19,9 @@ def get_client_info():
         response = requests.get("https://ipinfo.io/json")
         data = response.json()
         ip = data.get("ip", "N/A")
-        country = data.get("country", "N/A")
     except Exception:
         ip = "N/A"
-        country = "N/A"
-    return ip, country
+    return ip
 
 # Generate a session ID for each visitor (saved during app run)
 if "session_id" not in st.session_state:
