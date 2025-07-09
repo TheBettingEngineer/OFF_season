@@ -3,6 +3,7 @@ import streamlit as st
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import datetime
+import uuid
 
 
 # Google Sheets auth setup
@@ -13,16 +14,25 @@ def get_gsheet():
     client = gspread.authorize(credentials)
     return client.open("usage_log").sheet1  # Make sure "usage_log" is the correct name
 
+
+if "session_id" not in st.session_state:
+    st.session_state["session_id"] = str(uuid.uuid4())[:8]
+    st.session_state["session_start"] = str(datetime.datetime.now())
+
+
 def log_to_sheet(action, league, home, away):
     try:
         sheet = get_gsheet()
-        sheet.append_row([
-            str(datetime.datetime.now()),
+        row = [
+            str(datetime.datetime.now()),                   # Time
+            st.session_state["session_id"],                 # Session ID
+            st.session_state["session_start"],              # Session Start
             league,
             home,
             away,
             action
-        ])
+        ]
+        sheet.append_row(row)
     except Exception as e:
         st.warning(f"⚠️ Logging failed: {e}")
 
