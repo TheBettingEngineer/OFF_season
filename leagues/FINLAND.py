@@ -161,6 +161,8 @@ def get_last_n_h2h(home_team, away_team, n, df):
 import matplotlib.pyplot as plt
 
 def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
+    import matplotlib.pyplot as plt
+
     df["Date"] = pd.to_datetime(df["Date"], dayfirst=True)
 
     def prepare_team_data(team):
@@ -178,22 +180,21 @@ def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
 
         return pd.DataFrame(data, columns=["Opponent", "GoalsFor", "GoalsAgainst"])
 
-    # Prepare data
     df_home = prepare_team_data(home_team)
     df_away = prepare_team_data(away_team)
 
-    # Plot setup
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(11, 8), sharex=False)
+    # 📱 Smaller figsize for better mobile rendering
+    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(7, 6))  # From (11, 8) to (7, 6)
 
     def plot_bar(ax, df_team, team):
         x = range(len(df_team))
-        ax.bar([i - 0.2 for i in x], df_team["GoalsFor"], width=0.4, label="Goals Scored", color="orange")
-        ax.bar([i + 0.2 for i in x], df_team["GoalsAgainst"], width=0.4, label="Goals Conceded", color="gray")
+        ax.bar([i - 0.2 for i in x], df_team["GoalsFor"], width=0.4, label="Scored", color="orange")
+        ax.bar([i + 0.2 for i in x], df_team["GoalsAgainst"], width=0.4, label="Conceded", color="gray")
 
         for i, v in enumerate(df_team["GoalsFor"]):
-            ax.text(i - 0.2, v + 0.15, f"{v:.1f}", ha="center", fontsize=8)
+            ax.text(i - 0.2, v + 0.1, f"{v:.0f}", ha="center", fontsize=7)
         for i, v in enumerate(df_team["GoalsAgainst"]):
-            ax.text(i + 0.2, v + 0.15, f"{v:.1f}", ha="center", fontsize=8)
+            ax.text(i + 0.2, v + 0.1, f"{v:.0f}", ha="center", fontsize=7)
 
         ax.axhline(df_team["GoalsFor"].mean(), color="green", linestyle="--", linewidth=1,
                    label=f"Avg Scored ({df_team['GoalsFor'].mean():.2f})")
@@ -201,9 +202,9 @@ def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
                    label=f"Avg Conceded ({df_team['GoalsAgainst'].mean():.2f})")
 
         ax.set_xticks(x)
-        ax.set_xticklabels(df_team["Opponent"], fontsize=9)
-        ax.set_title(f"{team} – Goals Last {num_matches} Matches", fontsize=12)
-        ax.legend()
+        ax.set_xticklabels(df_team["Opponent"], fontsize=8)
+        ax.set_title(f"{team} – Last {num_matches} Matches", fontsize=11)
+        ax.legend(fontsize=8)
 
     plot_bar(ax1, df_home, home_team)
     plot_bar(ax2, df_away, away_team)
