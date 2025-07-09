@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 gspread
 oauth2client
-
+requests

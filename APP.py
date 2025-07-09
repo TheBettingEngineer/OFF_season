@@ -3,7 +3,8 @@ import streamlit as st
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import datetime
-
+import uuid
+import requests
 
 # Google Sheets auth setup
 def get_gsheet():
@@ -13,11 +14,35 @@ def get_gsheet():
     client = gspread.authorize(credentials)
     return client.open("usage_log").sheet1  # Make sure "usage_log" is the correct name
 
+def get_client_info():
+    try:
+        response = requests.get("https://ipinfo.io/json")
+        data = response.json()
+        ip = data.get("ip", "N/A")
+        country = data.get("country", "N/A")
+    except Exception:
+        ip = "N/A"
+        country = "N/A"
+    return ip, country
+
+# Generate a session ID for each visitor (saved during app run)
+if "session_id" not in st.session_state:
+    st.session_state["session_id"] = str(uuid.uuid4())
+    st.session_state["session_start"] = str(datetime.datetime.now())
+
 def log_to_sheet(action, league, home, away):
     try:
         sheet = get_gsheet()
+        ip, country = get_client_info()
+        session_id = st.session_state["session_id"]
+        session_start = st.session_state["session_start"]
+
         sheet.append_row([
-            str(datetime.datetime.now()),
+            str(datetime.datetime.now()),  # log timestamp
+            session_id,
+            session_start,
+            ip,
+            country,
             league,
             home,
             away,
