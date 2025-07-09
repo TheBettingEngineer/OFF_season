@@ -40,6 +40,10 @@ st.set_page_config(
 
 st.image("header1.png", use_container_width=True)
 
+# Avoid repeat logging on every rerun
+if "logged_visit" not in st.session_state:
+    st.session_state.logged_visit = True
+    log_to_sheet("App Opened", league="", home="", away="")
 
 # Import from league modules
 from leagues.NORWAY import (
