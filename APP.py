@@ -45,14 +45,18 @@ st.set_page_config(
 
 st.image("header1.png", use_container_width=True)
 
-# Avoid repeat logging on every rerun
-# ✅ Log "App Opened" only once per session
-if "visited_app" not in st.session_state:
-    st.session_state.visited_app = True
+import datetime
+
+now = datetime.datetime.now()
+last_log_time = st.session_state.get("last_log_time")
+
+if not last_log_time or (now - last_log_time).total_seconds() > 1800:  # 30 minutes
+    st.session_state.last_log_time = now
     try:
         log_to_sheet("App Opened", "", "", "")
     except Exception as e:
-        st.warning(f"Logging failed: {e}")
+        st.warning(f"⚠️ Logging failed: {e}")
+
 
 # Import from league modules
 from leagues.NORWAY import (
@@ -101,10 +105,22 @@ if home == away:
     st.warning("⚠️ Please select two different teams.")
     st.stop()
 # Button row
-st.markdown(
-    "<h5 style='text-align: center;'> ⚠️ INACCURATE INFO about promoted teams ⚠️ </h5>",
-    unsafe_allow_html=True
-)
+# League-specific disclaimer about promoted teams
+if league == "Norway":
+    disclaimer = "⚠️ Info about promoted teams in Norway (Bryne, Valerenga) might be inaccurate"
+elif league == "Sweden":
+    disclaimer = "⚠️ Info about promoted teams in Sweden (Degerfors, Oster)  might be inaccurate"
+elif league == "Finland":
+    disclaimer = "⚠️ Info about promoted teams in Finland (KTP, Jaro) might be inaccurate"
+else:
+    disclaimer = ""
+
+if disclaimer:
+    st.markdown(
+        f"<h5 style='text-align: center;'>{disclaimer}</h5>",
+        unsafe_allow_html=True
+    )
+
 col1, col2, col3, col4, col5 = st.columns(5)
 show_prediction = show_h2h = show_last15 = show_league_avg = show_match_goals = False
 
