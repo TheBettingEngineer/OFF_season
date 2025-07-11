@@ -49,7 +49,7 @@ import datetime
 
 now = datetime.datetime.now()
 last_log_time = st.session_state.get("last_log_time")
-
+log_app_open = False
 if not last_log_time or (now - last_log_time).total_seconds() > 1800:
     log_app_open = True
 
