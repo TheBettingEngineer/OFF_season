@@ -33,11 +33,9 @@ def log_to_sheet(action, league="", home="", away=""):
             action
         ]
         sheet.append_row(row)
-        print("Attempting to log:", row)
 
     except Exception as e:
         st.warning(f"⚠️ Logging failed: {e}")
-st.success("Logged: Match Goal Prediction")
 
 
 
