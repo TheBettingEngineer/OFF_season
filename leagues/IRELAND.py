@@ -155,7 +155,7 @@ def get_last_n_h2h(home_team, away_team, n, df):
     return h2h_matches.head(n)[["Date", "Home", "Away", "HG", "AG", "Res"]]
 
 
-import matplotlib.pyplot as plt
+
 
 def plot_last_matches_goals_dual(df, home_team, away_team, num_matches=10):
     import matplotlib.pyplot as plt

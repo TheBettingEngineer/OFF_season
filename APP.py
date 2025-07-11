@@ -180,7 +180,8 @@ if show_prediction:
 if show_h2h:
     st.markdown("### Last Head-to-Head Results")
     h2h_df = get_h2h(home, away, n=3, df=df)
-    st.dataframe(h2h_df)
+    h2h_df = h2h_df.sort_values("Date", ascending=False).reset_index(drop=True)
+    st.dataframe(h2h_df, use_container_width=True, hide_index=True)
 
 if show_last15:
     st.markdown("### Last 15 Matches – Goals Scored & Conceded")
