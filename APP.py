@@ -184,6 +184,7 @@ if show_h2h:
     # Convert 'Date' to datetime and sort
     h2h_df["Date"] = pd.to_datetime(h2h_df["Date"], dayfirst=True)
     h2h_df = h2h_df.sort_values("Date", ascending=False).reset_index(drop=True)
+    h2h_df["Date"] = h2h_df["Date"].dt.strftime("%d/%m/%Y")  # Format nicely
 
     # Show table without index
     st.dataframe(h2h_df, use_container_width=True, hide_index=True)
