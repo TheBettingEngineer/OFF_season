@@ -86,6 +86,11 @@ from leagues.FINLAND import (
     get_team_goal_averages as avg_finland,
 
 )
+from leagues.IRELAND import (
+    load_ireland_model, get_last_n_h2h as h2h_ireland,
+    plot_last_matches_goals_dual as plot_ireland,
+    get_team_goal_averages as avg_ireland,
+)
 
 # Sidebar league selector
 league = st.sidebar.selectbox("Select League", ["Norway", "Sweden", "Finland"])
@@ -101,11 +106,19 @@ elif league == "Sweden":
     get_h2h = h2h_sweden
     plot_goals = plot_sweden
     get_avg = avg_sweden
+
+elif league == "Ireland":
+    goal_model, df, match_goal_model = load_ireland_model()
+    get_h2h = h2h_ireland
+    plot_goals = plot_ireland
+    get_avg = avg_ireland
 else:
     goal_model, df, match_goal_model = load_finland_model()
     get_h2h = h2h_finland
     plot_goals = plot_finland
     get_avg = avg_finland
+
+
 
 # Team selection
 teams = sorted(set(df["Home"].unique()) | set(df["Away"].unique()))
@@ -123,6 +136,8 @@ elif league == "Sweden":
     st.warning( "⚠️ Info about promoted teams (Degerfors, Oster)  might be inaccurate")
 elif league == "Finland":
     st.warning( "⚠️ Info about promoted teams (KTP, Jaro) might be inaccurate")
+elif league == "Ireland":
+    st.warning("⚠️ Info about promoted teams (Cork City) might be inaccurate")
 
 
 

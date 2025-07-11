@@ -5,7 +5,7 @@ from sklearn.calibration import CalibratedClassifierCV
 # streamlit run APP.py
 
 
-def load_norway_model():
+def load_ireland_model():
     # Load data
     pl_df = pd.read_csv("data/IRL.csv")
     elo_df = pd.read_csv("data/rating_IRL.csv")
