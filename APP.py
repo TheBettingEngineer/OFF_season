@@ -59,9 +59,9 @@ if "last_log_time" not in st.session_state:
 time_diff = (now - st.session_state["last_log_time"]).total_seconds()
 should_log = not st.session_state["app_open_logged"] or time_diff > 1800
 
-if should_log:
+if should_log and "league" in st.session_state:
     try:
-        log_to_sheet("App Opened")
+        log_to_sheet("App Opened", st.session_state["league"])
         st.session_state["last_log_time"] = now
         st.session_state["app_open_logged"] = True
     except Exception as e:
