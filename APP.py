@@ -48,24 +48,6 @@ st.set_page_config(
 st.image("header1.png", use_container_width=True)
 
 
-now = datetime.datetime.now()
-
-# First-time setup
-if "last_log_time" not in st.session_state:
-    st.session_state["last_log_time"] = now
-    st.session_state["app_open_logged"] = False
-
-# Check if we should log again (after 30 minutes)
-time_diff = (now - st.session_state["last_log_time"]).total_seconds()
-should_log = not st.session_state["app_open_logged"] or time_diff > 1800
-
-if should_log and "league" in st.session_state:
-    try:
-        log_to_sheet("App Opened", st.session_state["league"])
-        st.session_state["last_log_time"] = now
-        st.session_state["app_open_logged"] = True
-    except Exception as e:
-        st.warning(f"⚠️ Logging failed: {e}")
 
 
 
@@ -93,7 +75,37 @@ from leagues.IRELAND import (
 )
 
 # Sidebar league selector
-league = st.sidebar.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland"])
+# League selector and interaction tracker
+default_league = "Norway"
+league = st.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland"])
+st.session_state["league"] = league
+
+# Only log once per session or every 30 mins, and only after user interaction
+now = datetime.datetime.now()
+if "last_log_time" not in st.session_state:
+    st.session_state["last_log_time"] = now
+    st.session_state["app_open_logged"] = False
+    st.session_state["user_interacted"] = False
+
+# Detect if user changed league from default
+if league != default_league and not st.session_state["user_interacted"]:
+    st.session_state["user_interacted"] = True
+
+# Log only after user interaction (e.g., changed league), and once every 30 minutes
+time_diff = (now - st.session_state["last_log_time"]).total_seconds()
+should_log = st.session_state["user_interacted"] and (
+    not st.session_state["app_open_logged"] or time_diff > 1800
+)
+
+if should_log:
+    try:
+        log_to_sheet("App Opened", league)
+        st.session_state["last_log_time"] = now
+        st.session_state["app_open_logged"] = True
+    except Exception as e:
+        st.warning(f"⚠️ Logging failed: {e}")
+
+
 
 # Load models and data
 if league == "Norway":
