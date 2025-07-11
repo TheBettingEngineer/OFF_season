@@ -45,13 +45,26 @@ st.set_page_config(
 
 st.image("header1.png", use_container_width=True)
 
-import datetime
 
 now = datetime.datetime.now()
-last_log_time = st.session_state.get("last_log_time")
-log_app_open = False
-if not last_log_time or (now - last_log_time).total_seconds() > 1800:
-    log_app_open = True
+
+# First-time setup
+if "last_log_time" not in st.session_state:
+    st.session_state["last_log_time"] = now
+    st.session_state["app_open_logged"] = False
+
+# Check if we should log again (after 30 minutes)
+time_diff = (now - st.session_state["last_log_time"]).total_seconds()
+should_log = not st.session_state["app_open_logged"] or time_diff > 1800
+
+if should_log:
+    try:
+        log_to_sheet("App Opened")
+        st.session_state["last_log_time"] = now
+        st.session_state["app_open_logged"] = True
+    except Exception as e:
+        st.warning(f"⚠️ Logging failed: {e}")
+
 
 
 # Import from league modules
@@ -140,12 +153,7 @@ with col5:
         show_league_avg = True
         log_to_sheet("League Averages", league, home, away)
 
-if log_app_open:
-    st.session_state.last_log_time = now
-    try:
-        log_to_sheet("App Opened", "", "", "")
-    except Exception as e:
-        st.warning(f"⚠️ Logging failed: {e}")
+
 # Display output sections
 if show_prediction:
     st.markdown("### Goal Probability Prediction")
