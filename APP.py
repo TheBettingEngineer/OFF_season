@@ -50,12 +50,8 @@ import datetime
 now = datetime.datetime.now()
 last_log_time = st.session_state.get("last_log_time")
 
-if not last_log_time or (now - last_log_time).total_seconds() > 1800:  # 30 minutes
-    st.session_state.last_log_time = now
-    try:
-        log_to_sheet("App Opened", "", "", "")
-    except Exception as e:
-        st.warning(f"⚠️ Logging failed: {e}")
+if not last_log_time or (now - last_log_time).total_seconds() > 1800:
+    log_app_open = True
 
 
 # Import from league modules
@@ -144,7 +140,12 @@ with col5:
         show_league_avg = True
         log_to_sheet("League Averages", league, home, away)
 
-
+if log_app_open:
+    st.session_state.last_log_time = now
+    try:
+        log_to_sheet("App Opened", "", "", "")
+    except Exception as e:
+        st.warning(f"⚠️ Logging failed: {e}")
 # Display output sections
 if show_prediction:
     st.markdown("### Goal Probability Prediction")
