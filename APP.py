@@ -107,11 +107,11 @@ if home == away:
 # Button row
 # League-specific disclaimer about promoted teams
 if league == "Norway":
-    st.warning( "⚠️ Info about promoted teams in Norway (Bryne, Valerenga) might be inaccurate")
+    st.warning( "⚠️ Info about promoted teams (Bryne, Valerenga) might be inaccurate")
 elif league == "Sweden":
-    st.warning( "⚠️ Info about promoted teams in Sweden (Degerfors, Oster)  might be inaccurate")
+    st.warning( "⚠️ Info about promoted teams (Degerfors, Oster)  might be inaccurate")
 elif league == "Finland":
-    st.warning( "⚠️ Info about promoted teams in Finland (KTP, Jaro) might be inaccurate")
+    st.warning( "⚠️ Info about promoted teams (KTP, Jaro) might be inaccurate")
 
 
 
