@@ -93,7 +93,7 @@ from leagues.IRELAND import (
 )
 
 # Sidebar league selector
-league = st.sidebar.selectbox("Select League", ["Norway", "Sweden", "Finland"])
+league = st.sidebar.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland"])
 
 # Load models and data
 if league == "Norway":
