@@ -1,0 +1,281 @@
+﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res
+Denmark,Superliga,2023/2024,18/02/2024,15:00,Silkeborg,FC Copenhagen,0,3,A
+Denmark,Superliga,2023/2024,18/02/2024,17:00,Brondby,Midtjylland,1,0,H
+Denmark,Superliga,2023/2024,19/02/2024,18:00,Vejle,Aarhus,0,0,D
+Denmark,Superliga,2023/2024,23/02/2024,18:00,Randers FC,Lyngby,1,0,H
+Denmark,Superliga,2023/2024,25/02/2024,13:00,Hvidovre IF,Viborg,2,2,D
+Denmark,Superliga,2023/2024,25/02/2024,13:00,Vejle,Silkeborg,2,0,H
+Denmark,Superliga,2023/2024,25/02/2024,15:00,Odense,Brondby,0,3,A
+Denmark,Superliga,2023/2024,25/02/2024,17:00,Aarhus,Midtjylland,2,3,A
+Denmark,Superliga,2023/2024,26/02/2024,18:00,FC Copenhagen,Nordsjaelland,2,0,H
+Denmark,Superliga,2023/2024,01/03/2024,18:00,Midtjylland,FC Copenhagen,2,0,H
+Denmark,Superliga,2023/2024,03/03/2024,13:00,Lyngby,Hvidovre IF,2,4,A
+Denmark,Superliga,2023/2024,03/03/2024,13:00,Viborg,Randers FC,3,0,H
+Denmark,Superliga,2023/2024,03/03/2024,15:00,Brondby,Vejle,1,1,D
+Denmark,Superliga,2023/2024,03/03/2024,17:00,Aarhus,Odense,1,1,D
+Denmark,Superliga,2023/2024,04/03/2024,18:00,Nordsjaelland,Silkeborg,3,1,H
+Denmark,Superliga,2023/2024,08/03/2024,18:00,Hvidovre IF,Nordsjaelland,1,2,A
+Denmark,Superliga,2023/2024,10/03/2024,13:00,Silkeborg,Aarhus,0,1,A
+Denmark,Superliga,2023/2024,10/03/2024,13:00,Vejle,Odense,0,1,A
+Denmark,Superliga,2023/2024,10/03/2024,15:00,FC Copenhagen,Lyngby,4,0,H
+Denmark,Superliga,2023/2024,10/03/2024,17:00,Viborg,Brondby,1,2,A
+Denmark,Superliga,2023/2024,11/03/2024,18:00,Randers FC,Midtjylland,0,1,A
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Aarhus,Hvidovre IF,1,0,H
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Brondby,Silkeborg,4,1,H
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Lyngby,Viborg,2,0,H
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Midtjylland,Vejle,3,0,H
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Nordsjaelland,Randers FC,1,1,D
+Denmark,Superliga,2023/2024,17/03/2024,16:00,Odense,FC Copenhagen,0,2,A
+Denmark,Superliga,2023/2024,31/03/2024,13:00,Randers FC,Lyngby,6,2,H
+Denmark,Superliga,2023/2024,31/03/2024,15:00,Viborg,Hvidovre IF,3,1,H
+Denmark,Superliga,2023/2024,01/04/2024,13:00,FC Copenhagen,Brondby,1,2,A
+Denmark,Superliga,2023/2024,01/04/2024,15:00,Midtjylland,Nordsjaelland,2,3,A
+Denmark,Superliga,2023/2024,01/04/2024,17:00,Silkeborg,Aarhus,2,2,D
+Denmark,Superliga,2023/2024,02/04/2024,18:00,Odense,Vejle,0,1,A
+Denmark,Superliga,2023/2024,05/04/2024,18:00,Lyngby,Odense,0,0,D
+Denmark,Superliga,2023/2024,07/04/2024,13:00,Hvidovre IF,Randers FC,1,3,A
+Denmark,Superliga,2023/2024,07/04/2024,13:00,Vejle,Viborg,1,1,D
+Denmark,Superliga,2023/2024,07/04/2024,15:00,Nordsjaelland,FC Copenhagen,2,1,H
+Denmark,Superliga,2023/2024,07/04/2024,17:00,Aarhus,Midtjylland,0,1,A
+Denmark,Superliga,2023/2024,08/04/2024,18:00,Brondby,Silkeborg,1,1,D
+Denmark,Superliga,2023/2024,12/04/2024,18:00,Odense,Viborg,1,3,A
+Denmark,Superliga,2023/2024,14/04/2024,13:00,Lyngby,Hvidovre IF,1,1,D
+Denmark,Superliga,2023/2024,14/04/2024,13:00,Vejle,Randers FC,1,2,A
+Denmark,Superliga,2023/2024,14/04/2024,15:00,Aarhus,Brondby,2,2,D
+Denmark,Superliga,2023/2024,14/04/2024,17:00,Midtjylland,FC Copenhagen,2,2,D
+Denmark,Superliga,2023/2024,15/04/2024,18:00,Silkeborg,Nordsjaelland,0,1,A
+Denmark,Superliga,2023/2024,19/04/2024,18:00,Randers FC,Odense,2,2,D
+Denmark,Superliga,2023/2024,21/04/2024,13:00,Hvidovre IF,Vejle,2,1,H
+Denmark,Superliga,2023/2024,21/04/2024,13:00,Viborg,Lyngby,2,1,H
+Denmark,Superliga,2023/2024,21/04/2024,15:00,FC Copenhagen,Silkeborg,2,0,H
+Denmark,Superliga,2023/2024,21/04/2024,17:00,Brondby,Midtjylland,2,1,H
+Denmark,Superliga,2023/2024,22/04/2024,18:00,Nordsjaelland,Aarhus,7,2,H
+Denmark,Superliga,2023/2024,26/04/2024,18:00,Lyngby,Vejle,1,1,D
+Denmark,Superliga,2023/2024,28/04/2024,13:00,Odense,Hvidovre IF,1,2,A
+Denmark,Superliga,2023/2024,28/04/2024,13:00,Viborg,Randers FC,0,0,D
+Denmark,Superliga,2023/2024,28/04/2024,15:00,Nordsjaelland,Brondby,1,1,D
+Denmark,Superliga,2023/2024,28/04/2024,17:00,FC Copenhagen,Aarhus,3,2,H
+Denmark,Superliga,2023/2024,29/04/2024,18:00,Silkeborg,Midtjylland,3,0,H
+Denmark,Superliga,2023/2024,03/05/2024,18:00,Aarhus,Nordsjaelland,1,3,A
+Denmark,Superliga,2023/2024,05/05/2024,13:00,Hvidovre IF,Viborg,0,1,A
+Denmark,Superliga,2023/2024,05/05/2024,13:00,Lyngby,Randers FC,2,1,H
+Denmark,Superliga,2023/2024,05/05/2024,15:00,Silkeborg,FC Copenhagen,0,3,A
+Denmark,Superliga,2023/2024,05/05/2024,17:00,Midtjylland,Brondby,3,2,H
+Denmark,Superliga,2023/2024,06/05/2024,18:00,Vejle,Odense,3,2,H
+Denmark,Superliga,2023/2024,10/05/2024,18:00,Odense,Lyngby,1,2,A
+Denmark,Superliga,2023/2024,12/05/2024,13:00,Randers FC,Hvidovre IF,2,2,D
+Denmark,Superliga,2023/2024,12/05/2024,13:00,Viborg,Vejle,1,2,A
+Denmark,Superliga,2023/2024,12/05/2024,15:00,Brondby,FC Copenhagen,1,3,A
+Denmark,Superliga,2023/2024,12/05/2024,17:00,Midtjylland,Aarhus,2,1,H
+Denmark,Superliga,2023/2024,12/05/2024,19:00,Nordsjaelland,Silkeborg,4,1,H
+Denmark,Superliga,2023/2024,15/05/2024,17:00,Randers FC,Viborg,1,0,H
+Denmark,Superliga,2023/2024,15/05/2024,17:00,Vejle,Lyngby,1,0,H
+Denmark,Superliga,2023/2024,15/05/2024,19:00,Brondby,Nordsjaelland,1,0,H
+Denmark,Superliga,2023/2024,16/05/2024,17:00,Aarhus,Silkeborg,0,1,A
+Denmark,Superliga,2023/2024,16/05/2024,17:00,Hvidovre IF,Odense,1,2,A
+Denmark,Superliga,2023/2024,16/05/2024,19:00,FC Copenhagen,Midtjylland,1,2,A
+Denmark,Superliga,2023/2024,19/05/2024,13:00,Odense,Randers FC,2,0,H
+Denmark,Superliga,2023/2024,20/05/2024,13:00,Lyngby,Viborg,3,1,H
+Denmark,Superliga,2023/2024,20/05/2024,13:00,Vejle,Hvidovre IF,2,0,H
+Denmark,Superliga,2023/2024,20/05/2024,15:00,Silkeborg,Brondby,0,2,A
+Denmark,Superliga,2023/2024,20/05/2024,17:00,Nordsjaelland,Midtjylland,3,3,D
+Denmark,Superliga,2023/2024,21/05/2024,18:00,Aarhus,FC Copenhagen,3,2,H
+Denmark,Superliga,2023/2024,25/05/2024,14:00,Hvidovre IF,Lyngby,0,0,D
+Denmark,Superliga,2023/2024,25/05/2024,14:00,Randers FC,Vejle,1,0,H
+Denmark,Superliga,2023/2024,25/05/2024,14:00,Viborg,Odense,2,1,H
+Denmark,Superliga,2023/2024,26/05/2024,16:00,Brondby,Aarhus,2,3,A
+Denmark,Superliga,2023/2024,26/05/2024,16:00,FC Copenhagen,Nordsjaelland,1,1,D
+Denmark,Superliga,2023/2024,26/05/2024,16:00,Midtjylland,Silkeborg,3,3,D
+Denmark,Superliga,2023/2024,31/05/2024,18:00,FC Copenhagen,Randers FC,2,1,H
+Denmark,Superliga,2024/2025,19/07/2024,17:00,Aarhus,Midtjylland,1,1,D
+Denmark,Superliga,2024/2025,19/07/2024,19:00,Nordsjaelland,Aalborg,3,0,H
+Denmark,Superliga,2024/2025,21/07/2024,13:00,Silkeborg,Sonderjyske,1,0,H
+Denmark,Superliga,2024/2025,21/07/2024,15:00,Vejle,Randers FC,2,3,A
+Denmark,Superliga,2024/2025,21/07/2024,17:00,Viborg,Brondby,3,3,D
+Denmark,Superliga,2024/2025,22/07/2024,18:00,Lyngby,FC Copenhagen,0,2,A
+Denmark,Superliga,2024/2025,26/07/2024,18:00,Sonderjyske,Lyngby,1,1,D
+Denmark,Superliga,2024/2025,27/07/2024,15:00,Nordsjaelland,Midtjylland,2,2,D
+Denmark,Superliga,2024/2025,28/07/2024,13:00,Randers FC,Viborg,3,1,H
+Denmark,Superliga,2024/2025,28/07/2024,15:00,Aalborg,Silkeborg,2,1,H
+Denmark,Superliga,2024/2025,28/07/2024,17:00,FC Copenhagen,Aarhus,3,2,H
+Denmark,Superliga,2024/2025,29/07/2024,18:00,Brondby,Vejle,2,1,H
+Denmark,Superliga,2024/2025,02/08/2024,18:00,Aarhus,Sonderjyske,4,0,H
+Denmark,Superliga,2024/2025,03/08/2024,15:00,Midtjylland,Aalborg,2,0,H
+Denmark,Superliga,2024/2025,04/08/2024,13:00,Silkeborg,Viborg,3,2,H
+Denmark,Superliga,2024/2025,04/08/2024,15:00,FC Copenhagen,Randers FC,1,1,D
+Denmark,Superliga,2024/2025,04/08/2024,17:00,Lyngby,Brondby,0,2,A
+Denmark,Superliga,2024/2025,05/08/2024,18:00,Vejle,Nordsjaelland,0,1,A
+Denmark,Superliga,2024/2025,09/08/2024,18:00,Midtjylland,Vejle,2,0,H
+Denmark,Superliga,2024/2025,11/08/2024,13:00,Nordsjaelland,Lyngby,1,1,D
+Denmark,Superliga,2024/2025,11/08/2024,13:00,Randers FC,Silkeborg,0,2,A
+Denmark,Superliga,2024/2025,11/08/2024,15:00,Brondby,Aarhus,0,1,A
+Denmark,Superliga,2024/2025,11/08/2024,17:00,Sonderjyske,FC Copenhagen,0,2,A
+Denmark,Superliga,2024/2025,12/08/2024,18:00,Viborg,Aalborg,2,3,A
+Denmark,Superliga,2024/2025,16/08/2024,18:00,Lyngby,Midtjylland,1,2,A
+Denmark,Superliga,2024/2025,18/08/2024,13:00,Randers FC,Sonderjyske,1,2,A
+Denmark,Superliga,2024/2025,18/08/2024,13:00,Silkeborg,Nordsjaelland,4,1,H
+Denmark,Superliga,2024/2025,18/08/2024,15:00,FC Copenhagen,Viborg,1,1,D
+Denmark,Superliga,2024/2025,18/08/2024,17:00,Aalborg,Brondby,0,4,A
+Denmark,Superliga,2024/2025,19/08/2024,18:00,Aarhus,Vejle,5,1,H
+Denmark,Superliga,2024/2025,23/08/2024,18:00,Aalborg,Aarhus,0,4,A
+Denmark,Superliga,2024/2025,24/08/2024,15:00,Midtjylland,Sonderjyske,3,2,H
+Denmark,Superliga,2024/2025,25/08/2024,13:00,Vejle,Silkeborg,1,3,A
+Denmark,Superliga,2024/2025,25/08/2024,15:00,Nordsjaelland,FC Copenhagen,3,2,H
+Denmark,Superliga,2024/2025,25/08/2024,17:00,Brondby,Randers FC,2,2,D
+Denmark,Superliga,2024/2025,26/08/2024,18:00,Viborg,Lyngby,1,0,H
+Denmark,Superliga,2024/2025,30/08/2024,18:00,Lyngby,Vejle,1,0,H
+Denmark,Superliga,2024/2025,31/08/2024,15:00,Aarhus,Nordsjaelland,4,2,H
+Denmark,Superliga,2024/2025,01/09/2024,13:00,FC Copenhagen,Brondby,3,1,H
+Denmark,Superliga,2024/2025,01/09/2024,13:00,Sonderjyske,Viborg,2,2,D
+Denmark,Superliga,2024/2025,01/09/2024,15:00,Silkeborg,Midtjylland,1,3,A
+Denmark,Superliga,2024/2025,01/09/2024,17:00,Randers FC,Aalborg,1,0,H
+Denmark,Superliga,2024/2025,13/09/2024,18:00,Aalborg,Lyngby,2,1,H
+Denmark,Superliga,2024/2025,14/09/2024,17:00,Midtjylland,FC Copenhagen,2,1,H
+Denmark,Superliga,2024/2025,15/09/2024,13:00,Aarhus,Silkeborg,1,1,D
+Denmark,Superliga,2024/2025,15/09/2024,15:00,Vejle,Viborg,0,5,A
+Denmark,Superliga,2024/2025,15/09/2024,17:00,Brondby,Sonderjyske,2,0,H
+Denmark,Superliga,2024/2025,16/09/2024,18:00,Nordsjaelland,Randers FC,1,1,D
+Denmark,Superliga,2024/2025,20/09/2024,18:00,Viborg,Nordsjaelland,3,2,H
+Denmark,Superliga,2024/2025,22/09/2024,13:00,Randers FC,Midtjylland,2,2,D
+Denmark,Superliga,2024/2025,22/09/2024,13:00,Sonderjyske,Vejle,2,1,H
+Denmark,Superliga,2024/2025,22/09/2024,15:00,Lyngby,Aarhus,0,0,D
+Denmark,Superliga,2024/2025,22/09/2024,17:00,Silkeborg,Brondby,3,3,D
+Denmark,Superliga,2024/2025,23/09/2024,18:00,FC Copenhagen,Aalborg,2,0,H
+Denmark,Superliga,2024/2025,28/09/2024,15:00,Aarhus,Randers FC,2,2,D
+Denmark,Superliga,2024/2025,29/09/2024,13:00,Aalborg,Sonderjyske,3,0,H
+Denmark,Superliga,2024/2025,29/09/2024,13:00,Midtjylland,Viborg,3,1,H
+Denmark,Superliga,2024/2025,29/09/2024,15:00,Lyngby,Silkeborg,2,2,D
+Denmark,Superliga,2024/2025,29/09/2024,17:00,Vejle,FC Copenhagen,1,2,A
+Denmark,Superliga,2024/2025,30/09/2024,18:00,Nordsjaelland,Brondby,4,1,H
+Denmark,Superliga,2024/2025,04/10/2024,18:00,Vejle,Aalborg,2,2,D
+Denmark,Superliga,2024/2025,06/10/2024,13:00,Randers FC,Lyngby,1,1,D
+Denmark,Superliga,2024/2025,06/10/2024,13:00,Sonderjyske,Nordsjaelland,1,4,A
+Denmark,Superliga,2024/2025,06/10/2024,15:00,Viborg,Aarhus,1,1,D
+Denmark,Superliga,2024/2025,06/10/2024,17:00,Brondby,Midtjylland,2,0,H
+Denmark,Superliga,2024/2025,06/10/2024,19:00,Silkeborg,FC Copenhagen,2,2,D
+Denmark,Superliga,2024/2025,18/10/2024,18:00,FC Copenhagen,Vejle,3,1,H
+Denmark,Superliga,2024/2025,20/10/2024,13:00,Aalborg,Randers FC,0,2,A
+Denmark,Superliga,2024/2025,20/10/2024,13:00,Lyngby,Viborg,0,0,D
+Denmark,Superliga,2024/2025,20/10/2024,15:00,Nordsjaelland,Silkeborg,1,1,D
+Denmark,Superliga,2024/2025,20/10/2024,17:00,Sonderjyske,Midtjylland,3,2,H
+Denmark,Superliga,2024/2025,21/10/2024,18:00,Aarhus,Brondby,1,0,H
+Denmark,Superliga,2024/2025,25/10/2024,18:00,Silkeborg,Aalborg,1,1,D
+Denmark,Superliga,2024/2025,27/10/2024,11:00,Brondby,FC Copenhagen,0,0,D
+Denmark,Superliga,2024/2025,27/10/2024,13:00,Vejle,Lyngby,2,0,H
+Denmark,Superliga,2024/2025,27/10/2024,15:00,Viborg,Sonderjyske,4,2,H
+Denmark,Superliga,2024/2025,27/10/2024,17:00,Midtjylland,Aarhus,2,0,H
+Denmark,Superliga,2024/2025,28/10/2024,18:00,Randers FC,Nordsjaelland,4,0,H
+Denmark,Superliga,2024/2025,02/11/2024,16:00,Sonderjyske,Randers FC,1,4,A
+Denmark,Superliga,2024/2025,03/11/2024,13:00,Midtjylland,Brondby,1,5,A
+Denmark,Superliga,2024/2025,03/11/2024,13:00,Nordsjaelland,Viborg,2,1,H
+Denmark,Superliga,2024/2025,03/11/2024,15:00,Aarhus,Lyngby,2,1,H
+Denmark,Superliga,2024/2025,03/11/2024,17:00,Aalborg,Vejle,3,3,D
+Denmark,Superliga,2024/2025,04/11/2024,18:00,FC Copenhagen,Silkeborg,2,2,D
+Denmark,Superliga,2024/2025,08/11/2024,18:00,Vejle,Sonderjyske,1,1,D
+Denmark,Superliga,2024/2025,10/11/2024,13:00,Lyngby,Aalborg,2,2,D
+Denmark,Superliga,2024/2025,10/11/2024,13:00,Silkeborg,Randers FC,1,0,H
+Denmark,Superliga,2024/2025,10/11/2024,15:00,Viborg,Midtjylland,1,0,H
+Denmark,Superliga,2024/2025,10/11/2024,17:00,Aarhus,FC Copenhagen,1,1,D
+Denmark,Superliga,2024/2025,10/11/2024,19:00,Brondby,Nordsjaelland,1,1,D
+Denmark,Superliga,2024/2025,22/11/2024,18:00,Nordsjaelland,Aarhus,1,0,H
+Denmark,Superliga,2024/2025,24/11/2024,13:00,Aalborg,Viborg,0,0,D
+Denmark,Superliga,2024/2025,24/11/2024,13:00,Randers FC,Vejle,2,0,H
+Denmark,Superliga,2024/2025,24/11/2024,15:00,Sonderjyske,Brondby,2,2,D
+Denmark,Superliga,2024/2025,24/11/2024,17:00,FC Copenhagen,Lyngby,2,1,H
+Denmark,Superliga,2024/2025,25/11/2024,18:00,Midtjylland,Silkeborg,1,0,H
+Denmark,Superliga,2024/2025,29/11/2024,18:00,Brondby,Aalborg,1,0,H
+Denmark,Superliga,2024/2025,01/12/2024,13:00,Lyngby,Sonderjyske,0,2,A
+Denmark,Superliga,2024/2025,01/12/2024,13:00,Viborg,Randers FC,1,2,A
+Denmark,Superliga,2024/2025,01/12/2024,15:00,Vejle,Midtjylland,0,3,A
+Denmark,Superliga,2024/2025,01/12/2024,17:00,Silkeborg,Aarhus,1,1,D
+Denmark,Superliga,2024/2025,02/12/2024,18:00,FC Copenhagen,Nordsjaelland,3,1,H
+Denmark,Superliga,2024/2025,14/02/2025,18:00,Brondby,Viborg,4,1,H
+Denmark,Superliga,2024/2025,16/02/2025,13:00,Silkeborg,Vejle,0,1,A
+Denmark,Superliga,2024/2025,16/02/2025,15:00,Sonderjyske,Aarhus,1,4,A
+Denmark,Superliga,2024/2025,16/02/2025,17:00,Midtjylland,Lyngby,1,0,H
+Denmark,Superliga,2024/2025,17/02/2025,18:00,Randers FC,FC Copenhagen,1,2,A
+Denmark,Superliga,2024/2025,21/02/2025,18:00,Lyngby,Randers FC,0,0,D
+Denmark,Superliga,2024/2025,23/02/2025,13:00,Aarhus,Aalborg,4,0,H
+Denmark,Superliga,2024/2025,23/02/2025,13:00,Nordsjaelland,Sonderjyske,3,2,H
+Denmark,Superliga,2024/2025,23/02/2025,15:00,Vejle,Brondby,2,2,D
+Denmark,Superliga,2024/2025,23/02/2025,17:00,FC Copenhagen,Midtjylland,1,0,H
+Denmark,Superliga,2024/2025,24/02/2025,18:00,Viborg,Silkeborg,1,4,A
+Denmark,Superliga,2024/2025,26/02/2025,18:30,Aalborg,Nordsjaelland,1,2,A
+Denmark,Superliga,2024/2025,28/02/2025,18:00,Randers FC,Aarhus,1,1,D
+Denmark,Superliga,2024/2025,02/03/2025,13:00,Sonderjyske,Silkeborg,1,3,A
+Denmark,Superliga,2024/2025,02/03/2025,13:00,Viborg,Vejle,3,1,H
+Denmark,Superliga,2024/2025,02/03/2025,15:00,Midtjylland,Nordsjaelland,2,1,H
+Denmark,Superliga,2024/2025,02/03/2025,17:00,Aalborg,FC Copenhagen,0,0,D
+Denmark,Superliga,2024/2025,03/03/2025,18:00,Brondby,Lyngby,1,1,D
+Denmark,Superliga,2024/2025,07/03/2025,18:00,Nordsjaelland,Vejle,3,1,H
+Denmark,Superliga,2024/2025,09/03/2025,13:00,Aalborg,Midtjylland,1,4,A
+Denmark,Superliga,2024/2025,09/03/2025,13:00,Silkeborg,Lyngby,0,1,A
+Denmark,Superliga,2024/2025,09/03/2025,15:00,Aarhus,Viborg,1,1,D
+Denmark,Superliga,2024/2025,09/03/2025,17:00,FC Copenhagen,Sonderjyske,1,1,D
+Denmark,Superliga,2024/2025,10/03/2025,18:00,Randers FC,Brondby,4,2,H
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Brondby,Silkeborg,2,2,D
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Lyngby,Nordsjaelland,1,0,H
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Midtjylland,Randers FC,4,2,H
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Sonderjyske,Aalborg,0,3,A
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Vejle,Aarhus,3,2,H
+Denmark,Superliga,2024/2025,16/03/2025,16:00,Viborg,FC Copenhagen,3,2,H
+Denmark,Superliga,2024/2025,28/03/2025,18:00,Aalborg,Viborg,0,4,A
+Denmark,Superliga,2024/2025,30/03/2025,13:00,Lyngby,Vejle,1,2,A
+Denmark,Superliga,2024/2025,30/03/2025,13:00,Sonderjyske,Silkeborg,2,1,H
+Denmark,Superliga,2024/2025,30/03/2025,15:00,Aarhus,Nordsjaelland,2,0,H
+Denmark,Superliga,2024/2025,30/03/2025,17:00,Midtjylland,Brondby,0,2,A
+Denmark,Superliga,2024/2025,31/03/2025,18:00,FC Copenhagen,Randers FC,1,0,H
+Denmark,Superliga,2024/2025,04/04/2025,18:00,Randers FC,Midtjylland,2,1,H
+Denmark,Superliga,2024/2025,06/04/2025,13:00,Silkeborg,Lyngby,2,1,H
+Denmark,Superliga,2024/2025,06/04/2025,13:00,Viborg,Sonderjyske,2,1,H
+Denmark,Superliga,2024/2025,06/04/2025,15:00,Vejle,Aalborg,1,1,D
+Denmark,Superliga,2024/2025,06/04/2025,17:00,Nordsjaelland,FC Copenhagen,0,1,A
+Denmark,Superliga,2024/2025,07/04/2025,18:00,Brondby,Aarhus,2,1,H
+Denmark,Superliga,2024/2025,11/04/2025,18:00,Aalborg,Lyngby,2,2,D
+Denmark,Superliga,2024/2025,13/04/2025,13:00,FC Copenhagen,Brondby,1,2,A
+Denmark,Superliga,2024/2025,13/04/2025,13:00,Viborg,Silkeborg,2,1,H
+Denmark,Superliga,2024/2025,13/04/2025,15:00,Aarhus,Midtjylland,1,1,D
+Denmark,Superliga,2024/2025,13/04/2025,17:00,Nordsjaelland,Randers FC,5,2,H
+Denmark,Superliga,2024/2025,14/04/2025,18:00,Sonderjyske,Vejle,1,0,H
+Denmark,Superliga,2024/2025,16/04/2025,18:00,Silkeborg,Aalborg,4,0,H
+Denmark,Superliga,2024/2025,17/04/2025,13:00,Lyngby,Sonderjyske,0,2,A
+Denmark,Superliga,2024/2025,17/04/2025,13:00,Vejle,Viborg,3,3,D
+Denmark,Superliga,2024/2025,17/04/2025,15:00,Randers FC,Aarhus,3,1,H
+Denmark,Superliga,2024/2025,17/04/2025,17:00,Midtjylland,FC Copenhagen,4,2,H
+Denmark,Superliga,2024/2025,18/04/2025,18:00,Brondby,Nordsjaelland,0,0,D
+Denmark,Superliga,2024/2025,20/04/2025,16:00,Aalborg,Sonderjyske,2,3,A
+Denmark,Superliga,2024/2025,21/04/2025,13:00,Vejle,Silkeborg,0,4,A
+Denmark,Superliga,2024/2025,21/04/2025,13:00,Viborg,Lyngby,1,1,D
+Denmark,Superliga,2024/2025,21/04/2025,15:00,Brondby,Randers FC,4,3,H
+Denmark,Superliga,2024/2025,21/04/2025,17:00,FC Copenhagen,Aarhus,3,1,H
+Denmark,Superliga,2024/2025,22/04/2025,18:00,Nordsjaelland,Midtjylland,3,2,H
+Denmark,Superliga,2024/2025,25/04/2025,18:00,Randers FC,Brondby,0,0,D
+Denmark,Superliga,2024/2025,27/04/2025,13:00,Lyngby,Silkeborg,2,0,H
+Denmark,Superliga,2024/2025,27/04/2025,13:00,Sonderjyske,Viborg,2,2,D
+Denmark,Superliga,2024/2025,27/04/2025,15:00,Aarhus,FC Copenhagen,1,3,A
+Denmark,Superliga,2024/2025,27/04/2025,17:00,Midtjylland,Nordsjaelland,5,0,H
+Denmark,Superliga,2024/2025,28/04/2025,18:00,Aalborg,Vejle,0,1,A
+Denmark,Superliga,2024/2025,02/05/2025,18:00,Randers FC,Nordsjaelland,3,2,H
+Denmark,Superliga,2024/2025,04/05/2025,13:00,Lyngby,Viborg,0,0,D
+Denmark,Superliga,2024/2025,04/05/2025,13:00,Silkeborg,Vejle,1,1,D
+Denmark,Superliga,2024/2025,04/05/2025,15:00,Brondby,FC Copenhagen,0,3,A
+Denmark,Superliga,2024/2025,04/05/2025,17:00,Midtjylland,Aarhus,3,1,H
+Denmark,Superliga,2024/2025,05/05/2025,18:00,Sonderjyske,Aalborg,2,2,D
+Denmark,Superliga,2024/2025,11/05/2025,13:00,Nordsjaelland,Brondby,2,2,D
+Denmark,Superliga,2024/2025,11/05/2025,13:00,Silkeborg,Sonderjyske,1,0,H
+Denmark,Superliga,2024/2025,11/05/2025,15:00,Aarhus,Randers FC,1,3,A
+Denmark,Superliga,2024/2025,11/05/2025,17:00,Viborg,Aalborg,3,1,H
+Denmark,Superliga,2024/2025,11/05/2025,19:00,FC Copenhagen,Midtjylland,1,1,D
+Denmark,Superliga,2024/2025,12/05/2025,18:00,Vejle,Lyngby,2,0,H
+Denmark,Superliga,2024/2025,16/05/2025,18:00,Nordsjaelland,Aarhus,2,0,H
+Denmark,Superliga,2024/2025,18/05/2025,13:00,Aalborg,Silkeborg,2,3,A
+Denmark,Superliga,2024/2025,18/05/2025,13:00,Viborg,Vejle,0,1,A
+Denmark,Superliga,2024/2025,18/05/2025,15:00,Sonderjyske,Lyngby,5,1,H
+Denmark,Superliga,2024/2025,18/05/2025,17:00,Randers FC,FC Copenhagen,0,4,A
+Denmark,Superliga,2024/2025,19/05/2025,18:00,Brondby,Midtjylland,1,2,A
+Denmark,Superliga,2024/2025,24/05/2025,14:00,Lyngby,Aalborg,3,1,H
+Denmark,Superliga,2024/2025,24/05/2025,14:00,Silkeborg,Viborg,1,2,A
+Denmark,Superliga,2024/2025,24/05/2025,14:00,Vejle,Sonderjyske,2,3,A
+Denmark,Superliga,2024/2025,25/05/2025,16:00,Aarhus,Brondby,2,3,A
+Denmark,Superliga,2024/2025,25/05/2025,16:00,FC Copenhagen,Nordsjaelland,3,0,H
+Denmark,Superliga,2024/2025,25/05/2025,16:00,Midtjylland,Randers FC,3,2,H

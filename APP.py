@@ -73,11 +73,16 @@ from leagues.IRELAND import (
     plot_last_matches_goals_dual as plot_ireland,
     get_team_goal_averages as avg_ireland,
 )
+from leagues.DENMARK import (
+    load_denmark_model, get_last_n_h2h as h2h_ireland,
+    plot_last_matches_goals_dual as plot_ireland,
+    get_team_goal_averages as avg_ireland,
+)
 
 # Sidebar league selector
 # League selector and interaction tracker
 default_league = "Norway"
-league = st.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland"])
+league = st.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland", "Denmark"])
 st.session_state["league"] = league
 
 # Only log once per session or every 30 mins, and only after user interaction
@@ -124,6 +129,12 @@ elif league == "Ireland":
     get_h2h = h2h_ireland
     plot_goals = plot_ireland
     get_avg = avg_ireland
+
+if league == "Denmark":
+    goal_model, df, match_goal_model = load_denmark_model()
+    get_h2h = get_last_n_h2h
+    plot_goals = plot_last_matches_goals_dual
+    get_avg = get_team_goal_averages
 else:
     goal_model, df, match_goal_model = load_finland_model()
     get_h2h = h2h_finland
