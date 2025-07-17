@@ -48,35 +48,28 @@ st.set_page_config(
 st.image("header1.png", use_container_width=True)
 
 
-
-
-
 # Import from league modules
 from leagues.NORWAY import (
     load_norway_model, get_last_n_h2h, plot_last_matches_goals_dual,
     get_team_goal_averages,
 )
 from leagues.SWEDEN import (
-    load_sweden_model, get_last_n_h2h as h2h_sweden,
-    plot_last_matches_goals_dual as plot_sweden,
-    get_team_goal_averages as avg_sweden,
+    load_sweden_model, get_last_n_h2h,
+    plot_last_matches_goals_dual, get_team_goal_averages
 
 )
 from leagues.FINLAND import (
-    load_finland_model, get_last_n_h2h as h2h_finland,
-    plot_last_matches_goals_dual as plot_finland,
-    get_team_goal_averages as avg_finland,
+    load_finland_model, get_last_n_h2h,
+    plot_last_matches_goals_dual, get_team_goal_averages,
 
 )
 from leagues.IRELAND import (
-    load_ireland_model, get_last_n_h2h as h2h_ireland,
-    plot_last_matches_goals_dual as plot_ireland,
-    get_team_goal_averages as avg_ireland,
+    load_ireland_model, get_last_n_h2h,
+    plot_last_matches_goals_dual, get_team_goal_averages,
 )
 from leagues.DENMARK import (
-    load_denmark_model, get_last_n_h2h as h2h_ireland,
-    plot_last_matches_goals_dual as plot_ireland,
-    get_team_goal_averages as avg_ireland,
+    load_denmark_model, get_last_n_h2h,
+    plot_last_matches_goals_dual, get_team_goal_averages,
 )
 
 # Sidebar league selector
@@ -118,28 +111,29 @@ if league == "Norway":
     get_h2h = get_last_n_h2h
     plot_goals = plot_last_matches_goals_dual
     get_avg = get_team_goal_averages
+
 elif league == "Sweden":
     goal_model, df, match_goal_model = load_sweden_model()
-    get_h2h = h2h_sweden
-    plot_goals = plot_sweden
-    get_avg = avg_sweden
+    get_h2h = get_last_n_h2h
+    plot_goals = plot_last_matches_goals_dual
+    get_avg = get_team_goal_averages
 
 elif league == "Ireland":
     goal_model, df, match_goal_model = load_ireland_model()
-    get_h2h = h2h_ireland
-    plot_goals = plot_ireland
-    get_avg = avg_ireland
+    get_h2h = get_last_n_h2h
+    plot_goals = plot_last_matches_goals_dual
+    get_avg = get_team_goal_averages
 
-if league == "Denmark":
+elif league == "Denmark":
     goal_model, df, match_goal_model = load_denmark_model()
     get_h2h = get_last_n_h2h
     plot_goals = plot_last_matches_goals_dual
     get_avg = get_team_goal_averages
 else:
     goal_model, df, match_goal_model = load_finland_model()
-    get_h2h = h2h_finland
-    plot_goals = plot_finland
-    get_avg = avg_finland
+    get_h2h = get_last_n_h2h
+    plot_goals = plot_last_matches_goals_dual
+    get_avg = get_team_goal_averages
 
 
 
