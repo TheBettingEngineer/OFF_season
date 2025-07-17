@@ -14,7 +14,7 @@ def load_denmark_model():
     pl_df["Home"] = pl_df["Home"].replace("Aalborg", "FC Fredericia")
     pl_df["Away"] = pl_df["Away"].replace("Aalborg", "FC Fredericia")
     pl_df["Home"] = pl_df["Home"].replace("Lyngby", "OB")
-    pl_df["Away"] = pl_df["Away"].replace("Lyngby", "JOB")
+    pl_df["Away"] = pl_df["Away"].replace("Lyngby", "OB")
 
     # Team categories
     def categorize_team(rating):
