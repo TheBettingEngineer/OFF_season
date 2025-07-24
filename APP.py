@@ -71,11 +71,14 @@ from leagues.DENMARK import (
     load_denmark_model, get_last_n_h2h,
     plot_last_matches_goals_dual, get_team_goal_averages,
 )
-
+from leagues.POLAND import (
+    load_poland_model, get_last_n_h2h,
+    plot_last_matches_goals_dual, get_team_goal_averages,
+)
 # Sidebar league selector
 # League selector and interaction tracker
 default_league = "Norway"
-league = st.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland", "Denmark"])
+league = st.selectbox("Select League", ["Norway", "Sweden", "Finland", "Ireland", "Denmark", "Poland"])
 st.session_state["league"] = league
 
 # Only log once per session or every 30 mins, and only after user interaction
@@ -129,6 +132,12 @@ elif league == "Denmark":
     get_h2h = get_last_n_h2h
     plot_goals = plot_last_matches_goals_dual
     get_avg = get_team_goal_averages
+
+elif league == "Poland":
+    goal_model, df, match_goal_model = load_poland_model()
+    get_h2h = get_last_n_h2h
+    plot_goals = plot_last_matches_goals_dual
+    get_avg = get_team_goal_averages
 else:
     goal_model, df, match_goal_model = load_finland_model()
     get_h2h = get_last_n_h2h
@@ -155,6 +164,8 @@ elif league == "Finland":
     st.warning( "⚠️ Info about promoted teams (KTP, Jaro) might be inaccurate")
 elif league == "Ireland":
     st.warning("⚠️ Info about promoted teams (Cork City) might be inaccurate")
+elif league == "Poland":
+    st.warning("⚠️ Info about promoted teams (Arka Gdynia, Wisla Plock, Termalica B-B. ) might be inaccurate")
 
 
 

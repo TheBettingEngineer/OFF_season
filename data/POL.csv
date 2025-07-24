@@ -1,0 +1,387 @@
+﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res
+Poland,Ekstraklasa,2023/2024,05/04/2024,17:00,Cracovia,LKS Lodz,2,2,D
+Poland,Ekstraklasa,2023/2024,05/04/2024,19:30,Radomiak Radom,Rakow,2,1,H
+Poland,Ekstraklasa,2023/2024,06/04/2024,14:00,Korona Kielce,Stal Mielec,1,0,H
+Poland,Ekstraklasa,2023/2024,06/04/2024,16:30,Ruch Chorzow,Puszcza,0,0,D
+Poland,Ekstraklasa,2023/2024,06/04/2024,19:00,Slask Wroclaw,Warta Poznan,2,1,H
+Poland,Ekstraklasa,2023/2024,07/04/2024,11:30,Widzew Lodz,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2023/2024,07/04/2024,14:00,Lech Poznan,Pogon Szczecin,1,0,H
+Poland,Ekstraklasa,2023/2024,07/04/2024,16:30,Legia,Jagiellonia,1,1,D
+Poland,Ekstraklasa,2023/2024,08/04/2024,18:00,Zaglebie,Gornik Zabrze,1,2,A
+Poland,Ekstraklasa,2023/2024,12/04/2024,17:00,Warta Poznan,Korona Kielce,1,0,H
+Poland,Ekstraklasa,2023/2024,12/04/2024,19:30,Pogon Szczecin,Ruch Chorzow,5,0,H
+Poland,Ekstraklasa,2023/2024,13/04/2024,14:00,Stal Mielec,Widzew Lodz,0,0,D
+Poland,Ekstraklasa,2023/2024,13/04/2024,16:30,Puszcza,Lech Poznan,2,1,H
+Poland,Ekstraklasa,2023/2024,13/04/2024,19:00,Rakow,Legia,1,1,D
+Poland,Ekstraklasa,2023/2024,14/04/2024,11:30,LKS Lodz,Radomiak Radom,3,2,H
+Poland,Ekstraklasa,2023/2024,14/04/2024,14:00,Jagiellonia,Cracovia,1,3,A
+Poland,Ekstraklasa,2023/2024,14/04/2024,16:30,Gornik Zabrze,Slask Wroclaw,2,0,H
+Poland,Ekstraklasa,2023/2024,15/04/2024,18:00,Piast Gliwice,Zaglebie,2,0,H
+Poland,Ekstraklasa,2023/2024,19/04/2024,17:00,Korona Kielce,Radomiak Radom,4,0,H
+Poland,Ekstraklasa,2023/2024,19/04/2024,19:30,Rakow,Gornik Zabrze,0,1,A
+Poland,Ekstraklasa,2023/2024,20/04/2024,14:00,Pogon Szczecin,Piast Gliwice,0,2,A
+Poland,Ekstraklasa,2023/2024,20/04/2024,16:30,Ruch Chorzow,Widzew Lodz,2,3,A
+Poland,Ekstraklasa,2023/2024,20/04/2024,19:00,Zaglebie,Jagiellonia,1,2,A
+Poland,Ekstraklasa,2023/2024,21/04/2024,11:30,Cracovia,Puszcza,0,1,A
+Poland,Ekstraklasa,2023/2024,21/04/2024,14:00,LKS Lodz,Lech Poznan,2,3,A
+Poland,Ekstraklasa,2023/2024,21/04/2024,16:30,Legia,Slask Wroclaw,0,0,D
+Poland,Ekstraklasa,2023/2024,22/04/2024,18:00,Warta Poznan,Stal Mielec,5,2,H
+Poland,Ekstraklasa,2023/2024,26/04/2024,17:00,Piast Gliwice,Warta Poznan,2,0,H
+Poland,Ekstraklasa,2023/2024,26/04/2024,19:30,Jagiellonia,Pogon Szczecin,2,2,D
+Poland,Ekstraklasa,2023/2024,27/04/2024,14:00,Gornik Zabrze,LKS Lodz,4,1,H
+Poland,Ekstraklasa,2023/2024,27/04/2024,16:30,Slask Wroclaw,Ruch Chorzow,2,3,A
+Poland,Ekstraklasa,2023/2024,27/04/2024,19:00,Widzew Lodz,Rakow,0,1,A
+Poland,Ekstraklasa,2023/2024,28/04/2024,11:30,Radomiak Radom,Zaglebie,3,4,A
+Poland,Ekstraklasa,2023/2024,28/04/2024,14:00,Stal Mielec,Legia,1,3,A
+Poland,Ekstraklasa,2023/2024,28/04/2024,16:30,Lech Poznan,Cracovia,0,0,D
+Poland,Ekstraklasa,2023/2024,29/04/2024,18:00,Puszcza,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2023/2024,03/05/2024,17:00,Cracovia,Gornik Zabrze,5,0,H
+Poland,Ekstraklasa,2023/2024,03/05/2024,19:30,Ruch Chorzow,Lech Poznan,2,1,H
+Poland,Ekstraklasa,2023/2024,04/05/2024,14:00,LKS Lodz,Slask Wroclaw,1,2,A
+Poland,Ekstraklasa,2023/2024,04/05/2024,16:30,Zaglebie,Rakow,2,0,H
+Poland,Ekstraklasa,2023/2024,04/05/2024,19:00,Stal Mielec,Jagiellonia,3,2,H
+Poland,Ekstraklasa,2023/2024,05/05/2024,11:30,Warta Poznan,Widzew Lodz,2,1,H
+Poland,Ekstraklasa,2023/2024,05/05/2024,14:00,Korona Kielce,Piast Gliwice,1,1,D
+Poland,Ekstraklasa,2023/2024,05/05/2024,16:30,Legia,Radomiak Radom,0,3,A
+Poland,Ekstraklasa,2023/2024,06/05/2024,18:00,Pogon Szczecin,Puszcza,1,0,H
+Poland,Ekstraklasa,2023/2024,10/05/2024,17:00,Piast Gliwice,LKS Lodz,4,0,H
+Poland,Ekstraklasa,2023/2024,10/05/2024,19:30,Slask Wroclaw,Cracovia,4,0,H
+Poland,Ekstraklasa,2023/2024,11/05/2024,14:00,Gornik Zabrze,Stal Mielec,1,1,D
+Poland,Ekstraklasa,2023/2024,11/05/2024,16:30,Jagiellonia,Korona Kielce,3,0,H
+Poland,Ekstraklasa,2023/2024,11/05/2024,19:00,Rakow,Pogon Szczecin,2,1,H
+Poland,Ekstraklasa,2023/2024,12/05/2024,11:30,Puszcza,Warta Poznan,1,0,H
+Poland,Ekstraklasa,2023/2024,12/05/2024,14:00,Widzew Lodz,Zaglebie,1,3,A
+Poland,Ekstraklasa,2023/2024,12/05/2024,16:30,Lech Poznan,Legia,1,2,A
+Poland,Ekstraklasa,2023/2024,13/05/2024,18:00,Radomiak Radom,Ruch Chorzow,0,2,A
+Poland,Ekstraklasa,2023/2024,17/05/2024,17:00,Stal Mielec,Pogon Szczecin,0,0,D
+Poland,Ekstraklasa,2023/2024,17/05/2024,19:30,Gornik Zabrze,Puszcza,1,1,D
+Poland,Ekstraklasa,2023/2024,18/05/2024,14:00,Korona Kielce,Ruch Chorzow,2,0,H
+Poland,Ekstraklasa,2023/2024,18/05/2024,16:30,Slask Wroclaw,Radomiak Radom,2,0,H
+Poland,Ekstraklasa,2023/2024,18/05/2024,19:00,Piast Gliwice,Jagiellonia,1,1,D
+Poland,Ekstraklasa,2023/2024,19/05/2024,11:30,Cracovia,Rakow,2,0,H
+Poland,Ekstraklasa,2023/2024,19/05/2024,14:00,Warta Poznan,Legia,0,1,A
+Poland,Ekstraklasa,2023/2024,19/05/2024,16:30,Widzew Lodz,Lech Poznan,1,1,D
+Poland,Ekstraklasa,2023/2024,20/05/2024,18:00,Zaglebie,LKS Lodz,2,1,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Jagiellonia,Warta Poznan,3,0,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Lech Poznan,Korona Kielce,1,2,A
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Legia,Zaglebie,2,1,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,LKS Lodz,Stal Mielec,3,2,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Pogon Szczecin,Gornik Zabrze,1,0,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Puszcza,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Radomiak Radom,Widzew Lodz,1,3,A
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Rakow,Slask Wroclaw,1,2,A
+Poland,Ekstraklasa,2023/2024,25/05/2024,16:30,Ruch Chorzow,Cracovia,2,0,H
+Poland,Ekstraklasa,2024/2025,19/07/2024,17:00,Jagiellonia,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,19/07/2024,19:30,Slask Wroclaw,Lechia Gdansk,1,1,D
+Poland,Ekstraklasa,2024/2025,20/07/2024,13:45,GKS Katowice,Radomiak Radom,1,2,A
+Poland,Ekstraklasa,2024/2025,20/07/2024,16:30,Pogon Szczecin,Korona Kielce,3,0,H
+Poland,Ekstraklasa,2024/2025,20/07/2024,19:15,Legia,Zaglebie,2,0,H
+Poland,Ekstraklasa,2024/2025,21/07/2024,13:45,Cracovia,Piast Gliwice,1,1,D
+Poland,Ekstraklasa,2024/2025,21/07/2024,16:30,Lech Poznan,Gornik Zabrze,2,0,H
+Poland,Ekstraklasa,2024/2025,21/07/2024,19:15,Motor Lublin,Rakow,0,2,A
+Poland,Ekstraklasa,2024/2025,22/07/2024,18:00,Stal Mielec,Widzew Lodz,1,1,D
+Poland,Ekstraklasa,2024/2025,26/07/2024,17:00,Puszcza,Gornik Zabrze,2,2,D
+Poland,Ekstraklasa,2024/2025,26/07/2024,19:30,Lechia Gdansk,Motor Lublin,0,2,A
+Poland,Ekstraklasa,2024/2025,27/07/2024,13:45,Stal Mielec,GKS Katowice,0,1,A
+Poland,Ekstraklasa,2024/2025,27/07/2024,16:30,Radomiak Radom,Jagiellonia,2,3,A
+Poland,Ekstraklasa,2024/2025,27/07/2024,19:15,Widzew Lodz,Lech Poznan,2,1,H
+Poland,Ekstraklasa,2024/2025,28/07/2024,13:45,Zaglebie,Pogon Szczecin,2,2,D
+Poland,Ekstraklasa,2024/2025,28/07/2024,16:30,Piast Gliwice,Slask Wroclaw,2,0,H
+Poland,Ekstraklasa,2024/2025,28/07/2024,19:15,Korona Kielce,Legia,0,1,A
+Poland,Ekstraklasa,2024/2025,29/07/2024,18:00,Rakow,Cracovia,0,1,A
+Poland,Ekstraklasa,2024/2025,02/08/2024,17:00,Zaglebie,Puszcza,1,0,H
+Poland,Ekstraklasa,2024/2025,02/08/2024,19:30,Gornik Zabrze,Pogon Szczecin,1,0,H
+Poland,Ekstraklasa,2024/2025,03/08/2024,13:45,GKS Katowice,Rakow,0,1,A
+Poland,Ekstraklasa,2024/2025,03/08/2024,16:30,Jagiellonia,Stal Mielec,2,0,H
+Poland,Ekstraklasa,2024/2025,03/08/2024,19:15,Lech Poznan,Lechia Gdansk,3,1,H
+Poland,Ekstraklasa,2024/2025,04/08/2024,13:45,Motor Lublin,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,04/08/2024,19:15,Legia,Piast Gliwice,1,2,A
+Poland,Ekstraklasa,2024/2025,05/08/2024,18:00,Cracovia,Widzew Lodz,1,3,A
+Poland,Ekstraklasa,2024/2025,09/08/2024,17:00,Radomiak Radom,Gornik Zabrze,1,2,A
+Poland,Ekstraklasa,2024/2025,09/08/2024,19:30,Rakow,Lech Poznan,0,0,D
+Poland,Ekstraklasa,2024/2025,10/08/2024,16:30,Korona Kielce,Cracovia,0,2,A
+Poland,Ekstraklasa,2024/2025,10/08/2024,19:15,Pogon Szczecin,Stal Mielec,1,0,H
+Poland,Ekstraklasa,2024/2025,11/08/2024,13:45,Lechia Gdansk,Zaglebie,1,1,D
+Poland,Ekstraklasa,2024/2025,11/08/2024,16:30,Puszcza,Legia,2,2,D
+Poland,Ekstraklasa,2024/2025,11/08/2024,19:15,Widzew Lodz,Slask Wroclaw,0,0,D
+Poland,Ekstraklasa,2024/2025,12/08/2024,18:00,Piast Gliwice,GKS Katowice,2,2,D
+Poland,Ekstraklasa,2024/2025,16/08/2024,17:00,Puszcza,Lechia Gdansk,4,1,H
+Poland,Ekstraklasa,2024/2025,16/08/2024,19:30,GKS Katowice,Motor Lublin,0,0,D
+Poland,Ekstraklasa,2024/2025,17/08/2024,13:45,Jagiellonia,Cracovia,2,4,A
+Poland,Ekstraklasa,2024/2025,17/08/2024,16:30,Zaglebie,Lech Poznan,0,1,A
+Poland,Ekstraklasa,2024/2025,17/08/2024,19:15,Pogon Szczecin,Widzew Lodz,2,0,H
+Poland,Ekstraklasa,2024/2025,18/08/2024,13:45,Slask Wroclaw,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,18/08/2024,16:30,Legia,Radomiak Radom,4,1,H
+Poland,Ekstraklasa,2024/2025,18/08/2024,19:15,Gornik Zabrze,Rakow,0,0,D
+Poland,Ekstraklasa,2024/2025,19/08/2024,18:00,Stal Mielec,Piast Gliwice,2,0,H
+Poland,Ekstraklasa,2024/2025,23/08/2024,17:00,Widzew Lodz,Radomiak Radom,3,2,H
+Poland,Ekstraklasa,2024/2025,23/08/2024,19:30,Lechia Gdansk,Rakow,1,2,A
+Poland,Ekstraklasa,2024/2025,24/08/2024,13:45,Motor Lublin,Puszcza,0,0,D
+Poland,Ekstraklasa,2024/2025,24/08/2024,16:30,Cracovia,Gornik Zabrze,3,2,H
+Poland,Ekstraklasa,2024/2025,24/08/2024,19:15,Piast Gliwice,Zaglebie,1,0,H
+Poland,Ekstraklasa,2024/2025,25/08/2024,13:45,GKS Katowice,Jagiellonia,3,1,H
+Poland,Ekstraklasa,2024/2025,25/08/2024,16:30,Lech Poznan,Pogon Szczecin,2,0,H
+Poland,Ekstraklasa,2024/2025,25/08/2024,19:15,Slask Wroclaw,Legia,1,1,D
+Poland,Ekstraklasa,2024/2025,26/08/2024,18:00,Korona Kielce,Stal Mielec,2,1,H
+Poland,Ekstraklasa,2024/2025,30/08/2024,17:00,Rakow,Piast Gliwice,0,1,A
+Poland,Ekstraklasa,2024/2025,30/08/2024,19:30,Stal Mielec,Lech Poznan,0,2,A
+Poland,Ekstraklasa,2024/2025,31/08/2024,13:45,Puszcza,Korona Kielce,0,0,D
+Poland,Ekstraklasa,2024/2025,31/08/2024,16:30,Zaglebie,GKS Katowice,1,0,H
+Poland,Ekstraklasa,2024/2025,31/08/2024,19:15,Radomiak Radom,Cracovia,2,1,H
+Poland,Ekstraklasa,2024/2025,01/09/2024,11:15,Gornik Zabrze,Lechia Gdansk,2,3,A
+Poland,Ekstraklasa,2024/2025,01/09/2024,13:45,Legia,Motor Lublin,5,2,H
+Poland,Ekstraklasa,2024/2025,01/09/2024,16:30,Pogon Szczecin,Slask Wroclaw,5,3,H
+Poland,Ekstraklasa,2024/2025,01/09/2024,19:15,Jagiellonia,Widzew Lodz,1,0,H
+Poland,Ekstraklasa,2024/2025,13/09/2024,17:00,Motor Lublin,Gornik Zabrze,1,0,H
+Poland,Ekstraklasa,2024/2025,13/09/2024,19:30,GKS Katowice,Widzew Lodz,2,2,D
+Poland,Ekstraklasa,2024/2025,14/09/2024,13:45,Lechia Gdansk,Radomiak Radom,1,0,H
+Poland,Ekstraklasa,2024/2025,14/09/2024,16:30,Cracovia,Pogon Szczecin,2,1,H
+Poland,Ekstraklasa,2024/2025,14/09/2024,19:15,Lech Poznan,Jagiellonia,5,0,H
+Poland,Ekstraklasa,2024/2025,15/09/2024,11:15,Piast Gliwice,Puszcza,1,1,D
+Poland,Ekstraklasa,2024/2025,15/09/2024,13:45,Korona Kielce,Zaglebie,2,0,H
+Poland,Ekstraklasa,2024/2025,15/09/2024,16:30,Legia,Rakow,0,1,A
+Poland,Ekstraklasa,2024/2025,20/09/2024,17:00,Radomiak Radom,Korona Kielce,4,0,H
+Poland,Ekstraklasa,2024/2025,20/09/2024,19:30,Pogon Szczecin,Legia,1,0,H
+Poland,Ekstraklasa,2024/2025,21/09/2024,11:15,Puszcza,Cracovia,1,2,A
+Poland,Ekstraklasa,2024/2025,21/09/2024,13:45,Jagiellonia,Lechia Gdansk,3,2,H
+Poland,Ekstraklasa,2024/2025,21/09/2024,16:30,Widzew Lodz,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2024/2025,21/09/2024,19:15,Gornik Zabrze,GKS Katowice,3,0,H
+Poland,Ekstraklasa,2024/2025,22/09/2024,11:15,Stal Mielec,Motor Lublin,1,0,H
+Poland,Ekstraklasa,2024/2025,22/09/2024,13:45,Rakow,Zaglebie,5,1,H
+Poland,Ekstraklasa,2024/2025,22/09/2024,16:30,Lech Poznan,Slask Wroclaw,1,0,H
+Poland,Ekstraklasa,2024/2025,25/09/2024,18:00,Motor Lublin,Jagiellonia,0,2,A
+Poland,Ekstraklasa,2024/2025,27/09/2024,17:00,GKS Katowice,Pogon Szczecin,3,1,H
+Poland,Ekstraklasa,2024/2025,27/09/2024,19:30,Lechia Gdansk,Widzew Lodz,1,1,D
+Poland,Ekstraklasa,2024/2025,28/09/2024,13:45,Rakow,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,28/09/2024,16:30,Motor Lublin,Slask Wroclaw,2,1,H
+Poland,Ekstraklasa,2024/2025,28/09/2024,19:15,Legia,Gornik Zabrze,1,1,D
+Poland,Ekstraklasa,2024/2025,29/09/2024,11:15,Zaglebie,Radomiak Radom,1,0,H
+Poland,Ekstraklasa,2024/2025,29/09/2024,13:45,Korona Kielce,Lech Poznan,2,3,A
+Poland,Ekstraklasa,2024/2025,29/09/2024,16:30,Piast Gliwice,Jagiellonia,0,1,A
+Poland,Ekstraklasa,2024/2025,30/09/2024,18:00,Cracovia,Stal Mielec,1,1,D
+Poland,Ekstraklasa,2024/2025,04/10/2024,17:00,Puszcza,GKS Katowice,0,6,A
+Poland,Ekstraklasa,2024/2025,04/10/2024,19:30,Widzew Lodz,Korona Kielce,0,1,A
+Poland,Ekstraklasa,2024/2025,05/10/2024,11:15,Stal Mielec,Lechia Gdansk,2,1,H
+Poland,Ekstraklasa,2024/2025,05/10/2024,13:45,Radomiak Radom,Rakow,0,2,A
+Poland,Ekstraklasa,2024/2025,05/10/2024,16:30,Gornik Zabrze,Zaglebie,0,1,A
+Poland,Ekstraklasa,2024/2025,05/10/2024,19:15,Lech Poznan,Motor Lublin,1,2,A
+Poland,Ekstraklasa,2024/2025,06/10/2024,13:45,Slask Wroclaw,Cracovia,2,4,A
+Poland,Ekstraklasa,2024/2025,06/10/2024,16:30,Pogon Szczecin,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2024/2025,06/10/2024,19:15,Jagiellonia,Legia,1,1,D
+Poland,Ekstraklasa,2024/2025,18/10/2024,17:00,Korona Kielce,Piast Gliwice,0,2,A
+Poland,Ekstraklasa,2024/2025,18/10/2024,19:30,Lechia Gdansk,Legia,0,2,A
+Poland,Ekstraklasa,2024/2025,19/10/2024,13:45,Motor Lublin,Widzew Lodz,3,4,A
+Poland,Ekstraklasa,2024/2025,19/10/2024,16:30,Zaglebie,Jagiellonia,1,3,A
+Poland,Ekstraklasa,2024/2025,19/10/2024,19:15,Cracovia,Lech Poznan,0,2,A
+Poland,Ekstraklasa,2024/2025,20/10/2024,11:15,GKS Katowice,Slask Wroclaw,0,0,D
+Poland,Ekstraklasa,2024/2025,20/10/2024,13:45,Gornik Zabrze,Stal Mielec,3,1,H
+Poland,Ekstraklasa,2024/2025,20/10/2024,16:30,Rakow,Pogon Szczecin,1,0,H
+Poland,Ekstraklasa,2024/2025,21/10/2024,18:00,Radomiak Radom,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,23/10/2024,17:30,Slask Wroclaw,Stal Mielec,2,1,H
+Poland,Ekstraklasa,2024/2025,25/10/2024,17:00,Piast Gliwice,Lechia Gdansk,3,3,D
+Poland,Ekstraklasa,2024/2025,25/10/2024,19:30,Pogon Szczecin,Puszcza,2,1,H
+Poland,Ekstraklasa,2024/2025,26/10/2024,13:45,Cracovia,Motor Lublin,6,2,H
+Poland,Ekstraklasa,2024/2025,26/10/2024,16:30,Slask Wroclaw,Rakow,0,0,D
+Poland,Ekstraklasa,2024/2025,26/10/2024,19:15,Lech Poznan,Radomiak Radom,2,1,H
+Poland,Ekstraklasa,2024/2025,27/10/2024,11:15,Stal Mielec,Zaglebie,2,2,D
+Poland,Ekstraklasa,2024/2025,27/10/2024,13:45,Jagiellonia,Korona Kielce,3,1,H
+Poland,Ekstraklasa,2024/2025,27/10/2024,16:30,Widzew Lodz,Gornik Zabrze,0,2,A
+Poland,Ekstraklasa,2024/2025,27/10/2024,19:15,Legia,GKS Katowice,4,1,H
+Poland,Ekstraklasa,2024/2025,02/11/2024,13:45,Rakow,Stal Mielec,1,0,H
+Poland,Ekstraklasa,2024/2025,02/11/2024,16:30,Motor Lublin,Pogon Szczecin,4,2,H
+Poland,Ekstraklasa,2024/2025,02/11/2024,19:15,Puszcza,Lech Poznan,2,0,H
+Poland,Ekstraklasa,2024/2025,03/11/2024,11:15,Radomiak Radom,Piast Gliwice,1,1,D
+Poland,Ekstraklasa,2024/2025,03/11/2024,13:45,Gornik Zabrze,Jagiellonia,0,2,A
+Poland,Ekstraklasa,2024/2025,03/11/2024,16:30,Lechia Gdansk,Cracovia,1,2,A
+Poland,Ekstraklasa,2024/2025,03/11/2024,19:15,Legia,Widzew Lodz,2,1,H
+Poland,Ekstraklasa,2024/2025,04/11/2024,17:00,GKS Katowice,Korona Kielce,1,2,A
+Poland,Ekstraklasa,2024/2025,04/11/2024,19:30,Zaglebie,Slask Wroclaw,3,0,H
+Poland,Ekstraklasa,2024/2025,08/11/2024,17:00,Piast Gliwice,Motor Lublin,2,3,A
+Poland,Ekstraklasa,2024/2025,08/11/2024,19:30,Pogon Szczecin,Radomiak Radom,0,1,A
+Poland,Ekstraklasa,2024/2025,09/11/2024,11:15,Korona Kielce,Lechia Gdansk,0,0,D
+Poland,Ekstraklasa,2024/2025,09/11/2024,13:45,Cracovia,GKS Katowice,3,4,A
+Poland,Ekstraklasa,2024/2025,09/11/2024,16:30,Widzew Lodz,Zaglebie,2,0,H
+Poland,Ekstraklasa,2024/2025,09/11/2024,19:15,Slask Wroclaw,Gornik Zabrze,0,1,A
+Poland,Ekstraklasa,2024/2025,10/11/2024,11:15,Stal Mielec,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,10/11/2024,13:45,Jagiellonia,Rakow,2,2,D
+Poland,Ekstraklasa,2024/2025,10/11/2024,16:30,Lech Poznan,Legia,5,2,H
+Poland,Ekstraklasa,2024/2025,22/11/2024,17:00,Zaglebie,Motor Lublin,1,2,A
+Poland,Ekstraklasa,2024/2025,22/11/2024,19:30,Jagiellonia,Slask Wroclaw,2,2,D
+Poland,Ekstraklasa,2024/2025,23/11/2024,13:45,Lechia Gdansk,Pogon Szczecin,0,3,A
+Poland,Ekstraklasa,2024/2025,23/11/2024,16:30,Lech Poznan,GKS Katowice,2,0,H
+Poland,Ekstraklasa,2024/2025,23/11/2024,19:15,Legia,Cracovia,3,2,H
+Poland,Ekstraklasa,2024/2025,24/11/2024,11:15,Radomiak Radom,Stal Mielec,1,2,A
+Poland,Ekstraklasa,2024/2025,24/11/2024,13:45,Rakow,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,24/11/2024,16:30,Gornik Zabrze,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2024/2025,25/11/2024,18:00,Puszcza,Widzew Lodz,2,0,H
+Poland,Ekstraklasa,2024/2025,29/11/2024,17:00,Cracovia,Zaglebie,1,1,D
+Poland,Ekstraklasa,2024/2025,29/11/2024,19:30,Piast Gliwice,Lech Poznan,0,0,D
+Poland,Ekstraklasa,2024/2025,30/11/2024,13:45,Slask Wroclaw,Puszcza,0,1,A
+Poland,Ekstraklasa,2024/2025,30/11/2024,16:30,GKS Katowice,Lechia Gdansk,2,0,H
+Poland,Ekstraklasa,2024/2025,30/11/2024,19:15,Widzew Lodz,Rakow,2,3,A
+Poland,Ekstraklasa,2024/2025,01/12/2024,11:15,Korona Kielce,Gornik Zabrze,2,4,A
+Poland,Ekstraklasa,2024/2025,01/12/2024,13:45,Pogon Szczecin,Jagiellonia,1,1,D
+Poland,Ekstraklasa,2024/2025,01/12/2024,16:30,Stal Mielec,Legia,2,2,D
+Poland,Ekstraklasa,2024/2025,02/12/2024,18:00,Motor Lublin,Radomiak Radom,1,0,H
+Poland,Ekstraklasa,2024/2025,06/12/2024,17:00,Radomiak Radom,GKS Katowice,1,1,D
+Poland,Ekstraklasa,2024/2025,06/12/2024,19:30,Gornik Zabrze,Lech Poznan,2,1,H
+Poland,Ekstraklasa,2024/2025,07/12/2024,13:45,Lechia Gdansk,Slask Wroclaw,1,0,H
+Poland,Ekstraklasa,2024/2025,07/12/2024,16:30,Widzew Lodz,Stal Mielec,2,1,H
+Poland,Ekstraklasa,2024/2025,07/12/2024,19:15,Rakow,Motor Lublin,2,2,D
+Poland,Ekstraklasa,2024/2025,08/12/2024,11:15,Piast Gliwice,Cracovia,0,0,D
+Poland,Ekstraklasa,2024/2025,08/12/2024,13:45,Puszcza,Jagiellonia,1,1,D
+Poland,Ekstraklasa,2024/2025,08/12/2024,16:30,Zaglebie,Legia,0,3,A
+Poland,Ekstraklasa,2024/2025,09/12/2024,18:00,Korona Kielce,Pogon Szczecin,0,0,D
+Poland,Ekstraklasa,2024/2025,14/12/2024,16:30,Slask Wroclaw,Radomiak Radom,1,2,A
+Poland,Ekstraklasa,2024/2025,31/01/2025,17:00,GKS Katowice,Stal Mielec,1,0,H
+Poland,Ekstraklasa,2024/2025,31/01/2025,19:30,Lech Poznan,Widzew Lodz,4,1,H
+Poland,Ekstraklasa,2024/2025,01/02/2025,13:45,Motor Lublin,Lechia Gdansk,1,1,D
+Poland,Ekstraklasa,2024/2025,01/02/2025,16:30,Cracovia,Rakow,0,0,D
+Poland,Ekstraklasa,2024/2025,01/02/2025,19:15,Pogon Szczecin,Zaglebie,1,0,H
+Poland,Ekstraklasa,2024/2025,02/02/2025,11:15,Gornik Zabrze,Puszcza,1,1,D
+Poland,Ekstraklasa,2024/2025,02/02/2025,13:45,Jagiellonia,Radomiak Radom,5,0,H
+Poland,Ekstraklasa,2024/2025,02/02/2025,16:30,Legia,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,03/02/2025,18:00,Slask Wroclaw,Piast Gliwice,1,3,A
+Poland,Ekstraklasa,2024/2025,07/02/2025,17:00,Stal Mielec,Jagiellonia,2,1,H
+Poland,Ekstraklasa,2024/2025,07/02/2025,19:30,Pogon Szczecin,Gornik Zabrze,3,0,H
+Poland,Ekstraklasa,2024/2025,08/02/2025,13:45,Radomiak Radom,Slask Wroclaw,1,1,D
+Poland,Ekstraklasa,2024/2025,08/02/2025,16:30,Rakow,GKS Katowice,1,2,A
+Poland,Ekstraklasa,2024/2025,08/02/2025,19:15,Piast Gliwice,Legia,1,0,H
+Poland,Ekstraklasa,2024/2025,09/02/2025,11:15,Korona Kielce,Motor Lublin,1,0,H
+Poland,Ekstraklasa,2024/2025,09/02/2025,13:45,Widzew Lodz,Cracovia,1,1,D
+Poland,Ekstraklasa,2024/2025,09/02/2025,16:30,Lechia Gdansk,Lech Poznan,1,0,H
+Poland,Ekstraklasa,2024/2025,10/02/2025,18:00,Puszcza,Zaglebie,1,2,A
+Poland,Ekstraklasa,2024/2025,14/02/2025,17:00,Cracovia,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,14/02/2025,19:30,Lech Poznan,Rakow,0,1,A
+Poland,Ekstraklasa,2024/2025,15/02/2025,13:45,Slask Wroclaw,Widzew Lodz,3,0,H
+Poland,Ekstraklasa,2024/2025,15/02/2025,16:30,Gornik Zabrze,Radomiak Radom,3,2,H
+Poland,Ekstraklasa,2024/2025,15/02/2025,19:15,Legia,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,16/02/2025,11:15,Stal Mielec,Pogon Szczecin,1,2,A
+Poland,Ekstraklasa,2024/2025,16/02/2025,13:45,GKS Katowice,Piast Gliwice,0,0,D
+Poland,Ekstraklasa,2024/2025,16/02/2025,16:30,Jagiellonia,Motor Lublin,3,0,H
+Poland,Ekstraklasa,2024/2025,17/02/2025,18:00,Zaglebie,Lechia Gdansk,1,3,A
+Poland,Ekstraklasa,2024/2025,21/02/2025,17:00,Piast Gliwice,Stal Mielec,2,2,D
+Poland,Ekstraklasa,2024/2025,21/02/2025,19:30,Rakow,Gornik Zabrze,1,0,H
+Poland,Ekstraklasa,2024/2025,22/02/2025,13:45,Korona Kielce,Slask Wroclaw,2,0,H
+Poland,Ekstraklasa,2024/2025,22/02/2025,16:30,Widzew Lodz,Pogon Szczecin,0,4,A
+Poland,Ekstraklasa,2024/2025,22/02/2025,19:15,Radomiak Radom,Legia,3,1,H
+Poland,Ekstraklasa,2024/2025,23/02/2025,11:15,Lechia Gdansk,Puszcza,0,2,A
+Poland,Ekstraklasa,2024/2025,23/02/2025,13:45,Cracovia,Jagiellonia,2,2,D
+Poland,Ekstraklasa,2024/2025,23/02/2025,16:30,Lech Poznan,Zaglebie,3,1,H
+Poland,Ekstraklasa,2024/2025,24/02/2025,18:00,Motor Lublin,GKS Katowice,3,2,H
+Poland,Ekstraklasa,2024/2025,28/02/2025,17:00,Radomiak Radom,Widzew Lodz,1,1,D
+Poland,Ekstraklasa,2024/2025,28/02/2025,19:30,Gornik Zabrze,Cracovia,0,1,A
+Poland,Ekstraklasa,2024/2025,01/03/2025,13:45,Stal Mielec,Korona Kielce,0,1,A
+Poland,Ekstraklasa,2024/2025,01/03/2025,16:30,Pogon Szczecin,Lech Poznan,0,3,A
+Poland,Ekstraklasa,2024/2025,01/03/2025,19:15,Zaglebie,Piast Gliwice,0,1,A
+Poland,Ekstraklasa,2024/2025,02/03/2025,11:15,Puszcza,Motor Lublin,0,1,A
+Poland,Ekstraklasa,2024/2025,02/03/2025,13:45,Legia,Slask Wroclaw,3,1,H
+Poland,Ekstraklasa,2024/2025,02/03/2025,16:30,Jagiellonia,GKS Katowice,1,0,H
+Poland,Ekstraklasa,2024/2025,03/03/2025,18:00,Rakow,Lechia Gdansk,3,1,H
+Poland,Ekstraklasa,2024/2025,07/03/2025,17:00,Korona Kielce,Puszcza,2,1,H
+Poland,Ekstraklasa,2024/2025,07/03/2025,19:30,Slask Wroclaw,Pogon Szczecin,1,1,D
+Poland,Ekstraklasa,2024/2025,08/03/2025,13:45,Cracovia,Radomiak Radom,1,2,A
+Poland,Ekstraklasa,2024/2025,08/03/2025,16:30,Piast Gliwice,Rakow,0,3,A
+Poland,Ekstraklasa,2024/2025,08/03/2025,19:15,Lech Poznan,Stal Mielec,3,1,H
+Poland,Ekstraklasa,2024/2025,09/03/2025,11:15,GKS Katowice,Zaglebie,1,0,H
+Poland,Ekstraklasa,2024/2025,09/03/2025,13:45,Lechia Gdansk,Gornik Zabrze,1,2,A
+Poland,Ekstraklasa,2024/2025,09/03/2025,16:30,Widzew Lodz,Jagiellonia,0,1,A
+Poland,Ekstraklasa,2024/2025,10/03/2025,18:00,Motor Lublin,Legia,3,3,D
+Poland,Ekstraklasa,2024/2025,14/03/2025,17:00,Radomiak Radom,Lechia Gdansk,2,1,H
+Poland,Ekstraklasa,2024/2025,14/03/2025,19:30,Pogon Szczecin,Cracovia,5,2,H
+Poland,Ekstraklasa,2024/2025,15/03/2025,13:45,Stal Mielec,Slask Wroclaw,1,4,A
+Poland,Ekstraklasa,2024/2025,15/03/2025,16:30,Gornik Zabrze,Motor Lublin,4,0,H
+Poland,Ekstraklasa,2024/2025,15/03/2025,19:15,Widzew Lodz,GKS Katowice,1,0,H
+Poland,Ekstraklasa,2024/2025,16/03/2025,11:15,Puszcza,Piast Gliwice,2,1,H
+Poland,Ekstraklasa,2024/2025,16/03/2025,13:45,Zaglebie,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,16/03/2025,16:30,Rakow,Legia,3,2,H
+Poland,Ekstraklasa,2024/2025,16/03/2025,19:15,Jagiellonia,Lech Poznan,2,1,H
+Poland,Ekstraklasa,2024/2025,28/03/2025,17:00,Piast Gliwice,Widzew Lodz,0,2,A
+Poland,Ekstraklasa,2024/2025,28/03/2025,19:30,Legia,Pogon Szczecin,0,0,D
+Poland,Ekstraklasa,2024/2025,29/03/2025,13:45,Cracovia,Puszcza,3,1,H
+Poland,Ekstraklasa,2024/2025,29/03/2025,16:30,Lechia Gdansk,Jagiellonia,1,0,H
+Poland,Ekstraklasa,2024/2025,29/03/2025,19:15,Slask Wroclaw,Lech Poznan,3,1,H
+Poland,Ekstraklasa,2024/2025,30/03/2025,11:15,Korona Kielce,Radomiak Radom,1,3,A
+Poland,Ekstraklasa,2024/2025,30/03/2025,13:45,Motor Lublin,Stal Mielec,4,1,H
+Poland,Ekstraklasa,2024/2025,30/03/2025,16:30,GKS Katowice,Gornik Zabrze,2,1,H
+Poland,Ekstraklasa,2024/2025,31/03/2025,18:00,Zaglebie,Rakow,0,2,A
+Poland,Ekstraklasa,2024/2025,04/04/2025,17:00,Stal Mielec,Cracovia,1,1,D
+Poland,Ekstraklasa,2024/2025,04/04/2025,19:30,Widzew Lodz,Lechia Gdansk,2,0,H
+Poland,Ekstraklasa,2024/2025,05/04/2025,13:45,Radomiak Radom,Zaglebie,0,1,A
+Poland,Ekstraklasa,2024/2025,05/04/2025,16:30,Slask Wroclaw,Motor Lublin,1,1,D
+Poland,Ekstraklasa,2024/2025,05/04/2025,19:15,Lech Poznan,Korona Kielce,2,0,H
+Poland,Ekstraklasa,2024/2025,06/04/2025,11:15,Jagiellonia,Piast Gliwice,1,1,D
+Poland,Ekstraklasa,2024/2025,06/04/2025,13:45,Gornik Zabrze,Legia,1,2,A
+Poland,Ekstraklasa,2024/2025,06/04/2025,16:30,Pogon Szczecin,GKS Katowice,4,0,H
+Poland,Ekstraklasa,2024/2025,07/04/2025,18:00,Puszcza,Rakow,1,1,D
+Poland,Ekstraklasa,2024/2025,11/04/2025,17:00,Zaglebie,Gornik Zabrze,2,1,H
+Poland,Ekstraklasa,2024/2025,11/04/2025,19:30,Korona Kielce,Widzew Lodz,2,1,H
+Poland,Ekstraklasa,2024/2025,12/04/2025,13:45,GKS Katowice,Puszcza,3,1,H
+Poland,Ekstraklasa,2024/2025,12/04/2025,16:30,Cracovia,Slask Wroclaw,2,4,A
+Poland,Ekstraklasa,2024/2025,12/04/2025,19:15,Rakow,Radomiak Radom,2,1,H
+Poland,Ekstraklasa,2024/2025,13/04/2025,13:45,Piast Gliwice,Pogon Szczecin,2,1,H
+Poland,Ekstraklasa,2024/2025,13/04/2025,16:30,Motor Lublin,Lech Poznan,1,2,A
+Poland,Ekstraklasa,2024/2025,13/04/2025,19:15,Legia,Jagiellonia,0,1,A
+Poland,Ekstraklasa,2024/2025,14/04/2025,18:00,Lechia Gdansk,Stal Mielec,3,2,H
+Poland,Ekstraklasa,2024/2025,19/04/2025,11:15,Piast Gliwice,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,19/04/2025,13:45,Slask Wroclaw,GKS Katowice,0,2,A
+Poland,Ekstraklasa,2024/2025,19/04/2025,16:30,Widzew Lodz,Motor Lublin,1,2,A
+Poland,Ekstraklasa,2024/2025,19/04/2025,19:15,Pogon Szczecin,Rakow,1,0,H
+Poland,Ekstraklasa,2024/2025,21/04/2025,11:15,Puszcza,Radomiak Radom,2,2,D
+Poland,Ekstraklasa,2024/2025,21/04/2025,13:45,Jagiellonia,Zaglebie,1,3,A
+Poland,Ekstraklasa,2024/2025,21/04/2025,16:30,Legia,Lechia Gdansk,2,1,H
+Poland,Ekstraklasa,2024/2025,21/04/2025,19:15,Lech Poznan,Cracovia,2,1,H
+Poland,Ekstraklasa,2024/2025,22/04/2025,18:00,Stal Mielec,Gornik Zabrze,0,0,D
+Poland,Ekstraklasa,2024/2025,25/04/2025,17:00,Puszcza,Pogon Szczecin,4,5,A
+Poland,Ekstraklasa,2024/2025,25/04/2025,19:30,Rakow,Slask Wroclaw,3,0,H
+Poland,Ekstraklasa,2024/2025,26/04/2025,13:45,Lechia Gdansk,Piast Gliwice,3,1,H
+Poland,Ekstraklasa,2024/2025,26/04/2025,16:30,Motor Lublin,Cracovia,0,1,A
+Poland,Ekstraklasa,2024/2025,26/04/2025,19:15,GKS Katowice,Legia,1,3,A
+Poland,Ekstraklasa,2024/2025,27/04/2025,11:15,Korona Kielce,Jagiellonia,3,1,H
+Poland,Ekstraklasa,2024/2025,27/04/2025,13:45,Gornik Zabrze,Widzew Lodz,0,0,D
+Poland,Ekstraklasa,2024/2025,27/04/2025,16:30,Radomiak Radom,Lech Poznan,2,2,D
+Poland,Ekstraklasa,2024/2025,28/04/2025,18:00,Zaglebie,Stal Mielec,2,2,D
+Poland,Ekstraklasa,2024/2025,03/05/2025,13:45,Stal Mielec,Rakow,0,2,A
+Poland,Ekstraklasa,2024/2025,03/05/2025,16:30,Slask Wroclaw,Zaglebie,3,1,H
+Poland,Ekstraklasa,2024/2025,03/05/2025,19:15,Lech Poznan,Puszcza,8,1,H
+Poland,Ekstraklasa,2024/2025,04/05/2025,11:15,Piast Gliwice,Radomiak Radom,0,0,D
+Poland,Ekstraklasa,2024/2025,04/05/2025,13:45,Cracovia,Lechia Gdansk,0,2,A
+Poland,Ekstraklasa,2024/2025,04/05/2025,16:30,Jagiellonia,Gornik Zabrze,1,1,D
+Poland,Ekstraklasa,2024/2025,05/05/2025,18:00,Korona Kielce,GKS Katowice,2,1,H
+Poland,Ekstraklasa,2024/2025,09/05/2025,17:00,Motor Lublin,Piast Gliwice,1,4,A
+Poland,Ekstraklasa,2024/2025,09/05/2025,19:30,Gornik Zabrze,Slask Wroclaw,2,0,H
+Poland,Ekstraklasa,2024/2025,10/05/2025,13:45,Radomiak Radom,Pogon Szczecin,2,0,H
+Poland,Ekstraklasa,2024/2025,10/05/2025,16:30,Zaglebie,Widzew Lodz,2,1,H
+Poland,Ekstraklasa,2024/2025,10/05/2025,19:15,Rakow,Jagiellonia,1,2,A
+Poland,Ekstraklasa,2024/2025,11/05/2025,11:15,Lechia Gdansk,Korona Kielce,3,2,H
+Poland,Ekstraklasa,2024/2025,11/05/2025,13:45,GKS Katowice,Cracovia,2,1,H
+Poland,Ekstraklasa,2024/2025,11/05/2025,16:30,Legia,Lech Poznan,0,1,A
+Poland,Ekstraklasa,2024/2025,12/05/2025,18:00,Puszcza,Stal Mielec,2,3,A
+Poland,Ekstraklasa,2024/2025,14/05/2025,19:30,Pogon Szczecin,Motor Lublin,3,0,H
+Poland,Ekstraklasa,2024/2025,15/05/2025,19:30,Widzew Lodz,Legia,0,2,A
+Poland,Ekstraklasa,2024/2025,16/05/2025,17:00,Stal Mielec,Radomiak Radom,2,2,D
+Poland,Ekstraklasa,2024/2025,16/05/2025,19:30,Slask Wroclaw,Jagiellonia,1,1,D
+Poland,Ekstraklasa,2024/2025,17/05/2025,13:45,Pogon Szczecin,Lechia Gdansk,3,3,D
+Poland,Ekstraklasa,2024/2025,17/05/2025,16:30,Piast Gliwice,Gornik Zabrze,2,0,H
+Poland,Ekstraklasa,2024/2025,17/05/2025,19:15,Korona Kielce,Rakow,1,1,D
+Poland,Ekstraklasa,2024/2025,18/05/2025,11:15,Motor Lublin,Zaglebie,1,0,H
+Poland,Ekstraklasa,2024/2025,18/05/2025,13:45,Cracovia,Legia,3,1,H
+Poland,Ekstraklasa,2024/2025,18/05/2025,16:30,GKS Katowice,Lech Poznan,2,2,D
+Poland,Ekstraklasa,2024/2025,19/05/2025,18:00,Widzew Lodz,Puszcza,2,0,H
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Gornik Zabrze,Korona Kielce,1,1,D
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Jagiellonia,Pogon Szczecin,1,1,D
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Lech Poznan,Piast Gliwice,1,0,H
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Lechia Gdansk,GKS Katowice,2,3,A
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Legia,Stal Mielec,2,2,D
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Puszcza,Slask Wroclaw,1,1,D
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Radomiak Radom,Motor Lublin,2,3,A
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Rakow,Widzew Lodz,2,1,H
+Poland,Ekstraklasa,2024/2025,24/05/2025,16:30,Zaglebie,Cracovia,1,2,A
+Poland,Ekstraklasa,2025/2026,18/07/2025,17:00,Jagiellonia,Termalica B-B.,0,4,A
+Poland,Ekstraklasa,2025/2026,18/07/2025,19:30,Lech Poznan,Cracovia,1,4,A
+Poland,Ekstraklasa,2025/2026,19/07/2025,13:45,Widzew Lodz,Zaglebie,1,0,H
+Poland,Ekstraklasa,2025/2026,19/07/2025,16:30,Wisla Plock,Korona Kielce,2,0,H
+Poland,Ekstraklasa,2025/2026,19/07/2025,19:15,GKS Katowice,Rakow,0,1,A
+Poland,Ekstraklasa,2025/2026,20/07/2025,13:45,Gornik Zabrze,Lechia Gdansk,2,1,H
+Poland,Ekstraklasa,2025/2026,20/07/2025,16:30,Motor Lublin,Arka Gdynia,1,0,H
+Poland,Ekstraklasa,2025/2026,20/07/2025,19:15,Radomiak Radom,Pogon Szczecin,5,1,H
