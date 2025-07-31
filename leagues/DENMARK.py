@@ -11,8 +11,8 @@ def load_denmark_model():
     elo_df = pd.read_csv("data/rating_DNK.csv")
 
     # Team replacements
-    pl_df["Home"] = pl_df["Home"].replace("Aalborg", "FC Fredericia")
-    pl_df["Away"] = pl_df["Away"].replace("Aalborg", "FC Fredericia")
+    pl_df["Home"] = pl_df["Home"].replace("Aalborg", "Fredericia")
+    pl_df["Away"] = pl_df["Away"].replace("Aalborg", "Fredericia")
     pl_df["Home"] = pl_df["Home"].replace("Lyngby", "OB")
     pl_df["Away"] = pl_df["Away"].replace("Lyngby", "OB")
 
